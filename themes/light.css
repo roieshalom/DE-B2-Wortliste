@@ -12,5 +12,5 @@
   --border-radius-sm: 6px;
   --shadow-sm: 0 4px 16px rgba(0,0,0,0.15);
   --card-border: 1px solid #ddd;
-
+  --font-family: 'Noto Sans', Arial, sans-serif;
 }

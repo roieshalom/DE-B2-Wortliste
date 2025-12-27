@@ -6,11 +6,12 @@
   --card-bg: oklch(100% 0.00011 271.152);
   --card-shadow: 4px 4px 0px 0px hsl(0 0% 0% / 1);
   --text-primary: oklch(0.6489 0.2370 26.9728);
-  --text-secondary: oklch(89.143% 0.0001 271.152);
+  --text-secondary: oklch(100% 0.00011 271.152);
   --accent: oklch(100% 0.00011 271.152);
   --border-radius: 0px;
   --border-radius-sm: 0px;
   --shadow-sm: 7px 7px 0px 0px hsl(0 0% 0% / 1);
   --card-border: 2px solid black;
   --button-radius: 0px;
+  --font-family: 'Geo', Courier, monospace;
 }

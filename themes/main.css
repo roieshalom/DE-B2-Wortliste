@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap');
+
+/* Generic defaults (overridden by theme files) */
+:root {
+  --background: #f5f5f5;
+  --foreground: #333;
+  --primary: #1e81b0;
+  --primary-hover: #166191;
+  --card-bg: #ffffff;
+  --card-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  --card-border: 1px solid transparent;
+  --text-primary: #1e81b0;
+  --text-secondary: #ffffff;
+  --accent: #ffe082;
+  --border-radius: 18px;
+  --border-radius-sm: 6px;
+  --shadow-sm: 0 4px 16px rgba(0,0,0,0.15);
+  --spacing-xs: 5px;
+  --spacing-sm: 12px;
+  --spacing-md: 24px;
+  --spacing-lg: 36px;
+  --font-family: 'Noto Sans', Arial, sans-serif;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+}
+
+/* Shared styles using variables */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--font-family);
+  background: var(--background);
+  margin: 0;
+  padding: 0;
+  color: var(--foreground);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.main-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 0.3em;
+  text-align: center;
+  margin-top: var(--spacing-lg);
+  margin-bottom: 0;
+  font-family: var(--font-family);
+  font-weight: var(--font-weight-bold);
+}
+
+/* Header */
+.header {
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
+
+.header h1 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #333;
+  margin: 0 0 15px 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.app-title {
+  font-size: 20px;
+  font-weight: 400;
+  color: #333;
+  text-align: left;
+  padding-top: 12px;
+  padding-bottom: 6px;
+  margin: 0;
+}
+
+.header-links {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.header-links a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.header-links a:hover {
+  text-decoration: underline;
+}
+
+#game-container {
+  margin-top: var(--spacing-lg);
+  margin-bottom: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Flip card */
+.flip-card-outer {
+  width: 340px;
+  max-width: 95vw;
+  margin: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 180px;
+  transition: min-height 0.3s;
+}
+
+/* Container only sets perspective, no border/shadow */
+.flip-card {
+  width: 100%;
+  position: relative;
+  min-height: 180px;
+  perspective: 1200px;
+}
+
+/* Faces: rotate and own border/shadow */
+.flip-card-inner {
+  width: 100%;
+  min-height: 180px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.8,1,.2,1);
+}
+
+/* When flipped, rotate the faces wrapper */
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+
+  border-radius: var(--border-radius);
+  border: var(--card-border, 1px solid transparent);
+  box-shadow: var(--card-shadow, var(--shadow-sm));
+  background: var(--card-bg);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4em;
+  padding: 32px 24px;
+  font-weight: var(--font-weight-normal);
+  font-family: var(--font-family);
+  box-sizing: border-box;
+  word-break: break-word;
+  min-height: 180px;
+  backface-visibility: hidden;
+  transition: background 0.3s;
+}
+
+.flip-card-front {
+  color: var(--text-primary);
+  background: var(--card-bg);
+  z-index: 2;
+}
+
+.flip-card-back {
+  background: var(--primary);
+  color: var(--text-secondary);
+  transform: rotateY(180deg);
+  z-index: 1;
+}
+
+.back-english {
+  font-size: 0.9em;
+  color: var(--accent);
+  background: rgba(255,255,255,0.07);
+  border-radius: var(--border-radius-sm);
+  margin-bottom: 12px;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-weight: var(--font-weight-normal);
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: var(--font-family);
+}
+
+.back-meaning {
+  font-size: 0.7em;
+  color: var(--text-secondary);
+  margin-bottom: 0;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: var(--font-family);
+  font-weight: var(--font-weight-normal);
+}
+
+#next-btn {
+  padding: 12px 40px;
+  font-size: 1.1em;
+  border-radius: var(--button-radius, 10px);
+  border: none;
+  background: var(--primary);
+  color: var(--text-secondary);
+  cursor: pointer;
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-lg);
+  display: block;
+  font-family: var(--font-family);
+  font-weight: var(--font-weight-normal);
+  transition: background 0.2s;
+}
+
+#next-btn:hover {
+  background: var(--primary-hover);
+}
+
+/* Theme switcher */
+.theme-switcher {
+  display: flex;
+  gap: 0.5rem;
+  margin: var(--spacing-lg) 0;
+  justify-content: center;
+}
+
+.theme-switcher button {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--primary);
+  background: var(--background);
+  color: var(--foreground);
+  cursor: pointer;
+  border-radius: var(--border-radius-sm);
+  font-family: var(--font-family);
+}
+
+/* Fixed gray bar for theme buttons */
+.theme-bar {
+  position: sticky;          /* or fixed if you want it always visible */
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  background: #e5e5e5;       /* independent of theme */
+  padding: 12px 20px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+/* Base style for theme buttons (not using theme vars) */
+.theme-btn {
+  min-width: 110px;
+  padding: 8px 16px;
+  font-family: 'Noto Sans', Arial, sans-serif;
+  font-size: 14px;
+  border-radius: 4px;
+  border: 2px solid #ccc;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+/* Default theme button look */
+.theme-btn-default {
+  border-color: #d33;
+  color: #d33;
+}
+
+/* Brutalist theme button look */
+.theme-btn-brutalist {
+  border-radius: 0;
+  border-color: #0056d6;
+  color: #0056d6;
+}
+
+/* Hover states */
+.theme-btn-default:hover {
+  background: #ffecec;
+}
+
+.theme-btn-brutalist:hover {
+  background: #e6f0ff;
+}

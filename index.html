@@ -1,163 +1,145 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-    <meta charset="UTF-8">
-    <title>B1-WortschatzÜbung</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Google Fonts Noto Sans -->
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet">
-    <!-- External CSS file -->
-    <link href="style.css" rel="stylesheet">
-    <style>
-        .header {
-            padding: 20px;
-            text-align: center;
-            max-width: 400px;
-            margin: auto;
-        }
-        .header h1 {
-            font-size: 18px;
-            font-weight: 400;
-            color: #333;
-            margin: 0 0 15px 0;
-            font-family: 'Noto Sans', sans-serif;
-        }
-        .app-title {
-            font-size: 20px;
-            font-weight: 400;
-            color: #333;
-            text-align: left;
-            padding-top: 12px;
-            padding-bottom: 6px;
-            margin: 0;
-        }
-        .header-links {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-        }
-        .header-links a {
-            color: #007bff;
-            text-decoration: none;
-            font-size: 1.1rem;
-            font-weight: 500;
-            font-family: 'Noto Sans', sans-serif;
-        }
-        .header-links a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>B1-WortschatzÜbung</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google Fonts Noto Sans -->
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="themes/main.css">
+  <link rel="stylesheet" href="themes/light.css">
+  <link rel="stylesheet" href="themes/brutalist.css">
 </head>
 <body>
-    <div class="header">
-        <h1 class="app-title">B1-WortschatzÜbung</h1>
-        <div class="header-links">
-            <a href="#statistiken">Statistiken</a>
-            <a href="#ueber">Über</a>
+    <div class="theme-bar">
+    <button class="theme-btn theme-btn-default" onclick="setTheme('light')">
+      default
+    </button>
+    <button class="theme-btn theme-btn-brutalist" onclick="setTheme('brutalist')">
+      brutalist
+    </button>
+  </div>
+  <div class="header">
+    <h1 class="app-title">B1-WortschatzÜbung</h1>
+    <div class="header-links">
+      <a href="#statistiken">Statistiken</a>
+      <a href="#ueber">Über</a>
+    </div>
+  </div>
+  
+  <div class="main-layout">
+    <div id="game-container"></div>
+    <button id="next-btn">Next</button>
+  </div>
+  
+  <script>
+    // Keys from JSON
+    const WORD_KEY = "Wortliste";
+    const MEANING_KEY = "Meaning";
+    const ENGLISH_KEY = "English";
+    let vocabData = [];
+    let currentIdx = 0;
+    
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+    
+    function adjustOuterHeight(outer, front, back) {
+      setTimeout(() => {
+        const frontHeight = front.scrollHeight;
+        const backHeight = back.scrollHeight;
+        const maxHeight = Math.max(frontHeight, backHeight, 180);
+        outer.style.minHeight = maxHeight + "px";
+      }, 0);
+    }
+    
+    function renderCard(idx) {
+      const container = document.getElementById('game-container');
+      container.innerHTML = ""; // Clear previous card
+      
+      const item = vocabData[idx];
+      if (!item) {
+        container.innerHTML = "<p>No card found.</p>";
+        return;
+      }
+      
+      const word = item[WORD_KEY] || Object.values(item)[0];
+      const meaning = item[MEANING_KEY] || "";
+      const english = item[ENGLISH_KEY] || "";
+      
+      const outer = document.createElement('div');
+      outer.className = 'flip-card-outer';
+      
+      const card = document.createElement('div');
+      card.className = 'flip-card';
+      card.innerHTML = `
+        <div class="flip-card-inner">
+          <div class="flip-card-front">${word}</div>
+          <div class="flip-card-back">
+            <div class="back-english">${english}</div>
+            <div class="back-meaning">${meaning}</div>
+          </div>
         </div>
-    </div>
+      `;
+      
+      // Flip on click
+      card.addEventListener('click', function() {
+        card.classList.toggle('flipped');
+        const front = card.querySelector('.flip-card-front');
+        const back = card.querySelector('.flip-card-back');
+        adjustOuterHeight(outer, front, back);
+      });
+      
+      outer.appendChild(card);
+      container.appendChild(outer);
+      
+      // Adjust height after render
+      const front = card.querySelector('.flip-card-front');
+      const back = card.querySelector('.flip-card-back');
+      adjustOuterHeight(outer, front, back);
+    }
     
-    <div class="main-layout">
-        <div id="game-container"></div>
-        <button id="next-btn">Next</button>
-    </div>
+    function showCard(idx) {
+      if (vocabData.length === 0) return;
+      if (idx < 0) idx = 0;
+      if (idx >= vocabData.length) idx = 0;
+      currentIdx = idx;
+      renderCard(currentIdx);
+    }
     
-    <script>
-        // Use the new keys from your updated JSON file
-        const WORD_KEY = "Wortliste";
-        const MEANING_KEY = "Meaning";
-        const ENGLISH_KEY = "English";
-        let vocabData = [];
-        let currentIdx = 0;
-        
-        function shuffleArray(array) {
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
-        }
-        
-        function adjustOuterHeight(outer, front, back) {
-            setTimeout(() => {
-                const frontHeight = front.scrollHeight;
-                const backHeight = back.scrollHeight;
-                const maxHeight = Math.max(frontHeight, backHeight, 180);
-                outer.style.minHeight = maxHeight + "px";
-            }, 0);
-        }
-        
-        function renderCard(idx) {
-            const container = document.getElementById('game-container');
-            container.innerHTML = ""; // Clear previous card
-            
-            const item = vocabData[idx];
-            if (!item) {
-                container.innerHTML = "<p>No card found.</p>";
-                return;
-            }
-            
-            const word = item[WORD_KEY] || Object.values(item)[0];
-            const meaning = item[MEANING_KEY] || "";
-            const english = item[ENGLISH_KEY] || "";
-            
-            const outer = document.createElement('div');
-            outer.className = 'flip-card-outer';
-            
-            const card = document.createElement('div');
-            card.className = 'flip-card';
-            card.innerHTML = `
-                <div class="flip-card-inner">
-                    <div class="flip-card-front">${word}</div>
-                    <div class="flip-card-back">
-                        <div class="back-english">${english}</div>
-                        <div class="back-meaning">${meaning}</div>
-                    </div>
-                </div>
-            `;
-            
-            // Flip on click
-            card.addEventListener('click', function(e) {
-                card.classList.toggle('flipped');
-                const front = card.querySelector('.flip-card-front');
-                const back = card.querySelector('.flip-card-back');
-                adjustOuterHeight(outer, front, back);
-            });
-            
-            outer.appendChild(card);
-            container.appendChild(outer);
-            
-            // Adjust height after render
-            const front = card.querySelector('.flip-card-front');
-            const back = card.querySelector('.flip-card-back');
-            adjustOuterHeight(outer, front, back);
-        }
-        
-        function showCard(idx) {
-            if (vocabData.length === 0) return;
-            if (idx < 0) idx = 0;
-            if (idx >= vocabData.length) idx = 0;
-            currentIdx = idx;
-            renderCard(currentIdx);
-        }
-        
-        fetch('csvjson.json')
-            .then(response => response.json())
-            .then(data => {
-                vocabData = data;
-                shuffleArray(vocabData);
-                showCard(0);
-            })
-            .catch(error => {
-                document.getElementById('game-container').innerText =
-                  'Fehler beim Laden der Wortliste: ' + error;
-            });
-        
-        document.getElementById('next-btn').addEventListener('click', function() {
-            if (vocabData.length > 0) {
-                currentIdx = (currentIdx + 1) % vocabData.length;
-                showCard(currentIdx);
-            }
-        });
-    </script>
+    fetch('csvjson.json')
+      .then(response => response.json())
+      .then(data => {
+        vocabData = data;
+        shuffleArray(vocabData);
+        showCard(0);
+      })
+      .catch(error => {
+        document.getElementById('game-container').innerText =
+          'Fehler beim Laden der Wortliste: ' + error;
+      });
+    
+    document.getElementById('next-btn').addEventListener('click', function() {
+      if (vocabData.length > 0) {
+        currentIdx = (currentIdx + 1) % vocabData.length;
+        showCard(currentIdx);
+      }
+    });
+
+    // THEME SWITCHER (data-theme only, CSS variables in themes/main.css)
+    function setTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const savedTheme = localStorage.getItem('theme') || 'light';
+      setTheme(savedTheme);
+    });
+  </script>
 </body>
 </html>

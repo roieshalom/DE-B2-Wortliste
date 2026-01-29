@@ -265,6 +265,11 @@
       const contactForm = document.getElementById('about-contact-form');
       const supportBtn = document.getElementById('support-btn');
 
+      // Initial About language state (DE is default)
+      if (supportBtn) {
+        supportBtn.textContent = '❤️ Projekt unterstützen';
+      }
+
       function openAbout() {
         aboutOverlay.classList.add('open');
       }

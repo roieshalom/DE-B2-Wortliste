@@ -114,8 +114,7 @@ h1 {
   flex-direction: column;
   align-items: center;
 }
-
-/* Flip card */
+/* outer wrapper */
 .flip-card-outer {
   width: 340px;
   max-width: 95vw;
@@ -125,7 +124,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   min-height: 180px;
-  transition: min-height 0.3s;
+  height: auto;
 }
 
 /* Container only sets perspective, no border/shadow */
@@ -136,10 +135,9 @@ h1 {
   perspective: 1200px;
 }
 
-/* Faces: rotate and own border/shadow */
+/* Faces wrapper */
 .flip-card-inner {
   width: 100%;
-  min-height: 180px;
   position: relative;
   transform-style: preserve-3d;
   transition: transform 0.6s cubic-bezier(0.8,1,.2,1);
@@ -150,12 +148,10 @@ h1 {
   transform: rotateY(180deg);
 }
 
+/* Front and back share styles */
 .flip-card-front,
 .flip-card-back {
-  position: absolute;
-  inset: 0;
   width: 100%;
-
   border-radius: var(--border-radius);
   border: var(--card-border, 1px solid transparent);
   box-shadow: var(--card-shadow, var(--shadow-sm));
@@ -171,22 +167,30 @@ h1 {
   font-family: var(--font-family);
   box-sizing: border-box;
   word-break: break-word;
-  min-height: 180px;
+
   backface-visibility: hidden;
   transition: background 0.3s;
 }
 
+/* FRONT: sits on top, stretches to whatever height back has */
 .flip-card-front {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
   color: var(--text-primary);
   background: var(--card-bg);
-  z-index: 2;
 }
 
+/* BACK: normal flow, controls the height */
 .flip-card-back {
+  position: relative;          /* was absolute */
+  transform: rotateY(180deg);
   background: var(--primary);
   color: var(--text-secondary);
-  transform: rotateY(180deg);
-  z-index: 1;
+
+  /* allow extreme cases to scroll, optional */
+  max-height: 70vh;
+  overflow-y: auto;
 }
 
 .back-english {

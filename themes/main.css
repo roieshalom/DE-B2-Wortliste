@@ -235,8 +235,7 @@ h1 {
 }
 
 .primary-btn {
-  align-self: center;
-  padding: 12px 20px;
+  padding: 12px 40px;
   font-size: 1.1em;
   border-radius: var(--button-radius, 10px);
   border: none;
@@ -244,10 +243,12 @@ h1 {
   color: var(--text-secondary);
   cursor: pointer;
   display: block;
-  max-width: 90vw;
+  font-family: var(--font-family);
   font-weight: var(--font-weight-normal);
   transition: background 0.2s;
+  margin: 16px auto 0;   /* add this line */
 }
+
 
 .primary-btn:hover {
   background: var(--primary-hover);

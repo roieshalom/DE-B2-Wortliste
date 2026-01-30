@@ -614,6 +614,41 @@ h1 {
   color: var(--header-link);
 }
 
+/* Tap hint badge (first visit only) */
+.tap-hint-badge {
+  position: absolute;
+  bottom: -18px;
+  right: -18px;
+  width: 102px;
+  height: 102px;
+  border-radius: 999px;
+  border: none;
+  background-color: rgba(30, 129, 176, 0.5);
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  cursor: default;
+  pointer-events: none;
 
+  /* hidden by default */
+  opacity: 0;
+  transform: translateY(8px) scale(0.9);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
 
+.tap-hint-badge span {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 9px;
+}
 
+/* only when JS adds .show-tap-hint */
+.show-tap-hint .tap-hint-badge {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}

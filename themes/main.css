@@ -5,12 +5,12 @@
 :root {
   --background: #f5f5f5;
   --foreground: #333;
-  --primary: #1e81b0;
-  --primary-hover: #166191;
+  --primary: #b01e73;
+  --primary-hover: #92175f;
   --card-bg: #ffffff;
   --card-shadow: 0 4px 16px rgba(0,0,0,0.15);
   --card-border: 1px solid transparent;
-  --text-primary: #1e81b0;
+  --text-primary: #8c19a0;
   --text-secondary: #ffffff;
   --accent: #ffe082;
   --border-radius: 18px;
@@ -24,8 +24,8 @@
   --font-weight-normal: 400;
   --font-weight-bold: 700;
   --header-text: #333;
-  --header-link: #007bff;
-  --header-link-hover: #0056b3;
+  --header-link: #b01e73;
+  --header-link-hover: #92175f;
 }
 
 /* Shared styles using variables */

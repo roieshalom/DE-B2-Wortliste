@@ -10,7 +10,7 @@
   --card-bg: #ffffff;
   --card-shadow: 0 4px 16px rgba(0,0,0,0.15);
   --card-border: 1px solid transparent;
-  --text-primary: #8c19a0;
+  --text-primary: c;
   --text-secondary: #ffffff;
   --accent: #ffe082;
   --border-radius: 18px;
@@ -623,7 +623,7 @@ h1 {
   height: 102px;
   border-radius: 999px;
   border: none;
-  background-color: rgba(30, 129, 176, 0.5);
+  background-color: #b01e7383;
   color: #ffffff;
   font-size: 36px;
   font-weight: 600;

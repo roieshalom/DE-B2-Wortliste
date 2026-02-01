@@ -1,7 +1,3987 @@
 [
-    {
-    "Wortliste": "ab",
-    "English": "away",
-    "Meaning": "1. Die Fahrt kostet ab Hamburg 200 Euro.\n2. Ab nächster Woche bleibt unser Geschäft samstags geschlossen.\n3. Mein Bruder besucht uns ab und zu."
+  {
+    "Wortliste": "die Vorstellung, -en",
+    "English": "the introduction; the performance; the idea",
+    "Meaning": "1. Nach der Vorstellung haben wir uns alle kurz vorgestellt.\n2. Die Theateraufführung gestern war eine tolle Vorstellung."
+  },
+  {
+    "Wortliste": "das Zitat, -e",
+    "English": "the quotation",
+    "Meaning": "Das Zitat aus dem Buch passt sehr gut zu unserem Thema."
+  },
+  {
+    "Wortliste": "das Fernweh (Sg.)",
+    "English": "the wanderlust; longing to travel far away",
+    "Meaning": "Im Winter habe ich immer starkes Fernweh nach warmen Ländern."
+  },
+  {
+    "Wortliste": "der Arbeitsvertrag, \"-e",
+    "English": "the employment contract",
+    "Meaning": "Bevor ich anfange zu arbeiten, muss ich den Arbeitsvertrag unterschreiben."
+  },
+  {
+    "Wortliste": "auflösen",
+    "English": "to dissolve; to cancel; to resolve",
+    "Meaning": "Wir mussten den Mietvertrag früher auflösen."
+  },
+  {
+    "Wortliste": "beantragen",
+    "English": "to apply for; to request officially",
+    "Meaning": "Hast du schon die Arbeitserlaubnis beantragt?"
+  },
+  {
+    "Wortliste": "eröffnen",
+    "English": "to open; to inaugurate",
+    "Meaning": "Nächste Woche eröffnet in unserer Straße ein neues Café."
+  },
+  {
+    "Wortliste": "der Handyvertrag, \"-e",
+    "English": "the mobile phone contract",
+    "Meaning": "Mein Handyvertrag läuft noch ein Jahr."
+  },
+  {
+    "Wortliste": "knüpfen",
+    "English": "to tie; to establish (contacts)",
+    "Meaning": "Auf der Konferenz konnte ich viele neue Kontakte knüpfen."
+  },
+  {
+    "Wortliste": "der Kontakt, -e",
+    "English": "the contact",
+    "Meaning": "Ich habe noch Kontakt zu meinen Kollegen aus Deutschland."
+  },
+  {
+    "Wortliste": "der Mietvertrag, \"-e",
+    "English": "the rental contract; the lease",
+    "Meaning": "Im Mietvertrag steht, dass Haustiere erlaubt sind."
+  },
+  {
+    "Wortliste": "der/die Nachmieter/in, -/-nen",
+    "English": "the new tenant; the successor tenant",
+    "Meaning": "Wir suchen noch einen Nachmieter für unsere Wohnung."
+  },
+  {
+    "Wortliste": "abenteuerlich",
+    "English": "adventurous",
+    "Meaning": "Die Reise durch Südamerika war sehr abenteuerlich."
+  },
+  {
+    "Wortliste": "die Arbeitserlaubnis, -se",
+    "English": "the work permit",
+    "Meaning": "Ohne Arbeitserlaubnis darf ich hier nicht arbeiten."
+  },
+  {
+    "Wortliste": "aufgeregt",
+    "English": "excited; agitated; nervous",
+    "Meaning": "Vor dem Vorstellungsgespräch war ich sehr aufgeregt."
+  },
+  {
+    "Wortliste": "die Auslandserfahrung, -en",
+    "English": "the experience abroad",
+    "Meaning": "Auslandserfahrung ist für viele Firmen ein Vorteil."
+  },
+  {
+    "Wortliste": "auswandern",
+    "English": "to emigrate",
+    "Meaning": "Meine Freunde wollen nach Kanada auswandern."
+  },
+  {
+    "Wortliste": "bereuen",
+    "English": "to regret",
+    "Meaning": "Ich bereue nicht, dass ich ins Ausland gegangen bin."
+  },
+  {
+    "Wortliste": "der Blog, -s",
+    "English": "the blog",
+    "Meaning": "Sie schreibt einen Blog über ihr Leben in Berlin."
+  },
+  {
+    "Wortliste": "einleben (sich)",
+    "English": "to settle in; to get used to a new place",
+    "Meaning": "In der neuen Stadt habe ich mich schnell eingelebt."
+  },
+  {
+    "Wortliste": "die Erfahrung, -en",
+    "English": "the experience",
+    "Meaning": "Durch meinen Job im Ausland habe ich viele Erfahrungen gesammelt."
+  },
+  {
+    "Wortliste": "erweitern",
+    "English": "to expand; to widen; to extend",
+    "Meaning": "Ich möchte meinen Wortschatz jeden Tag ein bisschen erweitern."
+  },
+  {
+    "Wortliste": "gestresst",
+    "English": "stressed",
+    "Meaning": "In der Prüfungszeit bin ich immer sehr gestresst."
+  },
+  {
+    "Wortliste": "die Landessprache, -n",
+    "English": "the national language",
+    "Meaning": "Es ist wichtig, die Landessprache gut zu sprechen."
+  },
+  {
+    "Wortliste": "die Amtssprache, -n",
+    "English": "the official language",
+    "Meaning": "In der Schweiz sind Deutsch, Französisch, Italienisch und Rätoromanisch Amtssprachen."
+  },
+  {
+    "Wortliste": "anerkennen, erkannte an, hat anerkannt",
+    "English": "to recognize; to acknowledge",
+    "Meaning": "Mein Abschluss aus dem Ausland wurde in Deutschland anerkannt."
+  },
+  {
+    "Wortliste": "die Elite, -n",
+    "English": "the elite",
+    "Meaning": "Nur eine kleine Elite besucht diese teure Privatschule."
+  },
+  {
+    "Wortliste": "die Identität, -en",
+    "English": "the identity",
+    "Meaning": "Sprache ist ein wichtiger Teil der persönlichen Identität."
+  },
+  {
+    "Wortliste": "komplex",
+    "English": "complex",
+    "Meaning": "Das Thema Migration ist sehr komplex."
+  },
+  {
+    "Wortliste": "konfrontieren",
+    "English": "to confront",
+    "Meaning": "Im Ausland wird man oft mit neuen Kulturen konfrontiert."
+  },
+  {
+    "Wortliste": "multikulturell",
+    "English": "multicultural",
+    "Meaning": "Berlin ist eine sehr multikulturelle Stadt."
+  },
+  {
+    "Wortliste": "das Parlament, -e",
+    "English": "the parliament",
+    "Meaning": "Im Parlament wird heute über das neue Gesetz diskutiert."
+  },
+  {
+    "Wortliste": "der Sachverhalt, -e",
+    "English": "the facts; the circumstances",
+    "Meaning": "Können Sie mir den Sachverhalt noch einmal genau erklären?"
+  },
+  {
+    "Wortliste": "trösten",
+    "English": "to comfort; to console",
+    "Meaning": "Nach der Prüfung hat sie ihre enttäuschte Freundin getröstet."
+  },
+  {
+    "Wortliste": "die Vertrautheit (Sg.)",
+    "English": "the familiarity; the closeness",
+    "Meaning": "Ich mag die Vertrautheit in meiner kleinen Heimatstadt."
+  },
+  {
+    "Wortliste": "die Verwaltungssprache, -n",
+    "English": "the administrative language",
+    "Meaning": "Formulare sind oft in einer sehr komplizierten Verwaltungssprache geschrieben."
+  },
+  {
+    "Wortliste": "die Vielfalt (Sg.)",
+    "English": "the diversity; the variety",
+    "Meaning": "Die kulturelle Vielfalt in der Klasse ist groß."
+  },
+  {
+    "Wortliste": "vielsprachig",
+    "English": "multilingual; speaking many languages",
+    "Meaning": "In unserer Firma arbeiten viele vielsprachige Mitarbeiter."
+  },
+  {
+    "Wortliste": "das Landesgesetz, -e",
+    "English": "the federal state law; regional law",
+    "Meaning": "Die Regeln sind im Landesgesetz genau festgelegt."
+  },
+  {
+    "Wortliste": "die Vielsprachigkeit (Sg.)",
+    "English": "the multilingualism",
+    "Meaning": "Die Vielsprachigkeit Europas ist eine große Chance."
+  },
+  {
+    "Wortliste": "das Alltagsprodukt, -e",
+    "English": "the everyday product",
+    "Meaning": "Auf vielen Alltagsprodukten stehen die Infos in mehreren Sprachen."
+  },
+  {
+    "Wortliste": "amtlich",
+    "English": "official",
+    "Meaning": "Sie müssen das Formular beim amtlichen Bürgerbüro abgeben."
+  },
+  {
+    "Wortliste": "beherrschen",
+    "English": "to master; to command",
+    "Meaning": "Sie beherrscht drei Sprachen fließend."
+  },
+  {
+    "Wortliste": "die Bekanntmachung, -en",
+    "English": "the announcement; the public notice",
+    "Meaning": "Die Bekanntmachung hängt am Schwarzen Brett der Uni."
+  },
+  {
+    "Wortliste": "beschriften",
+    "English": "to label; to inscribe",
+    "Meaning": "Bitte beschriften Sie die Ordner mit Namen und Datum."
+  },
+  {
+    "Wortliste": "betreffen, betraf, hat betroffen",
+    "English": "to affect; to concern",
+    "Meaning": "Die neuen Regeln betreffen alle Mieter im Haus."
+  },
+  {
+    "Wortliste": "einheitlich",
+    "English": "uniform; consistent",
+    "Meaning": "Die Schilder sollen in allen Städten einheitlich sein."
+  },
+  {
+    "Wortliste": "fälschlicherweise",
+    "English": "by mistake; wrongly; erroneously",
+    "Meaning": "Mein Name wurde fälschlicherweise falsch geschrieben."
+  },
+  {
+    "Wortliste": "der Flyer, -",
+    "English": "the flyer; the leaflet",
+    "Meaning": "Vor der U-Bahn-Station werden Flyer verteilt."
+  },
+  {
+    "Wortliste": "der/die Grafiker/in, -/-nen",
+    "English": "the graphic designer",
+    "Meaning": "Die Grafikerin hat das neue Logo entworfen."
+  },
+  {
+    "Wortliste": "der Horizont, -e",
+    "English": "the horizon; the outlook",
+    "Meaning": "Reisen erweitert den eigenen Horizont."
+  },
+  {
+    "Wortliste": "leichtfallen, fiel leicht, ist leichtgefallen",
+    "English": "to come easy; to be easy for someone",
+    "Meaning": "Sprachenlernen ist ihm schon immer leichtgefallen."
+  },
+  {
+    "Wortliste": "mittlerweile",
+    "English": "in the meantime; by now",
+    "Meaning": "Ich bin mittlerweile seit fünf Jahren in Deutschland."
+  },
+  {
+    "Wortliste": "netterweise",
+    "English": "kindly; nicely",
+    "Meaning": "Netterweise hat mein Nachbar mir beim Umzug geholfen."
+  },
+  {
+    "Wortliste": "riskieren",
+    "English": "to risk",
+    "Meaning": "Er wollte nichts riskieren und hat den sicheren Job behalten."
+  },
+  {
+    "Wortliste": "schaffen",
+    "English": "to manage; to accomplish; to create",
+    "Meaning": "Keine Sorge, du schaffst die Prüfung bestimmt."
+  },
+  {
+    "Wortliste": "sehnsüchtig",
+    "English": "longingly; full of longing",
+    "Meaning": "Sie schaut sehnsüchtig auf die alten Urlaubsfotos."
+  },
+  {
+    "Wortliste": "spontan",
+    "English": "spontaneous",
+    "Meaning": "Wir haben spontan entschieden, übers Wochenende wegzufahren."
+  },
+  {
+    "Wortliste": "wagen",
+    "English": "to dare; to venture",
+    "Meaning": "Ich habe es gewagt und bin allein ins Ausland gegangen."
+  },
+  {
+    "Wortliste": "die Wohnungssuche, -n",
+    "English": "the apartment search",
+    "Meaning": "In Berlin kann die Wohnungssuche sehr lange dauern."
+  },
+  {
+    "Wortliste": "zwischendurch",
+    "English": "in between; from time to time",
+    "Meaning": "Ich lerne zwischendurch Vokabeln mit meinem Handy."
+  },
+  {
+    "Wortliste": "empfinden, empfand, hat empfunden",
+    "English": "to feel; to perceive",
+    "Meaning": "Wie empfindest du das Klima in deiner Firma?"
+  },
+  {
+    "Wortliste": "die Faustregel, -n",
+    "English": "the rule of thumb",
+    "Meaning": "Als Faustregel gilt: Erst fragen, dann handeln."
+  },
+  {
+    "Wortliste": "die Merkformel, -n",
+    "English": "the mnemonic; memory formula",
+    "Meaning": "Für die Grammatik habe ich mir eine kleine Merkformel ausgedacht."
+  },
+  {
+    "Wortliste": "die Position, -en",
+    "English": "the position",
+    "Meaning": "Er bewirbt sich auf eine Position als Projektleiter."
+  },
+  {
+    "Wortliste": "ständig",
+    "English": "constant; all the time",
+    "Meaning": "Mein Handy klingelt heute ständig."
+  },
+  {
+    "Wortliste": "zerschneiden, zerschnitt, hat zerschnitten",
+    "English": "to cut into pieces",
+    "Meaning": "Sie hat das Papier in kleine Stücke zerschnitten."
+  },
+  {
+    "Wortliste": "die Geschäftsbeziehung, -en",
+    "English": "the business relationship",
+    "Meaning": "Wir pflegen seit Jahren gute Geschäftsbeziehungen nach Österreich."
+  },
+  {
+    "Wortliste": "die Geschäftsverhandlung, -en",
+    "English": "the business negotiation",
+    "Meaning": "Die Geschäftsverhandlungen dauerten den ganzen Tag."
+  },
+  {
+    "Wortliste": "jedoch",
+    "English": "however; though",
+    "Meaning": "Ich wollte kommen, ich war jedoch krank."
+  },
+  {
+    "Wortliste": "die Konferenz, -en",
+    "English": "the conference",
+    "Meaning": "Auf der Konferenz treffen sich Experten aus vielen Ländern."
+  },
+  {
+    "Wortliste": "das Platzproblem, -e",
+    "English": "the space problem; lack of space",
+    "Meaning": "In unserer Küche haben wir ein echtes Platzproblem."
+  },
+  {
+    "Wortliste": "sämtlich",
+    "English": "all; entire",
+    "Meaning": "Sämtliche Unterlagen müssen bis Freitag abgegeben werden."
+  },
+  {
+    "Wortliste": "die Sitzung, -en",
+    "English": "the meeting; the session",
+    "Meaning": "Die Sitzung beginnt um 9 Uhr im großen Konferenzraum."
+  },
+  {
+    "Wortliste": "die Sprachenvielfalt (Sg.)",
+    "English": "the diversity of languages",
+    "Meaning": "Die Sprachenvielfalt in Europa ist beeindruckend."
+  },
+  {
+    "Wortliste": "das Sprachgebiet, -e",
+    "English": "the language area/region",
+    "Meaning": "Im deutschsprachigen Sprachgebiet gibt es viele Dialekte."
+  },
+  {
+    "Wortliste": "die Sprachregion, -en",
+    "English": "the language region",
+    "Meaning": "Die Schweiz ist in verschiedene Sprachregionen aufgeteilt."
+  },
+  {
+    "Wortliste": "das Verkehrsschild, -er",
+    "English": "the traffic sign",
+    "Meaning": "Du hast das Verkehrsschild mit dem Tempolimit übersehen."
+  },
+  {
+    "Wortliste": "veröffentlichen",
+    "English": "to publish",
+    "Meaning": "Der Artikel wird nächste Woche online veröffentlicht."
+  },
+  {
+    "Wortliste": "die Verpackung, -en",
+    "English": "the packaging",
+    "Meaning": "Auf der Verpackung stehen die Inhaltsstoffe in mehreren Sprachen."
+  },
+  {
+    "Wortliste": "voraussetzen",
+    "English": "to presuppose; to require",
+    "Meaning": "Für diesen Kurs wird B1-Niveau vorausgesetzt."
+  },
+  {
+    "Wortliste": "der Wandel, -",
+    "English": "the change; transformation",
+    "Meaning": "Die Stadt ist im ständigen Wandel."
+  },
+  {
+    "Wortliste": "die Webseite, -n",
+    "English": "the website",
+    "Meaning": "Auf der Webseite findest du alle wichtigen Informationen."
+  },
+  {
+    "Wortliste": "die Auffassung, -en",
+    "English": "the view; the opinion",
+    "Meaning": "In dieser Frage haben wir unterschiedliche Auffassungen."
+  },
+  {
+    "Wortliste": "entscheidend",
+    "English": "decisive; crucial",
+    "Meaning": "Die Sprachkenntnisse waren entscheidend für die Zusage."
+  },
+  {
+    "Wortliste": "erstaunlich",
+    "English": "amazing; astonishing",
+    "Meaning": "Es ist erstaunlich, wie schnell Kinder eine Sprache lernen."
+  },
+  {
+    "Wortliste": "geteilt",
+    "English": "divided; shared",
+    "Meaning": "Die Meinungen in der Gruppe sind stark geteilt."
+  },
+  {
+    "Wortliste": "hilfreich",
+    "English": "helpful",
+    "Meaning": "Die Tipps meiner Lehrerin waren sehr hilfreich."
+  },
+  {
+    "Wortliste": "die Mehrsprachigkeit (Sg.)",
+    "English": "the multilingualism",
+    "Meaning": "Mehrsprachigkeit kann viele Türen im Berufsleben öffnen."
+  },
+  {
+    "Wortliste": "nützlich",
+    "English": "useful",
+    "Meaning": "Ein gutes Wörterbuch ist immer nützlich."
+  },
+  {
+    "Wortliste": "die Sicht, -en",
+    "English": "the view; the perspective",
+    "Meaning": "Aus meiner Sicht ist das eine gute Lösung."
+  },
+  {
+    "Wortliste": "missverständlich",
+    "English": "misleading; ambiguous",
+    "Meaning": "Die Formulierung in der E-Mail war missverständlich."
+  },
+  {
+    "Wortliste": "das Abteil, -e",
+    "English": "the compartment (on a train)",
+    "Meaning": "Im Zug haben wir ein ruhiges Abteil gefunden."
+  },
+  {
+    "Wortliste": "missverstehen, missverstand, hat missverstanden",
+    "English": "to misunderstand",
+    "Meaning": "Entschuldigung, ich habe dich total missverstanden."
+  },
+  {
+    "Wortliste": "peinlich",
+    "English": "embarrassing",
+    "Meaning": "Es war mir sehr peinlich, den Namen zu vergessen."
+  },
+  {
+    "Wortliste": "der Abstand, \"-e",
+    "English": "the distance; the gap",
+    "Meaning": "Bitte halten Sie genügend Abstand zur Tür."
+  },
+  {
+    "Wortliste": "die Art, -en",
+    "English": "the kind; the type; the way",
+    "Meaning": "Diese Art von Humor verstehe ich nicht."
+  },
+  {
+    "Wortliste": "äußerst",
+    "English": "extremely",
+    "Meaning": "Er war äußerst freundlich und hilfsbereit."
+  },
+  {
+    "Wortliste": "bedenken, bedachte, hat bedacht",
+    "English": "to consider; to keep in mind",
+    "Meaning": "Bitte bedenken Sie, dass das nur ein Beispiel ist."
+  },
+  {
+    "Wortliste": "der/die Begleiter/in, -/-nen",
+    "English": "the companion; the escort",
+    "Meaning": "Jeder Teilnehmer darf eine Begleiterin oder einen Begleiter mitbringen."
+  },
+  {
+    "Wortliste": "breit",
+    "English": "broad; wide",
+    "Meaning": "Die Straße ist hier sehr breit."
+  },
+  {
+    "Wortliste": "die Freundlichkeit, -en",
+    "English": "the friendliness",
+    "Meaning": "Ich war von der Freundlichkeit der Leute beeindruckt."
+  },
+  {
+    "Wortliste": "das Gegenüber, -",
+    "English": "the person opposite; the counterpart",
+    "Meaning": "Versuche, dein Gegenüber immer auszureden zu lassen."
+  },
+  {
+    "Wortliste": "jeglich",
+    "English": "any; every",
+    "Meaning": "Jegliche Form von Diskriminierung ist verboten."
+  },
+  {
+    "Wortliste": "das Lächeln, -",
+    "English": "the smile",
+    "Meaning": "Ein freundliches Lächeln kann viel bewirken."
+  },
+  {
+    "Wortliste": "die Öffentlichkeit (Sg.)",
+    "English": "the public",
+    "Meaning": "Die Entscheidung wurde in der Öffentlichkeit kritisiert."
+  },
+  {
+    "Wortliste": "die Privatsphäre (Sg.)",
+    "English": "the privacy",
+    "Meaning": "In sozialen Netzwerken ist die Privatsphäre ein wichtiges Thema."
+  },
+  {
+    "Wortliste": "stellen",
+    "English": "to put; to place; to pose (a question)",
+    "Meaning": "Darf ich Ihnen noch eine Frage stellen?"
+  },
+  {
+    "Wortliste": "üblich",
+    "English": "usual; common",
+    "Meaning": "In Deutschland ist es üblich, pünktlich zu sein."
+  },
+  {
+    "Wortliste": "die Spielregel, -n",
+    "English": "the rule of the game",
+    "Meaning": "Bevor wir anfangen, erklären wir kurz die Spielregeln."
+  },
+  {
+    "Wortliste": "die Geste, -n",
+    "English": "the gesture",
+    "Meaning": "Ein kleines Geschenk kann eine nette Geste sein."
+  },
+  {
+    "Wortliste": "alkoholfrei",
+    "English": "alcohol-free; non-alcoholic",
+    "Meaning": "Ich trinke lieber ein alkoholfreies Bier."
+  },
+  {
+    "Wortliste": "atypisch",
+    "English": "atypical; untypical",
+    "Meaning": "Für diese Jahreszeit ist das Wetter eher atypisch."
+  },
+  {
+    "Wortliste": "das Desinteresse (Sg.)",
+    "English": "the lack of interest",
+    "Meaning": "Sein Desinteresse am Unterricht war deutlich zu sehen."
+  },
+  {
+    "Wortliste": "disqualifizieren",
+    "English": "to disqualify",
+    "Meaning": "Der Spieler wurde nach einem Foul disqualifiziert."
+  },
+  {
+    "Wortliste": "inhaltsleer",
+    "English": "empty of content; meaningless",
+    "Meaning": "Die Rede war schön, aber ziemlich inhaltsleer."
+  },
+  {
+    "Wortliste": "intolerant",
+    "English": "intolerant",
+    "Meaning": "Gegenüber anderen Kulturen sollten wir nicht intolerant sein."
+  },
+  {
+    "Wortliste": "irreal",
+    "English": "unreal; imaginary",
+    "Meaning": "Sein Plan klang interessant, aber völlig irreal."
+  },
+  {
+    "Wortliste": "der/die Nichtschwimmer/in, -/-nen",
+    "English": "the non-swimmer",
+    "Meaning": "Für Nichtschwimmer gibt es im Schwimmbad einen extra Bereich."
+  },
+  {
+    "Wortliste": "nonverbal",
+    "English": "nonverbal",
+    "Meaning": "Nonverbale Signale spielen in der Kommunikation eine große Rolle."
+  },
+  {
+    "Wortliste": "das Unverständnis (Sg.)",
+    "English": "the lack of understanding",
+    "Meaning": "Seine Entscheidung stieß auf viel Unverständnis."
+  },
+  {
+    "Wortliste": "trennbar",
+    "English": "separable (verb); detachable",
+    "Meaning": "‚aufstehen‘ ist ein trennbares Verb."
+  },
+  {
+    "Wortliste": "die Chancengleichheit (Sg.)",
+    "English": "the equal opportunities",
+    "Meaning": "Chancengleichheit ist ein wichtiges Ziel in der Bildungspolitik."
+  },
+  {
+    "Wortliste": "der Migrationshintergrund (Sg.)",
+    "English": "the migration background",
+    "Meaning": "Viele Kinder in dieser Klasse haben einen Migrationshintergrund."
+  },
+  {
+    "Wortliste": "das Schlüsselwort, \"-er",
+    "English": "the key word",
+    "Meaning": "Markieren Sie die Schlüsselwörter im Text."
+  },
+  {
+    "Wortliste": "völlig",
+    "English": "completely; totally",
+    "Meaning": "Ich bin nach dem langen Tag völlig müde."
+  },
+  {
+    "Wortliste": "die Kindergartenpflicht (Sg.)",
+    "English": "the compulsory kindergarten attendance",
+    "Meaning": "In manchen Ländern gibt es eine Kindergartenpflicht."
+  },
+  {
+    "Wortliste": "die Schuluniform, -en",
+    "English": "the school uniform",
+    "Meaning": "An dieser Schule tragen alle Schülerinnen und Schüler eine Schuluniform."
+  },
+  {
+    "Wortliste": "eingehen",
+    "English": "to enter into; to go into; to be received",
+    "Meaning": "Auf dieses Thema möchte ich später noch genauer eingehen."
+  },
+  {
+    "Wortliste": "die Einrichtung, -en",
+    "English": "the institution; the facility; the furnishing",
+    "Meaning": "Die Stadt unterstützt soziale Einrichtungen mit Geld."
+  },
+  {
+    "Wortliste": "ermöglichen",
+    "English": "to make possible; to enable",
+    "Meaning": "Das Stipendium ermöglicht mir das Studium im Ausland."
+  },
+  {
+    "Wortliste": "die Lehrkraft, \"-e",
+    "English": "the teacher; teaching staff",
+    "Meaning": "Die Lehrkräfte an dieser Schule sind sehr engagiert."
+  },
+  {
+    "Wortliste": "die Migrantenfamilie, -n",
+    "English": "the migrant family",
+    "Meaning": "Viele Migrantenfamilien leben schon seit Jahren in Deutschland."
+  },
+  {
+    "Wortliste": "das Migrantenkind, -er",
+    "English": "the child from a migrant family",
+    "Meaning": "Migrantenkinder wachsen oft zweisprachig auf."
+  },
+  {
+    "Wortliste": "der/die Pate/Patin, -n/-nen",
+    "English": "the sponsor; the mentor; the godparent",
+    "Meaning": "Ein ehrenamtlicher Pate hilft neuen Flüchtlingen im Alltag."
+  },
+  {
+    "Wortliste": "der/die Senior/in, -en/-nen",
+    "English": "the senior; the elderly person",
+    "Meaning": "Die Senioren treffen sich jeden Mittwoch im Nachbarschaftshaus."
+  },
+  {
+    "Wortliste": "sinnvoll",
+    "English": "sensible; meaningful; useful",
+    "Meaning": "Es ist sinnvoll, früh mit dem Deutschlernen zu beginnen."
+  },
+  {
+    "Wortliste": "der/die Zugewanderte, -n",
+    "English": "the immigrant; the newcomer",
+    "Meaning": "Die Stadt bietet einen Sprachkurs speziell für Zugewanderte an."
+  },
+  {
+    "Wortliste": "anfügen",
+    "English": "to add; to append",
+    "Meaning": "Am Ende des Briefes fügte sie noch eine persönliche Notiz an."
+  },
+  {
+    "Wortliste": "ausbremsen",
+    "English": "to slow down; to thwart",
+    "Meaning": "Ständige Bürokratie kann gute Ideen ausbremsen."
+  },
+  {
+    "Wortliste": "die Ausländerquote, -n",
+    "English": "the proportion of foreigners",
+    "Meaning": "In diesem Stadtteil ist die Ausländerquote besonders hoch."
+  },
+  {
+    "Wortliste": "der Automobilhersteller, -",
+    "English": "the car manufacturer",
+    "Meaning": "Viele deutsche Automobilhersteller exportieren weltweit."
+  },
+  {
+    "Wortliste": "die Betriebswirtschaft, -en",
+    "English": "business administration",
+    "Meaning": "Sie studiert Betriebswirtschaft an der Universität."
+  },
+  {
+    "Wortliste": "die Diskriminierung, -en",
+    "English": "the discrimination",
+    "Meaning": "Diskriminierung wegen Herkunft oder Sprache ist verboten."
+  },
+  {
+    "Wortliste": "farbenfroh",
+    "English": "colourful",
+    "Meaning": "Die Wohnung ist sehr farbenfroh eingerichtet."
+  },
+  {
+    "Wortliste": "fernliegen, lag fern, hat ferngelegen",
+    "English": "to be far from someone’s mind",
+    "Meaning": "Mir liegt es fern, dich zu kritisieren."
+  },
+  {
+    "Wortliste": "das Feuerholz (Sg.)",
+    "English": "the firewood",
+    "Meaning": "Wir haben genug Feuerholz für den ganzen Winter."
+  },
+  {
+    "Wortliste": "flechten, flocht, hat geflochten",
+    "English": "to braid; to weave",
+    "Meaning": "Sie hat ihrer Tochter Zöpfe geflochten."
+  },
+  {
+    "Wortliste": "führen",
+    "English": "to lead; to guide; to manage",
+    "Meaning": "Er führt seit fünf Jahren eine eigene Firma."
+  },
+  {
+    "Wortliste": "gelegentlich",
+    "English": "occasionally",
+    "Meaning": "Wir treffen uns gelegentlich auf einen Kaffee."
+  },
+  {
+    "Wortliste": "das Gemüsegeschäft, -e",
+    "English": "the vegetable shop; greengrocer’s",
+    "Meaning": "Ich kaufe mein Obst im kleinen Gemüsegeschäft an der Ecke."
+  },
+  {
+    "Wortliste": "der/die Gründer/in, -/-nen",
+    "English": "the founder",
+    "Meaning": "Die Gründerin des Start-ups ist erst 25 Jahre alt."
+  },
+  {
+    "Wortliste": "die Hausverwaltung, -en",
+    "English": "the property management",
+    "Meaning": "Bei Problemen mit der Heizung wenden Sie sich an die Hausverwaltung."
+  },
+  {
+    "Wortliste": "die Hochschulreife (Sg.)",
+    "English": "the higher education entrance qualification (A-levels/Abitur)",
+    "Meaning": "Für das Studium brauchst du die Hochschulreife."
+  },
+  {
+    "Wortliste": "die Informatik (Sg.)",
+    "English": "computer science",
+    "Meaning": "Er interessiert sich für Informatik und programmiert gern."
+  },
+  {
+    "Wortliste": "infrage kommen",
+    "English": "to be possible; to be considered",
+    "Meaning": "Für diese Stelle kommen nur Bewerber mit Erfahrung infrage."
+  },
+  {
+    "Wortliste": "inmitten",
+    "English": "in the middle of; amidst",
+    "Meaning": "Inmitten der Stadt gibt es einen großen Park."
+  },
+  {
+    "Wortliste": "der Keks, -e",
+    "English": "the biscuit; the cookie",
+    "Meaning": "Zum Tee gibt es selbst gebackene Kekse."
+  },
+  {
+    "Wortliste": "der/die Kommilitone/Kommilitonin, -n/-nen",
+    "English": "the fellow student (university)",
+    "Meaning": "Mit meinen Kommilitonen lerne ich oft in der Bibliothek."
+  },
+  {
+    "Wortliste": "leuchten",
+    "English": "to shine; to glow",
+    "Meaning": "Die Sterne leuchten heute besonders hell."
+  },
+  {
+    "Wortliste": "nachdenklich",
+    "English": "thoughtful; pensive",
+    "Meaning": "Nach dem Gespräch war sie still und nachdenklich."
+  },
+  {
+    "Wortliste": "die Odyssee, -n",
+    "English": "the odyssey; long difficult journey",
+    "Meaning": "Die Wohnungssuche war eine echte Odyssee."
+  },
+  {
+    "Wortliste": "die Option, -en",
+    "English": "the option; the choice",
+    "Meaning": "Wir prüfen noch verschiedene Optionen."
+  },
+  {
+    "Wortliste": "der Preis, -e",
+    "English": "the price; the prize",
+    "Meaning": "Für den Film hat sie einen wichtigen Preis bekommen."
+  },
+  {
+    "Wortliste": "scheitern",
+    "English": "to fail",
+    "Meaning": "Das Projekt ist leider an der Finanzierung gescheitert."
+  },
+  {
+    "Wortliste": "der Schulabschluss, \"-e",
+    "English": "the school leaving certificate",
+    "Meaning": "Nach dem Schulabschluss möchte er eine Ausbildung machen."
+  },
+  {
+    "Wortliste": "verbergen, verbarg, hat verborgen",
+    "English": "to hide; to conceal",
+    "Meaning": "Sie konnte ihre Enttäuschung nicht verbergen."
+  },
+  {
+    "Wortliste": "vollkommen",
+    "English": "completely; perfectly",
+    "Meaning": "Ich bin mit dem Ergebnis vollkommen zufrieden."
+  },
+  {
+    "Wortliste": "der/die Wanderarbeiter/in, -/-nen",
+    "English": "the migrant worker",
+    "Meaning": "Viele Wanderarbeiter schicken Geld an ihre Familien im Heimatland."
+  },
+  {
+    "Wortliste": "weitergehen",
+    "English": "to continue; to go on",
+    "Meaning": "Nach einer kurzen Pause ging der Unterricht weiter."
+  },
+  {
+    "Wortliste": "die Windeseile (Sg.)",
+    "English": "great haste; very quickly",
+    "Meaning": "Die Nachricht verbreitete sich in Windeseile."
+  },
+  {
+    "Wortliste": "die Wüste, -n",
+    "English": "the desert",
+    "Meaning": "Sie träumen von einer Reise durch die Wüste."
+  },
+  {
+    "Wortliste": "zerrissen",
+    "English": "torn (also figurative: torn between)",
+    "Meaning": "Nach dem Umzug fühlte er sich innerlich zerrissen."
+  },
+  {
+    "Wortliste": "das Zöpfchen, -",
+    "English": "the little braid; small plait",
+    "Meaning": "Das Mädchen trägt zwei kleine Zöpfchen."
+  },
+  {
+    "Wortliste": "zusammenbinden, band zusammen, hat zusammengebunden",
+    "English": "to tie together",
+    "Meaning": "Sie hat die Bücher mit einem Band zusammengebunden."
+  },
+  {
+    "Wortliste": "der Anschluss, \"-e",
+    "English": "the connection; the connection (train/bus); affiliation",
+    "Meaning": "Ich habe meinen Anschlusszug knapp verpasst."
+  },
+  {
+    "Wortliste": "entsprechend",
+    "English": "corresponding; appropriate",
+    "Meaning": "Bitte verhalten Sie sich der Situation entsprechend."
+  },
+  {
+    "Wortliste": "anhören",
+    "English": "to listen to; to sound",
+    "Meaning": "Die Geschichte hört sich interessant an."
+  },
+  {
+    "Wortliste": "annehmen",
+    "English": "to accept; to assume",
+    "Meaning": "Ich nehme an, dass du morgen kommst."
+  },
+  {
+    "Wortliste": "einig",
+    "English": "in agreement; united",
+    "Meaning": "Wir sind uns einig, dass das die beste Lösung ist."
+  },
+  {
+    "Wortliste": "entwickeln",
+    "English": "to develop",
+    "Meaning": "Die Firma entwickelt eine neue App."
+  },
+  {
+    "Wortliste": "meinetwegen",
+    "English": "as far as I’m concerned; for my sake",
+    "Meaning": "Meinetwegen können wir jetzt eine Pause machen."
+  },
+  {
+    "Wortliste": "veranstalten",
+    "English": "to organize; to host (an event)",
+    "Meaning": "Die Schule veranstaltet ein Sommerfest."
+  },
+  {
+    "Wortliste": "auszeichnen",
+    "English": "to distinguish; to award",
+    "Meaning": "Der Film wurde mit mehreren Preisen ausgezeichnet."
+  },
+  {
+    "Wortliste": "begehrt",
+    "English": "in demand; sought-after",
+    "Meaning": "Diese Wohnungen sind in der Innenstadt sehr begehrt."
+  },
+  {
+    "Wortliste": "bürgerlich",
+    "English": "middle-class; bourgeois; civic",
+    "Meaning": "Er kommt aus einem eher bürgerlichen Elternhaus."
+  },
+  {
+    "Wortliste": "das Diplom, -e",
+    "English": "the diploma; degree",
+    "Meaning": "Nach fünf Jahren Studium hat sie ihr Diplom bekommen."
+  },
+  {
+    "Wortliste": "kommerziell",
+    "English": "commercial",
+    "Meaning": "Der Film war ein großer kommerzieller Erfolg."
+  },
+  {
+    "Wortliste": "der/die Drehbuchautor/in, -en/-nen",
+    "English": "the screenwriter",
+    "Meaning": "Der Drehbuchautor arbeitet an einer neuen Serie."
+  },
+  {
+    "Wortliste": "der Langspielfilm, -e",
+    "English": "the feature film",
+    "Meaning": "Ihr erster Langspielfilm lief auf einem großen Festival."
+  },
+  {
+    "Wortliste": "der Drehbuchpreis, -e",
+    "English": "the screenwriting award",
+    "Meaning": "Für das Drehbuch bekam sie einen internationalen Drehbuchpreis."
+  },
+  {
+    "Wortliste": "der Lebensweg, -e",
+    "English": "the life path",
+    "Meaning": "Jeder Mensch hat seinen eigenen Lebensweg."
+  },
+  {
+    "Wortliste": "der Durchbruch, \"-e",
+    "English": "the breakthrough",
+    "Meaning": "Mit diesem Film gelang ihm der große Durchbruch."
+  },
+  {
+    "Wortliste": "das Melodram, -en",
+    "English": "the melodrama",
+    "Meaning": "Das Melodram war spannend, aber sehr gefühlvoll."
+  },
+  {
+    "Wortliste": "der/die Einwanderer/Einwanderin, -/-nen",
+    "English": "the immigrant",
+    "Meaning": "Viele Einwanderer kommen wegen der Arbeit nach Deutschland."
+  },
+  {
+    "Wortliste": "entstammen",
+    "English": "to originate from; to come from",
+    "Meaning": "Er entstammt einer Musikerfamilie."
+  },
+  {
+    "Wortliste": "das Migrationsdrama, -dramen",
+    "English": "the migration drama",
+    "Meaning": "Das Migrationsdrama erzählt die Geschichte einer Flüchtlingsfamilie."
+  },
+  {
+    "Wortliste": "das Milieu, -s",
+    "English": "the social environment; the milieu",
+    "Meaning": "Der Film spielt im kriminellen Milieu einer Großstadt."
+  },
+  {
+    "Wortliste": "der/die Filmregisseur/in, -e/-nen",
+    "English": "the film director",
+    "Meaning": "Der bekannte Filmregisseur arbeitet an einem neuen Projekt."
+  },
+  {
+    "Wortliste": "der/die Muslim/in, -e/-nen",
+    "English": "the Muslim",
+    "Meaning": "In diesem Viertel leben viele Muslime."
+  },
+  {
+    "Wortliste": "das Gangsterkino (Sg.)",
+    "English": "gangster films (as a genre)",
+    "Meaning": "Er interessiert sich besonders für amerikanisches Gangsterkino."
+  },
+  {
+    "Wortliste": "passioniert",
+    "English": "passionate",
+    "Meaning": "Sie ist eine passionierte Filmregisseurin."
+  },
+  {
+    "Wortliste": "geprägt",
+    "English": "shaped; influenced",
+    "Meaning": "Sein Stil ist stark von seiner Kindheit geprägt."
+  },
+  {
+    "Wortliste": "der/die Produzent/in, -en/-nen",
+    "English": "the producer",
+    "Meaning": "Der Produzent sucht nach Geld für den neuen Film."
+  },
+  {
+    "Wortliste": "gläubig",
+    "English": "religious; believing",
+    "Meaning": "Seine Familie ist sehr gläubig."
+  },
+  {
+    "Wortliste": "die Härte (Sg.)",
+    "English": "the hardness; the severity",
+    "Meaning": "Er war überrascht über die Härte der Kritik."
+  },
+  {
+    "Wortliste": "die Hauptrolle, -n",
+    "English": "the leading role",
+    "Meaning": "Sie spielt die Hauptrolle in diesem Kinofilm."
+  },
+  {
+    "Wortliste": "heimisch",
+    "English": "at home; native",
+    "Meaning": "In Berlin fühlt er sich inzwischen heimisch."
+  },
+  {
+    "Wortliste": "die Hommage, -n",
+    "English": "the homage; tribute",
+    "Meaning": "Der Film ist eine Hommage an seine Kindheit."
+  },
+  {
+    "Wortliste": "der Juryvorsitz (Sg.)",
+    "English": "the chairmanship of the jury",
+    "Meaning": "Den Juryvorsitz übernimmt dieses Jahr eine bekannte Schauspielerin."
+  },
+  {
+    "Wortliste": "katholisch",
+    "English": "Catholic",
+    "Meaning": "Er ist in einer katholischen Familie aufgewachsen."
+  },
+  {
+    "Wortliste": "der Kiez, -e",
+    "English": "the neighbourhood (colloquial, often in Berlin)",
+    "Meaning": "In meinem Kiez kennt fast jeder jeden."
+  },
+  {
+    "Wortliste": "der Kinofilm, -e",
+    "English": "the cinema film",
+    "Meaning": "Der neue Kinofilm läuft ab Donnerstag."
+  },
+  {
+    "Wortliste": "die Kinokasse, -n",
+    "English": "the box office; cinema ticket counter",
+    "Meaning": "An der Kinokasse bilden sich lange Schlangen."
+  },
+  {
+    "Wortliste": "der Nonsens (Sg.)",
+    "English": "the nonsense",
+    "Meaning": "Was er erzählt hat, war totaler Nonsens."
+  },
+  {
+    "Wortliste": "der/die Regisseur/in, -e/-nen",
+    "English": "the director",
+    "Meaning": "Der Regisseur erklärt den Schauspielern die nächste Szene."
+  },
+  {
+    "Wortliste": "die Scheinehe, -n",
+    "English": "the sham marriage",
+    "Meaning": "Eine Scheinehe ist in vielen Ländern strafbar."
+  },
+  {
+    "Wortliste": "schmerzlos",
+    "English": "painless",
+    "Meaning": "Die Behandlung war fast schmerzlos."
+  },
+  {
+    "Wortliste": "der Spielfilm, -e",
+    "English": "the feature film",
+    "Meaning": "Heute Abend läuft ein französischer Spielfilm im Fernsehen."
+  },
+  {
+    "Wortliste": "stets",
+    "English": "always",
+    "Meaning": "Sie ist stets pünktlich und gut vorbereitet."
+  },
+  {
+    "Wortliste": "treu",
+    "English": "faithful; loyal",
+    "Meaning": "Er ist seinen Freunden immer treu geblieben."
+  },
+  {
+    "Wortliste": "die Trophäe, -n",
+    "English": "the trophy",
+    "Meaning": "Die Mannschaft hielt stolz die Trophäe in die Höhe."
+  },
+  {
+    "Wortliste": "visuell",
+    "English": "visual",
+    "Meaning": "Der Film arbeitet stark mit visuellen Effekten."
+  },
+  {
+    "Wortliste": "voller",
+    "English": "full of",
+    "Meaning": "Der Film ist voller überraschender Wendungen."
+  },
+  {
+    "Wortliste": "das Vorbild, -er",
+    "English": "the role model",
+    "Meaning": "Sein älterer Bruder ist für ihn ein großes Vorbild."
+  },
+  {
+    "Wortliste": "wesentlich",
+    "English": "essential; significant",
+    "Meaning": "Sprachkenntnisse sind ein wesentlicher Vorteil im Beruf."
+  },
+  {
+    "Wortliste": "das Piktogramm, -e",
+    "English": "the pictogram",
+    "Meaning": "Piktogramme helfen, Informationen ohne Text zu verstehen."
+  },
+  {
+    "Wortliste": "der Anlass, \"-e",
+    "English": "the occasion; the reason",
+    "Meaning": "Der Geburtstag war ein schöner Anlass für ein Treffen."
+  },
+  {
+    "Wortliste": "kommunizieren",
+    "English": "to communicate",
+    "Meaning": "Wir kommunizieren heute oft über Messenger-Dienste."
+  },
+  {
+    "Wortliste": "ausstrecken",
+    "English": "to stretch out",
+    "Meaning": "Er streckte die Hand aus, um sie zu begrüßen."
+  },
+  {
+    "Wortliste": "die Auszeit, -en",
+    "English": "the time-out; break",
+    "Meaning": "Nach dem Studium nahm sie sich eine Auszeit im Ausland."
+  },
+  {
+    "Wortliste": "die Gebärdensprache (Sg.)",
+    "English": "sign language",
+    "Meaning": "Viele Gehörlose kommunizieren mit Gebärdensprache."
+  },
+  {
+    "Wortliste": "die Schranke, -n",
+    "English": "the barrier; the gate",
+    "Meaning": "Die Schranke am Bahnübergang ist geschlossen."
+  },
+  {
+    "Wortliste": "der Stopp, -s",
+    "English": "the stop; halt",
+    "Meaning": "Wir machen einen kurzen Stopp an der Tankstelle."
+  },
+  {
+    "Wortliste": "weisen",
+    "English": "to point; to show",
+    "Meaning": "Der Wegweiser weist in Richtung Zentrum."
+  },
+  {
+    "Wortliste": "die Körpersprache (Sg.)",
+    "English": "body language",
+    "Meaning": "Ihre Körpersprache zeigt deutlich, dass sie nervös ist."
+  },
+  {
+    "Wortliste": "die Emotion, -en",
+    "English": "the emotion",
+    "Meaning": "Der Film löste starke Emotionen beim Publikum aus."
+  },
+  {
+    "Wortliste": "das Körpersignal, -e",
+    "English": "the body signal",
+    "Meaning": "Achten Sie auf die Körpersignale Ihres Gesprächspartners."
+  },
+  {
+    "Wortliste": "verraten",
+    "English": "to reveal; to betray",
+    "Meaning": "Sein Gesicht verrät, dass er nervös ist."
+  },
+  {
+    "Wortliste": "allzu",
+    "English": "too; all too",
+    "Meaning": "Mach dir nicht allzu viele Sorgen."
+  },
+  {
+    "Wortliste": "anlegen",
+    "English": "to apply; to put on; to invest",
+    "Meaning": "Für das Projekt müssen wir einen neuen Ordner anlegen."
+  },
+  {
+    "Wortliste": "auszahlen",
+    "English": "to pay out; to pay off",
+    "Meaning": "Fleiß zahlt sich am Ende aus."
+  },
+  {
+    "Wortliste": "der/die Autor/in, -en/-nen",
+    "English": "the author",
+    "Meaning": "Die Autorin liest heute Abend aus ihrem neuen Buch."
+  },
+  {
+    "Wortliste": "betroffen",
+    "English": "affected; concerned; shocked",
+    "Meaning": "Viele Mitarbeiter sind von der Entscheidung betroffen."
+  },
+  {
+    "Wortliste": "bilingual",
+    "English": "bilingual",
+    "Meaning": "Die Kinder wachsen bilingual auf."
+  },
+  {
+    "Wortliste": "einsprachig",
+    "English": "monolingual; speaking one language",
+    "Meaning": "Er ist einsprachig aufgewachsen."
+  },
+  {
+    "Wortliste": "fehlerlos",
+    "English": "without mistakes; flawless",
+    "Meaning": "Sie hat den Test fast fehlerlos geschrieben."
+  },
+  {
+    "Wortliste": "instinktiv",
+    "English": "instinctive; instinctively",
+    "Meaning": "Er hat instinktiv die richtige Entscheidung getroffen."
+  },
+  {
+    "Wortliste": "wahrnehmen",
+    "English": "to perceive; to notice",
+    "Meaning": "Sie nimmt leise Geräusche sehr genau wahr."
+  },
+  {
+    "Wortliste": "deuten",
+    "English": "to interpret; to indicate",
+    "Meaning": "Wie deutest du seine Reaktion?"
+  },
+  {
+    "Wortliste": "die Mimik, -en",
+    "English": "the facial expression(s)",
+    "Meaning": "An ihrer Mimik kann man viel ablesen."
+  },
+  {
+    "Wortliste": "vorgeben",
+    "English": "to pretend; to set; to prescribe",
+    "Meaning": "Die Lehrerin gibt das Thema für den Aufsatz vor."
+  },
+  {
+    "Wortliste": "bestimmen",
+    "English": "to determine; to decide",
+    "Meaning": "Du kannst selbst bestimmen, wie viel du lernen willst."
+  },
+  {
+    "Wortliste": "eindeutig",
+    "English": "clear; unambiguous",
+    "Meaning": "Die Regeln sind eindeutig formuliert."
+  },
+  {
+    "Wortliste": "das Signal, -e",
+    "English": "the signal",
+    "Meaning": "Ein Lächeln kann ein positives Signal sein."
+  },
+  {
+    "Wortliste": "angemessen",
+    "English": "appropriate; adequate",
+    "Meaning": "In einem Bewerbungsgespräch ist formelle Kleidung angemessen."
+  },
+  {
+    "Wortliste": "feststellen",
+    "English": "to determine; to find out",
+    "Meaning": "Der Arzt stellte eine Grippe fest."
+  },
+  {
+    "Wortliste": "führen",
+    "English": "to lead; to conduct",
+    "Meaning": "Sie führt ein sehr persönliches Gespräch mit ihrem Chef."
+  },
+  {
+    "Wortliste": "geduldig",
+    "English": "patient",
+    "Meaning": "Die Lehrerin erklärt alles sehr geduldig."
+  },
+  {
+    "Wortliste": "das Gehirn, -e",
+    "English": "the brain",
+    "Meaning": "Das Gehirn verarbeitet ständig neue Informationen."
+  },
+  {
+    "Wortliste": "das Großraumbüro, -s",
+    "English": "the open-plan office",
+    "Meaning": "Im Großraumbüro ist es manchmal laut."
+  },
+  {
+    "Wortliste": "herumschlagen",
+    "English": "to struggle with; to grapple with",
+    "Meaning": "Viele Eltern schlagen sich mit dem Thema Handyregeln herum."
+  },
+  {
+    "Wortliste": "kinderleicht",
+    "English": "child’s play; very easy",
+    "Meaning": "Mit dieser App ist Vokabellernen kinderleicht."
+  },
+  {
+    "Wortliste": "das Kleinkind, -er",
+    "English": "the toddler; small child",
+    "Meaning": "Das Kleinkind lernt gerade seine ersten Wörter."
+  },
+  {
+    "Wortliste": "die Kompetenz, -en",
+    "English": "the competence; skill",
+    "Meaning": "Sprachliche Kompetenzen sind im Beruf wichtig."
+  },
+  {
+    "Wortliste": "die Konzentrationsleistung, -en",
+    "English": "the concentration performance; ability to concentrate",
+    "Meaning": "Nachmittags lässt meine Konzentrationsleistung nach."
+  },
+  {
+    "Wortliste": "monolingual",
+    "English": "monolingual",
+    "Meaning": "Die Studie vergleicht monolinguale und bilinguale Kinder."
+  },
+  {
+    "Wortliste": "nachweisen",
+    "English": "to prove; to demonstrate",
+    "Meaning": "Sie konnte gute Deutschkenntnisse nachweisen."
+  },
+  {
+    "Wortliste": "die Phase, -n",
+    "English": "the phase; the stage",
+    "Meaning": "In der ersten Phase ist alles noch neu und spannend."
+  },
+  {
+    "Wortliste": "der/die Psychologe/Psychologin, -n/-nen",
+    "English": "the psychologist",
+    "Meaning": "Die Psychologin erklärt die Ergebnisse der Studie."
+  },
+  {
+    "Wortliste": "schwerfallen",
+    "English": "to be difficult (for someone)",
+    "Meaning": "Am Anfang fällt mir das Sprechen auf Deutsch noch schwer."
+  },
+  {
+    "Wortliste": "die Sprachenpolitik (Sg.)",
+    "English": "language policy",
+    "Meaning": "Die Sprachenpolitik des Landes fördert Mehrsprachigkeit."
+  },
+  {
+    "Wortliste": "die Sprachentwicklung, -en",
+    "English": "language development",
+    "Meaning": "Eltern können die Sprachentwicklung ihrer Kinder unterstützen."
+  },
+  {
+    "Wortliste": "der Sprachschatz (Sg.)",
+    "English": "vocabulary; stock of words",
+    "Meaning": "Durch viel Lesen erweitert man seinen Sprachschatz."
+  },
+  {
+    "Wortliste": "der/die Sprachwissenschaftler/in, -/-nen",
+    "English": "the linguist",
+    "Meaning": "Sprachwissenschaftler untersuchen, wie sich Sprachen entwickeln."
+  },
+  {
+    "Wortliste": "die Startchance, -n",
+    "English": "the starting opportunity; starting chance",
+    "Meaning": "Gute Bildung erhöht die Startchancen im Berufsleben."
+  },
+  {
+    "Wortliste": "der/die Trendforscher/in, -/-nen",
+    "English": "the trend researcher",
+    "Meaning": "Trendforscher analysieren, wie sich unsere Gesellschaft verändert."
+  },
+  {
+    "Wortliste": "überfordern",
+    "English": "to overstrain; to overwhelm",
+    "Meaning": "Zu viele Hausaufgaben können Schüler leicht überfordern."
+  },
+  {
+    "Wortliste": "umgehen",
+    "English": "to deal with; to handle",
+    "Meaning": "Man muss lernen, mit Stress besser umzugehen."
+  },
+  {
+    "Wortliste": "unterfordern",
+    "English": "to underchallenge",
+    "Meaning": "Wenn Kinder im Unterricht unterfordert sind, langweilen sie sich."
+  },
+  {
+    "Wortliste": "die Verhandlung, -en",
+    "English": "the negotiation; the hearing",
+    "Meaning": "Die Verhandlungen zwischen den Firmen waren erfolgreich."
+  },
+  {
+    "Wortliste": "vertraut",
+    "English": "familiar",
+    "Meaning": "Die Stadt ist mir inzwischen sehr vertraut."
+  },
+  {
+    "Wortliste": "werben",
+    "English": "to advertise; to recruit",
+    "Meaning": "Die Firma wirbt mit einem neuen Logo im Internet."
+  },
+  {
+    "Wortliste": "der/die Wissenschaftler/in, -/-nen",
+    "English": "the scientist; academic researcher",
+    "Meaning": "Die Wissenschaftlerin präsentiert ihre Ergebnisse auf einer Konferenz."
+  },
+  {
+    "Wortliste": "der Wunsch, \"-e",
+    "English": "the wish; the desire",
+    "Meaning": "Er hat den Wunsch, später im Ausland zu arbeiten."
+  },
+  {
+    "Wortliste": "zweisprachig",
+    "English": "bilingual",
+    "Meaning": "Sie ist zweisprachig aufgewachsen."
+  },
+  {
+    "Wortliste": "vorgehen",
+    "English": "to proceed; to act",
+    "Meaning": "Wir müssen bei dem Projekt sehr sorgfältig vorgehen."
+  },
+  {
+    "Wortliste": "das Defizit, -e",
+    "English": "the deficit",
+    "Meaning": "Viele Schüler haben ein Defizit im Hörverstehen."
+  },
+  {
+    "Wortliste": "der/die Gegner/in, -/-nen",
+    "English": "the opponent",
+    "Meaning": "Im Spiel waren unsere Gegner sehr stark."
+  },
+  {
+    "Wortliste": "das Prinzip, -ien",
+    "English": "the principle",
+    "Meaning": "Aus Prinzip bezahlt er seine Rechnungen immer pünktlich."
+  },
+  {
+    "Wortliste": "der Umgang, \"-e",
+    "English": "the interaction; the handling",
+    "Meaning": "Der Umgang mit Konflikten fällt ihm nicht leicht."
+  },
+  {
+    "Wortliste": "die Basis, Basen",
+    "English": "the basis; foundation",
+    "Meaning": "Vertrauen ist die Basis einer guten Beziehung."
+  },
+  {
+    "Wortliste": "entspannt",
+    "English": "relaxed",
+    "Meaning": "Nach dem Urlaub fühle ich mich wieder ganz entspannt."
+  },
+  {
+    "Wortliste": "das Teilthema, -themen",
+    "English": "the subtopic",
+    "Meaning": "Jede Gruppe bearbeitet ein Teilthema des Projekts."
+  },
+  {
+    "Wortliste": "gehen",
+    "English": "to go",
+    "Meaning": "Es geht in diesem Kurs vor allem um Kommunikation."
+  },
+  {
+    "Wortliste": "gründlich",
+    "English": "thorough; thoroughly",
+    "Meaning": "Bitte lesen Sie den Text gründlich durch."
+  },
+  {
+    "Wortliste": "die Lage, -n",
+    "English": "the situation; the location",
+    "Meaning": "Die wirtschaftliche Lage hat sich verbessert."
+  },
+  {
+    "Wortliste": "die Nummer, -n",
+    "English": "the number",
+    "Meaning": "Können Sie mir Ihre Telefonnummer geben?"
+  },
+  {
+    "Wortliste": "das Talent, -e",
+    "English": "the talent",
+    "Meaning": "Er hat ein großes Talent für Sprachen."
+  },
+  {
+    "Wortliste": "eilig",
+    "English": "in a hurry; urgent",
+    "Meaning": "Sie hat es eilig und läuft schnell zur U-Bahn."
+  },
+  {
+    "Wortliste": "austeilen",
+    "English": "to hand out; to distribute",
+    "Meaning": "Die Lehrerin teilt die Arbeitsblätter aus."
+  },
+  {
+    "Wortliste": "die Berufsschule, -n",
+    "English": "the vocational school",
+    "Meaning": "Die Auszubildenden gehen zweimal pro Woche zur Berufsschule."
+  },
+  {
+    "Wortliste": "draufhauen",
+    "English": "to bash; to lash out (coll.)",
+    "Meaning": "In der Diskussion hat er ganz schön draufgehauen."
+  },
+  {
+    "Wortliste": "einstecken",
+    "English": "to put in (pocket); to take (criticism)",
+    "Meaning": "Er musste viel Kritik einstecken."
+  },
+  {
+    "Wortliste": "der/die Gepäckermittler/in, -/-nen",
+    "English": "the baggage tracer; baggage investigator",
+    "Meaning": "Die Gepäckermittler suchen nach dem verlorenen Koffer."
+  },
+  {
+    "Wortliste": "der/die Kabarettist/in, -en/-nen",
+    "English": "the cabaret artist; satirist",
+    "Meaning": "Der Kabarettist macht sich über die Politik lustig."
+  },
+  {
+    "Wortliste": "die Kritik, -en",
+    "English": "the criticism; the review",
+    "Meaning": "Der Film hat gute Kritiken bekommen."
+  },
+  {
+    "Wortliste": "nehmen",
+    "English": "to take",
+    "Meaning": "Er nimmt die Kritik gelassen."
+  },
+  {
+    "Wortliste": "der Respekt (Sg.)",
+    "English": "the respect",
+    "Meaning": "Sie zeigt großen Respekt vor älteren Menschen."
+  },
+  {
+    "Wortliste": "ruhig",
+    "English": "calm; quiet",
+    "Meaning": "Bitte bleiben Sie ruhig und hören Sie zu."
+  },
+  {
+    "Wortliste": "touren",
+    "English": "to be on tour",
+    "Meaning": "Die Band tourt im Sommer durch ganz Europa."
+  },
+  {
+    "Wortliste": "zusammengehören",
+    "English": "to belong together",
+    "Meaning": "Die beiden Sätze gehören inhaltlich zusammen."
+  },
+  {
+    "Wortliste": "üben",
+    "English": "to practise",
+    "Meaning": "Du musst die neuen Vokabeln regelmäßig üben."
+  },
+  {
+    "Wortliste": "aggressiv",
+    "English": "aggressive",
+    "Meaning": "Sein Ton wurde plötzlich sehr aggressiv."
+  },
+  {
+    "Wortliste": "auffordern",
+    "English": "to request; to urge; to call upon",
+    "Meaning": "Die Lehrerin fordert die Schüler zum Mitmachen auf."
+  },
+  {
+    "Wortliste": "blamieren (sich)",
+    "English": "to embarrass (oneself)",
+    "Meaning": "Ich will mich bei der Präsentation nicht blamieren."
+  },
+  {
+    "Wortliste": "das Mitleid (Sg.)",
+    "English": "the pity; compassion",
+    "Meaning": "Ich möchte kein Mitleid, sondern Unterstützung."
+  },
+  {
+    "Wortliste": "die Verbesserung, -en",
+    "English": "the improvement; correction",
+    "Meaning": "Die Lehrerin hat meine Fehler mit roten Verbesserungen markiert."
+  },
+  {
+    "Wortliste": "verschuldet",
+    "English": "in debt; at fault",
+    "Meaning": "Viele junge Leute sind nach dem Studium hoch verschuldet."
+  },
+  {
+    "Wortliste": "hinhören",
+    "English": "to listen closely",
+    "Meaning": "Man muss genau hinhören, um alles zu verstehen."
+  },
+  {
+    "Wortliste": "der Konsens (Sg.)",
+    "English": "the consensus",
+    "Meaning": "In der Gruppe herrscht Konsens über das Vorgehen."
+  },
+  {
+    "Wortliste": "die Sache, -n",
+    "English": "the thing; matter; issue",
+    "Meaning": "Lass uns die Sache in Ruhe besprechen."
+  },
+  {
+    "Wortliste": "die Schwäche, -n",
+    "English": "the weakness",
+    "Meaning": "Im Bewerbungsgespräch fragen sie oft nach Stärken und Schwächen."
+  },
+  {
+    "Wortliste": "die Aufgabenteilung, -en",
+    "English": "the division of tasks",
+    "Meaning": "Zu Hause haben wir eine klare Aufgabenteilung."
+  },
+  {
+    "Wortliste": "auslösen",
+    "English": "to trigger; to cause",
+    "Meaning": "Die Nachricht hat große Freude ausgelöst."
+  },
+  {
+    "Wortliste": "donnern",
+    "English": "to thunder; to boom",
+    "Meaning": "Draußen donnert es, gleich gibt es ein Gewitter."
+  },
+  {
+    "Wortliste": "ernst meinen",
+    "English": "to mean seriously",
+    "Meaning": "Ich glaube, er meint das wirklich ernst."
+  },
+  {
+    "Wortliste": "lexikalisch",
+    "English": "lexical",
+    "Meaning": "Die Übung konzentriert sich auf lexikalische Unterschiede."
+  },
+  {
+    "Wortliste": "die Naturerscheinung, -en",
+    "English": "the natural phenomenon",
+    "Meaning": "Nordlichter sind eine beeindruckende Naturerscheinung."
+  },
+  {
+    "Wortliste": "die Zeiterscheinung, -en",
+    "English": "the sign of the times; contemporary phenomenon",
+    "Meaning": "Soziale Medien sind eine typische Zeiterscheinung."
+  },
+  {
+    "Wortliste": "nichtssagend",
+    "English": "meaningless; bland",
+    "Meaning": "Die Antwort war höflich, aber ziemlich nichtssagend."
+  },
+  {
+    "Wortliste": "der/die Stellvertreter/in, -/-nen",
+    "English": "the deputy; the representative",
+    "Meaning": "Die Stellvertreterin übernimmt die Leitung bei seiner Abwesenheit."
+  },
+  {
+    "Wortliste": "verwunderlich",
+    "English": "surprising; strange",
+    "Meaning": "Es ist nicht verwunderlich, dass er müde ist."
+  },
+  {
+    "Wortliste": "ratsam",
+    "English": "advisable",
+    "Meaning": "Es ist ratsam, vor der Prüfung früh schlafen zu gehen."
+  },
+  {
+    "Wortliste": "witzig",
+    "English": "funny",
+    "Meaning": "Der Film war sehr witzig, ich musste viel lachen."
+  },
+  {
+    "Wortliste": "der Benzinmotor, -en",
+    "English": "the petrol engine",
+    "Meaning": "Der Benzinmotor verbraucht relativ viel Kraftstoff."
+  },
+  {
+    "Wortliste": "die Längeneinheit, -en",
+    "English": "the unit of length",
+    "Meaning": "Meter und Kilometer sind Längeneinheiten."
+  },
+  {
+    "Wortliste": "das Mittelalter (Sg.)",
+    "English": "the Middle Ages",
+    "Meaning": "Viele Burgen stammen aus dem Mittelalter."
+  },
+  {
+    "Wortliste": "der Flügel, -",
+    "English": "the wing",
+    "Meaning": "Der Vogel breitet seine Flügel aus."
+  },
+  {
+    "Wortliste": "die Hieroglyphe, -n",
+    "English": "the hieroglyph",
+    "Meaning": "Ägyptische Hieroglyphen sind sehr komplex."
+  },
+  {
+    "Wortliste": "die Kalorie, -n",
+    "English": "the calorie",
+    "Meaning": "Auf der Verpackung steht, wie viele Kalorien das Produkt hat."
+  },
+  {
+    "Wortliste": "die Keilschrift, -en",
+    "English": "the cuneiform script",
+    "Meaning": "Keilschrift ist eine der ältesten bekannten Schriften."
+  },
+  {
+    "Wortliste": "die Lebenserwartung, -en",
+    "English": "the life expectancy",
+    "Meaning": "Die Lebenserwartung ist in vielen Ländern gestiegen."
+  },
+  {
+    "Wortliste": "die Mücke, -n",
+    "English": "the mosquito",
+    "Meaning": "Nachts nerven mich die Mücken im Zimmer."
+  },
+  {
+    "Wortliste": "das Olivenöl, -e",
+    "English": "the olive oil",
+    "Meaning": "Zum Salat nehme ich gern Olivenöl."
+  },
+  {
+    "Wortliste": "schlagen, schlug, hat geschlagen",
+    "English": "to hit; to beat",
+    "Meaning": "Bitte schlag nicht so fest auf den Tisch."
+  },
+  {
+    "Wortliste": "der Speck (Sg.)",
+    "English": "the bacon",
+    "Meaning": "Zum Frühstück gibt es Eier mit Speck."
+  },
+  {
+    "Wortliste": "das Quiz, -",
+    "English": "the quiz",
+    "Meaning": "Im Fernsehen läuft heute ein interessantes Quiz."
+  },
+  {
+    "Wortliste": "ausgewechselt (sich wie ausgewechselt verhalten)",
+    "English": "changed (to behave like a different person)",
+    "Meaning": "Seit dem Umzug wirkt sie wie ausgewechselt."
+  },
+  {
+    "Wortliste": "entfalten (sich)",
+    "English": "to unfold; to develop",
+    "Meaning": "In der neuen Klasse kann er sein Potenzial voll entfalten."
+  },
+  {
+    "Wortliste": "hängen, hing, hat gehangen (an den Lippen hängen)",
+    "English": "to hang (to hang on someone’s lips)",
+    "Meaning": "Die Kinder hingen an den Lippen der Erzählerin."
+  },
+  {
+    "Wortliste": "lenken (etw./jmd. in eine Richtung lenken)",
+    "English": "to steer; to direct",
+    "Meaning": "Der Moderator lenkte das Gespräch in eine neue Richtung."
+  },
+  {
+    "Wortliste": "die Lippe, -n",
+    "English": "the lip",
+    "Meaning": "Sie hat sich auf die Lippen gebissen."
+  },
+  {
+    "Wortliste": "die Weiche, -n (die Weichen für etw. stellen)",
+    "English": "the switch (to set the course for sth.)",
+    "Meaning": "Mit dieser Entscheidung werden die Weichen für die Zukunft gestellt."
+  },
+  {
+    "Wortliste": "abbauen (Scheu abbauen)",
+    "English": "to reduce; to dismantle",
+    "Meaning": "Spiele im Unterricht helfen, die Scheu vor dem Sprechen abzubauen."
+  },
+  {
+    "Wortliste": "absolvieren",
+    "English": "to complete; to graduate",
+    "Meaning": "Sie hat ein Praktikum in einer großen Firma absolviert."
+  },
+  {
+    "Wortliste": "analytisch",
+    "English": "analytical",
+    "Meaning": "Er hat einen sehr analytischen Denkstil."
+  },
+  {
+    "Wortliste": "außergewöhnlich",
+    "English": "extraordinary; exceptional",
+    "Meaning": "Sie zeigt eine außergewöhnliche Begabung für Musik."
+  },
+  {
+    "Wortliste": "der Becher, -",
+    "English": "the cup; beaker",
+    "Meaning": "Im Labor benutzt man spezielle Becher für die Flüssigkeiten."
+  },
+  {
+    "Wortliste": "der Bedarf (an + D.)",
+    "English": "the need; demand (for)",
+    "Meaning": "Der Bedarf an Pflegekräften ist in vielen Ländern hoch."
+  },
+  {
+    "Wortliste": "die Berufsentscheidung, -en",
+    "English": "the career choice",
+    "Meaning": "Die Berufsentscheidung fällt vielen Jugendlichen schwer."
+  },
+  {
+    "Wortliste": "einstellen (sich)",
+    "English": "to adjust; to adapt",
+    "Meaning": "Man muss sich auf neue Kollegen erst einstellen."
+  },
+  {
+    "Wortliste": "das Experiment, -e",
+    "English": "the experiment",
+    "Meaning": "Die Schüler führen im Chemieunterricht ein Experiment durch."
+  },
+  {
+    "Wortliste": "experimentieren",
+    "English": "to experiment",
+    "Meaning": "Im Labor können die Kinder frei experimentieren."
+  },
+  {
+    "Wortliste": "die Forschungseinrichtung, -en",
+    "English": "the research institution",
+    "Meaning": "Die Universität ist eine bekannte Forschungseinrichtung."
+  },
+  {
+    "Wortliste": "geben, gab, hat gegeben (eine Antwort geben)",
+    "English": "to give (to give an answer)",
+    "Meaning": "Bitte geben Sie eine möglichst genaue Antwort."
+  },
+  {
+    "Wortliste": "die Gießkanne, -n",
+    "English": "the watering can",
+    "Meaning": "Mit der Gießkanne gießt sie die Blumen im Garten."
+  },
+  {
+    "Wortliste": "heranführen (an + A.)",
+    "English": "to introduce; to lead towards",
+    "Meaning": "Das Projekt soll Kinder früh an Naturwissenschaften heranführen."
+  },
+  {
+    "Wortliste": "die Ingenieurwissenschaft, -en",
+    "English": "engineering (as a science)",
+    "Meaning": "Er möchte später Ingenieurwissenschaften studieren."
+  },
+  {
+    "Wortliste": "die Initiative, -n",
+    "English": "the initiative",
+    "Meaning": "Die Initiative unterstützt Kinder aus sozial schwachen Familien."
+  },
+  {
+    "Wortliste": "das Kindergartenalter (Sg.)",
+    "English": "kindergarten age; preschool age",
+    "Meaning": "Im Kindergartenalter lernen Kinder Sprachen besonders schnell."
+  },
+  {
+    "Wortliste": "die Kinderzahl, -en",
+    "English": "the number of children",
+    "Meaning": "Die Kinderzahl in vielen Familien ist gesunken."
+  },
+  {
+    "Wortliste": "klagen (über + A.)",
+    "English": "to complain (about)",
+    "Meaning": "Er klagt oft über zu viel Arbeit."
+  },
+  {
+    "Wortliste": "die Konzentration (Sg.)",
+    "English": "the concentration",
+    "Meaning": "Nach einer Pause ist die Konzentration wieder besser."
+  },
+  {
+    "Wortliste": "konzentriert (auf + A.)",
+    "English": "concentrated; focused (on)",
+    "Meaning": "Die Schüler arbeiten konzentriert an der Aufgabe."
+  },
+  {
+    "Wortliste": "konzipieren",
+    "English": "to design; to plan",
+    "Meaning": "Die Lehrerin konzipiert einen neuen Kurs."
+  },
+  {
+    "Wortliste": "der Laborkittel, -",
+    "English": "the lab coat",
+    "Meaning": "Im Labor müssen alle einen Laborkittel tragen."
+  },
+  {
+    "Wortliste": "mathematisch",
+    "English": "mathematical",
+    "Meaning": "Sie hat ein gutes mathematisches Verständnis."
+  },
+  {
+    "Wortliste": "die Nachwuchskraft, \"-e",
+    "English": "the junior staff; young professional",
+    "Meaning": "Die Firma sucht qualifizierte Nachwuchskräfte."
+  },
+  {
+    "Wortliste": "die Naturwissenschaft, -en",
+    "English": "the natural science",
+    "Meaning": "Biologie und Physik sind Naturwissenschaften."
+  },
+  {
+    "Wortliste": "naturwissenschaftlich",
+    "English": "scientific (in the natural sciences)",
+    "Meaning": "Sie hat eine starke naturwissenschaftliche Ausbildung."
+  },
+  {
+    "Wortliste": "der/die Pädagoge/Pädagogin, -n/-nen",
+    "English": "the pedagogue; educator",
+    "Meaning": "Pädagogen beschäftigen sich mit Lernen und Erziehung."
+  },
+  {
+    "Wortliste": "das Phänomen, -e",
+    "English": "the phenomenon",
+    "Meaning": "Mehrsprachigkeit ist ein spannendes Phänomen."
+  },
+  {
+    "Wortliste": "die Pipette, -n",
+    "English": "the pipette",
+    "Meaning": "Mit der Pipette nimmt man eine kleine Menge Flüssigkeit auf."
+  },
+  {
+    "Wortliste": "qualifizieren",
+    "English": "to qualify",
+    "Meaning": "Mit diesem Kurs können Sie sich für den Test qualifizieren."
+  },
+  {
+    "Wortliste": "der Rand, \"-er",
+    "English": "the edge; the margin",
+    "Meaning": "Schreiben Sie Ihren Namen oben an den Rand."
+  },
+  {
+    "Wortliste": "die Sache, -n (bei der Sache sein)",
+    "English": "the matter (to stay focused on sth.)",
+    "Meaning": "Bitte bleibt bei der Sache und hört zu."
+  },
+  {
+    "Wortliste": "sanft",
+    "English": "gentle; softly",
+    "Meaning": "Die Lehrerin spricht sanft mit den Kindern."
+  },
+  {
+    "Wortliste": "die Scheu (Sg.)",
+    "English": "the shyness; inhibition",
+    "Meaning": "Viele Teilnehmer haben zuerst Scheu, vor der Gruppe zu sprechen."
+  },
+  {
+    "Wortliste": "schrumpfen",
+    "English": "to shrink",
+    "Meaning": "Die Schülerzahl in der Schule ist in den letzten Jahren geschrumpft."
+  },
+  {
+    "Wortliste": "spritzen",
+    "English": "to squirt; to spray; to inject",
+    "Meaning": "Die Kinder spritzen mit Wasser im Garten."
+  },
+  {
+    "Wortliste": "stellen (die Weichen für etw. stellen)",
+    "English": "to set; to put (to set the course for sth.)",
+    "Meaning": "Mit dieser Entscheidung stellen wir die Weichen für die Zukunft."
+  },
+  {
+    "Wortliste": "überlebenswichtig (für + A.)",
+    "English": "vital for survival",
+    "Meaning": "Sauberes Wasser ist überlebenswichtig für alle Menschen."
+  },
+  {
+    "Wortliste": "umfallen, fiel um, ist umgefallen",
+    "English": "to fall over",
+    "Meaning": "Die Vase ist umgefallen und zerbrochen."
+  },
+  {
+    "Wortliste": "das Umfeld, -er",
+    "English": "the environment; surroundings",
+    "Meaning": "Das soziale Umfeld beeinflusst die Sprachentwicklung."
+  },
+  {
+    "Wortliste": "verschärfen",
+    "English": "to worsen; to intensify",
+    "Meaning": "Die neuen Regeln verschärfen die Situation noch."
+  },
+  {
+    "Wortliste": "wackeln",
+    "English": "to wobble; to shake",
+    "Meaning": "Der Stuhl wackelt ein bisschen."
+  },
+  {
+    "Wortliste": "wacklig",
+    "English": "wobbly; shaky",
+    "Meaning": "Der Tisch ist ziemlich wacklig."
+  },
+  {
+    "Wortliste": "zurückfallen",
+    "English": "to fall back; to relapse",
+    "Meaning": "Ohne Übung kann man schnell in alte Fehler zurückfallen."
+  },
+  {
+    "Wortliste": "zurückfallen, fiel zurück, ist zurückgefallen",
+    "English": "to fall back; to regress",
+    "Meaning": "Ohne Übung fällt man schnell in alte Fehler zurück."
+  },
+  {
+    "Wortliste": "durchführbar",
+    "English": "feasible; practicable",
+    "Meaning": "Der Plan ist ehrgeizig, aber durchaus durchführbar."
+  },
+  {
+    "Wortliste": "der/die Erfinder/in, -/-nen",
+    "English": "the inventor",
+    "Meaning": "Der Erfinder hat ein neues Energiesystem entwickelt."
+  },
+  {
+    "Wortliste": "die Notlüge, -n",
+    "English": "the white lie",
+    "Meaning": "Manchmal benutzt man eine Notlüge, um niemanden zu verletzen."
+  },
+  {
+    "Wortliste": "der Schneeball, \"-e",
+    "English": "the snowball",
+    "Meaning": "Die Kinder werfen sich Schneebälle zu."
+  },
+  {
+    "Wortliste": "wälzen",
+    "English": "to pore over; to roll",
+    "Meaning": "Er wälzt abends stundenlang Fachbücher."
+  },
+  {
+    "Wortliste": "das Sprichwort, \"-er",
+    "English": "the proverb; saying",
+    "Meaning": "Kennst du das Sprichwort „Übung macht den Meister“?"
+  },
+  {
+    "Wortliste": "abstrakt",
+    "English": "abstract",
+    "Meaning": "Das ist mir zu abstrakt, ich brauche ein konkretes Beispiel."
+  },
+  {
+    "Wortliste": "akustisch",
+    "English": "acoustic; audibly",
+    "Meaning": "Im Saal ist die Musik akustisch gut zu hören."
+  },
+  {
+    "Wortliste": "der/die Artgenosse/Artgenossin, -n/-nen",
+    "English": "the conspecific; member of the same species",
+    "Meaning": "Viele Tiere leben gern mit ihren Artgenossen zusammen."
+  },
+  {
+    "Wortliste": "die Bekanntschaft, -en",
+    "English": "the acquaintance",
+    "Meaning": "Im Sprachkurs habe ich viele neue Bekanntschaften gemacht."
+  },
+  {
+    "Wortliste": "die Bewertung, -en",
+    "English": "the evaluation; rating",
+    "Meaning": "Das Restaurant hat sehr gute Bewertungen im Internet."
+  },
+  {
+    "Wortliste": "dermaßen",
+    "English": "so much; to such an extent",
+    "Meaning": "Er war dermaßen müde, dass er sofort eingeschlafen ist."
+  },
+  {
+    "Wortliste": "ertragen, ertrug, hat ertragen",
+    "English": "to bear; to endure",
+    "Meaning": "Diese Hitze ist kaum zu ertragen."
+  },
+  {
+    "Wortliste": "erwecken",
+    "English": "to arouse; to evoke",
+    "Meaning": "Der Film erweckt den Eindruck, eine wahre Geschichte zu sein."
+  },
+  {
+    "Wortliste": "glaubwürdig",
+    "English": "credible; believable",
+    "Meaning": "Ihre Erklärung klingt sehr glaubwürdig."
+  },
+  {
+    "Wortliste": "greifen, griff, hat gegriffen (nach einer Lüge greifen)",
+    "English": "to grab; to reach for (to resort to a lie)",
+    "Meaning": "In der Situation griff er aus Angst nach einer Lüge."
+  },
+  {
+    "Wortliste": "ignorieren",
+    "English": "to ignore",
+    "Meaning": "Man sollte wichtige Warnsignale nicht ignorieren."
+  },
+  {
+    "Wortliste": "intellektuell",
+    "English": "intellectual",
+    "Meaning": "Er mag intellektuelle Diskussionen über Politik."
+  },
+  {
+    "Wortliste": "der/die Kandidat/in, -en/-nen",
+    "English": "the candidate",
+    "Meaning": "Für die Stelle gibt es viele gut qualifizierte Kandidaten."
+  },
+  {
+    "Wortliste": "das Kommunikationsmittel, -",
+    "English": "the means of communication",
+    "Meaning": "E-Mails sind heute ein wichtiges Kommunikationsmittel."
+  },
+  {
+    "Wortliste": "das Kompliment, -e",
+    "English": "the compliment",
+    "Meaning": "Sie hat ihm ein nettes Kompliment gemacht."
+  },
+  {
+    "Wortliste": "kontinuierlich",
+    "English": "continuous; steadily",
+    "Meaning": "Sein Deutsch hat sich kontinuierlich verbessert."
+  },
+  {
+    "Wortliste": "kurzfristig",
+    "English": "at short notice; short-term",
+    "Meaning": "Der Termin wurde kurzfristig abgesagt."
+  },
+  {
+    "Wortliste": "längerfristig",
+    "English": "longer-term",
+    "Meaning": "Längerfristig möchte sie im Ausland arbeiten."
+  },
+  {
+    "Wortliste": "die Lügengeschichte, -n",
+    "English": "the made-up story; pack of lies",
+    "Meaning": "Seine Ausrede war eine reine Lügengeschichte."
+  },
+  {
+    "Wortliste": "die Nervenzelle, -n",
+    "English": "the nerve cell",
+    "Meaning": "Im Gehirn sind Millionen von Nervenzellen aktiv."
+  },
+  {
+    "Wortliste": "oftmals",
+    "English": "often; frequently",
+    "Meaning": "Oftmals hilft schon ein kurzer Spaziergang gegen Stress."
+  },
+  {
+    "Wortliste": "der/die Proband/in, -en/-nen",
+    "English": "the test subject (in a study)",
+    "Meaning": "Die Probanden nahmen freiwillig an dem Experiment teil."
+  },
+  {
+    "Wortliste": "die Psyche, -n",
+    "English": "the psyche",
+    "Meaning": "Stress kann die menschliche Psyche stark belasten."
+  },
+  {
+    "Wortliste": "das Radiofeature, -s",
+    "English": "the radio feature; radio documentary",
+    "Meaning": "Im Radiofeature berichten Experten über das Thema Lügen."
+  },
+  {
+    "Wortliste": "regulieren",
+    "English": "to regulate",
+    "Meaning": "Das Gesetz reguliert den Umgang mit persönlichen Daten."
+  },
+  {
+    "Wortliste": "schwindeln",
+    "English": "to cheat; to fib",
+    "Meaning": "Bei dem Test hat er ein bisschen geschwindelt."
+  },
+  {
+    "Wortliste": "die Sympathie, -n",
+    "English": "the liking; sympathy",
+    "Meaning": "Er genießt große Sympathie bei seinen Kollegen."
+  },
+  {
+    "Wortliste": "die Täuschung, -en",
+    "English": "the deception",
+    "Meaning": "Die Werbung arbeitet manchmal mit Täuschungen."
+  },
+  {
+    "Wortliste": "die Tendenz, -en",
+    "English": "the tendency; trend",
+    "Meaning": "Es gibt eine Tendenz zu immer längeren Arbeitszeiten."
+  },
+  {
+    "Wortliste": "übersehen, übersah, hat übersehen",
+    "English": "to overlook; to miss",
+    "Meaning": "Ich habe die wichtige Mail leider übersehen."
+  },
+  {
+    "Wortliste": "verarbeiten",
+    "English": "to process; to work through",
+    "Meaning": "Er braucht Zeit, um die Nachricht zu verarbeiten."
+  },
+  {
+    "Wortliste": "verbreitet",
+    "English": "widespread; common",
+    "Meaning": "Dieses Vorurteil ist leider immer noch weit verbreitet."
+  },
+  {
+    "Wortliste": "verfügen (über + A.)",
+    "English": "to have at one’s disposal; to possess",
+    "Meaning": "Sie verfügt über langjährige Berufserfahrung."
+  },
+  {
+    "Wortliste": "verschaffen",
+    "English": "to procure; to provide",
+    "Meaning": "Gute Sprachkenntnisse verschaffen dir Vorteile auf dem Arbeitsmarkt."
+  },
+  {
+    "Wortliste": "die Versuchsgruppe, -n",
+    "English": "the experimental group",
+    "Meaning": "Die Versuchsgruppe bekam andere Aufgaben als die Kontrollgruppe."
+  },
+  {
+    "Wortliste": "die Versuchsperson, -en",
+    "English": "the test person; subject",
+    "Meaning": "Die Versuchspersonen wussten nichts vom eigentlichen Ziel der Studie."
+  },
+  {
+    "Wortliste": "die Versuchsreihe, -n",
+    "English": "the series of experiments",
+    "Meaning": "In einer langen Versuchsreihe wurden die Ergebnisse überprüft."
+  },
+  {
+    "Wortliste": "das Warnsignal, -e",
+    "English": "the warning signal",
+    "Meaning": "Starke Müdigkeit kann ein Warnsignal für Stress sein."
+  },
+  {
+    "Wortliste": "der Weg, -e (etw./jmd. aus dem Weg gehen)",
+    "English": "the way (to avoid sth./sb.)",
+    "Meaning": "Seit dem Streit geht er ihr aus dem Weg."
+  },
+  {
+    "Wortliste": "wünschenswert",
+    "English": "desirable",
+    "Meaning": "Gute Deutschkenntnisse sind für diesen Job sehr wünschenswert."
+  },
+  {
+    "Wortliste": "der Bescheid, -e (Bescheid sagen)",
+    "English": "the information; answer (to let sb. know)",
+    "Meaning": "Sag mir bitte morgen Bescheid, ob du kommen kannst."
+  },
+  {
+    "Wortliste": "die Besprechung, -en",
+    "English": "the meeting; discussion",
+    "Meaning": "Die Besprechung findet im kleinen Konferenzraum statt."
+  },
+  {
+    "Wortliste": "der Besprechungstermin, -e",
+    "English": "the meeting appointment",
+    "Meaning": "Den Besprechungstermin haben wir auf Dienstag gelegt."
+  },
+  {
+    "Wortliste": "das Kundengespräch, -e",
+    "English": "the customer meeting; client talk",
+    "Meaning": "Im Kundengespräch ist eine klare Sprache wichtig."
+  },
+  {
+    "Wortliste": "der/die Mitbewohner/in, -/-nen",
+    "English": "the flatmate; roommate",
+    "Meaning": "Mein Mitbewohner kommt aus Spanien."
+  },
+  {
+    "Wortliste": "die Schulden (Pl.)",
+    "English": "the debts",
+    "Meaning": "Er möchte seine Schulden so schnell wie möglich zurückzahlen."
+  },
+  {
+    "Wortliste": "der Strauß, \"-e",
+    "English": "the bouquet; ostrich",
+    "Meaning": "Sie bekam einen schönen Strauß Blumen zum Geburtstag."
+  },
+  {
+    "Wortliste": "unpassend",
+    "English": "inappropriate; unsuitable",
+    "Meaning": "Sein Kommentar war in dieser Situation unpassend."
+  },
+  {
+    "Wortliste": "der/die Vermieter/in, -/-nen",
+    "English": "the landlord/landlady",
+    "Meaning": "Die Vermieterin wohnt im gleichen Haus."
+  },
+  {
+    "Wortliste": "der/die Besitzer/in, -/-nen",
+    "English": "the owner",
+    "Meaning": "Der Besitzer des Autos ist nicht zu Hause."
+  },
+  {
+    "Wortliste": "die Geldbörse, -n",
+    "English": "the wallet; purse",
+    "Meaning": "Ich habe meine Geldbörse im Café vergessen."
+  },
+  {
+    "Wortliste": "die Kreditkarte, -n",
+    "English": "the credit card",
+    "Meaning": "Kann ich hier mit Kreditkarte bezahlen?"
+  },
+  {
+    "Wortliste": "ansiedeln (in + D.)",
+    "English": "to settle; to establish (in)",
+    "Meaning": "Viele Firmen siedeln sich in der Region an."
+  },
+  {
+    "Wortliste": "die Atomenergie, -n",
+    "English": "nuclear energy",
+    "Meaning": "Die Nutzung von Atomenergie ist umstritten."
+  },
+  {
+    "Wortliste": "das Atomkraftwerk, -e",
+    "English": "the nuclear power plant",
+    "Meaning": "In der Nähe der Stadt steht ein altes Atomkraftwerk."
+  },
+  {
+    "Wortliste": "der Atommeiler, -",
+    "English": "the nuclear reactor",
+    "Meaning": "Der Atommeiler soll in den nächsten Jahren abgeschaltet werden."
+  },
+  {
+    "Wortliste": "der Aufbau (Sg.)",
+    "English": "the structure; construction",
+    "Meaning": "Der Aufbau des Textes ist klar und logisch."
+  },
+  {
+    "Wortliste": "aufhalten, hielt auf, hat aufgehalten",
+    "English": "to stop; to delay; to stay",
+    "Meaning": "Der Stau hat mich lange aufgehalten."
+  },
+  {
+    "Wortliste": "auftanken",
+    "English": "to refuel; to recharge",
+    "Meaning": "Im Urlaub konnte ich neue Energie auftanken."
+  },
+  {
+    "Wortliste": "ausfallen, fiel aus, ist ausgefallen",
+    "English": "to be cancelled; to fail",
+    "Meaning": "Der Kurs fällt heute leider aus."
+  },
+  {
+    "Wortliste": "auskommen, kam aus, ist ausgekommen",
+    "English": "to get along; to get by",
+    "Meaning": "Mit meinen Kollegen komme ich gut aus."
+  },
+  {
+    "Wortliste": "die Bahn, -en (freie Bahn haben)",
+    "English": "the track; the railway (to have free way)",
+    "Meaning": "Im Flur war niemand, wir hatten freie Bahn."
+  },
+  {
+    "Wortliste": "die Bakterie, -n",
+    "English": "the bacterium",
+    "Meaning": "Nicht alle Bakterien sind gefährlich."
+  },
+  {
+    "Wortliste": "das Bauwerk, -e",
+    "English": "the building; structure",
+    "Meaning": "Der Dom ist ein beeindruckendes Bauwerk."
+  },
+  {
+    "Wortliste": "bedroht (von + D.)",
+    "English": "threatened (by)",
+    "Meaning": "Viele Tierarten sind vom Aussterben bedroht."
+  },
+  {
+    "Wortliste": "das Blei (Sg.)",
+    "English": "lead (metal)",
+    "Meaning": "Früher wurden Wasserrohre oft aus Blei hergestellt."
+  },
+  {
+    "Wortliste": "der Damm, \"-e",
+    "English": "the dam; embankment",
+    "Meaning": "Nach dem Sturm war der Damm beschädigt."
+  },
+  {
+    "Wortliste": "deprimierend",
+    "English": "depressing",
+    "Meaning": "Die Nachrichten waren heute ziemlich deprimierend."
+  },
+  {
+    "Wortliste": "dramatisch",
+    "English": "dramatic",
+    "Meaning": "Die Lage im Überschwemmungsgebiet ist dramatisch."
+  },
+  {
+    "Wortliste": "einstürzen",
+    "English": "to collapse",
+    "Meaning": "Das alte Haus ist nach dem Sturm eingestürzt."
+  },
+  {
+    "Wortliste": "der/die Forscher/in, -/-nen",
+    "English": "the researcher; scientist",
+    "Meaning": "Die Forscher arbeiten an einem Impfstoff."
+  },
+  {
+    "Wortliste": "gesamt",
+    "English": "entire; total",
+    "Meaning": "Die gesamten Kosten trägt die Firma."
+  },
+  {
+    "Wortliste": "geschützt",
+    "English": "protected",
+    "Meaning": "Dieses Gebiet ist ein geschützter Naturpark."
+  },
+  {
+    "Wortliste": "der/die Gewinner/in, -/-nen",
+    "English": "the winner",
+    "Meaning": "Die Gewinner des Wettbewerbs bekommen ein Stipendium."
+  },
+  {
+    "Wortliste": "der Griff, -e (etw./jmd. fest im Griff haben)",
+    "English": "the grip; handle (to have sth./sb. under control)",
+    "Meaning": "Die Situation ist jetzt wieder fest im Griff."
+  },
+  {
+    "Wortliste": "das Grundwasser (Sg.)",
+    "English": "groundwater",
+    "Meaning": "Das Grundwasser darf nicht verschmutzt werden."
+  },
+  {
+    "Wortliste": "hinterlassen, hinterließ, hat hinterlassen",
+    "English": "to leave behind",
+    "Meaning": "Der Unfall hat deutliche Spuren hinterlassen."
+  },
+  {
+    "Wortliste": "intakt",
+    "English": "intact",
+    "Meaning": "Die alte Brücke ist trotz des Alters noch intakt."
+  },
+  {
+    "Wortliste": "die Kakerlake, -n",
+    "English": "the cockroach",
+    "Meaning": "In der Küche fanden sie mehrere Kakerlaken."
+  },
+  {
+    "Wortliste": "der/die Kämpfer/in, -/-nen",
+    "English": "the fighter",
+    "Meaning": "Trotz aller Probleme bleibt sie eine echte Kämpferin."
+  },
+  {
+    "Wortliste": "das Kraftwerk, -e",
+    "English": "the power plant",
+    "Meaning": "Das Kraftwerk versorgt die ganze Region mit Strom."
+  },
+  {
+    "Wortliste": "die Notversorgung, -en",
+    "English": "the emergency supply",
+    "Meaning": "Nach dem Stromausfall lief nur noch die Notversorgung."
+  },
+  {
+    "Wortliste": "der/die Ökologe/Ökologin, -n/-nen",
+    "English": "the ecologist",
+    "Meaning": "Ökologen warnen vor den Folgen des Klimawandels."
+  },
+  {
+    "Wortliste": "die Orientierung, -en",
+    "English": "the orientation; sense of direction",
+    "Meaning": "Im Dunkeln verliert man leicht die Orientierung."
+  },
+  {
+    "Wortliste": "der Planet, -en",
+    "English": "the planet",
+    "Meaning": "Wir müssen besser auf unseren Planeten achten."
+  },
+  {
+    "Wortliste": "die Plastiktüte, -n",
+    "English": "the plastic bag",
+    "Meaning": "Viele Supermärkte geben keine kostenlosen Plastiktüten mehr aus."
+  },
+  {
+    "Wortliste": "das Plutonium (Sg.)",
+    "English": "plutonium",
+    "Meaning": "Plutonium ist ein hoch radioaktives Material."
+  },
+  {
+    "Wortliste": "die Prognose, -n",
+    "English": "the forecast; prognosis",
+    "Meaning": "Die Prognosen für das Wetter sind gut."
+  },
+  {
+    "Wortliste": "die Pumpe, -n",
+    "English": "the pump",
+    "Meaning": "Eine Pumpe befördert das Wasser aus dem Keller."
+  },
+  {
+    "Wortliste": "radioaktiv",
+    "English": "radioactive",
+    "Meaning": "Radioaktive Stoffe müssen besonders geschützt werden."
+  },
+  {
+    "Wortliste": "die Ratte, -n",
+    "English": "the rat",
+    "Meaning": "Im alten Haus leben viele Ratten."
+  },
+  {
+    "Wortliste": "romantisch",
+    "English": "romantic",
+    "Meaning": "Der Sonnenuntergang am See war sehr romantisch."
+  },
+  {
+    "Wortliste": "die Schätzung, -en",
+    "English": "the estimate",
+    "Meaning": "Laut Schätzungen leben hier über eine Million Menschen."
+  },
+  {
+    "Wortliste": "sichtbar",
+    "English": "visible",
+    "Meaning": "Die Verbesserung ist deutlich sichtbar."
+  },
+  {
+    "Wortliste": "die Spezies, Spezien",
+    "English": "the species",
+    "Meaning": "Viele Spezien sind durch Umweltverschmutzung bedroht."
+  },
+  {
+    "Wortliste": "stehen, stand, hat gestanden (unter Wasser stehen)",
+    "English": "to stand (to be under water)",
+    "Meaning": "Nach dem Sturm stand der ganze Keller unter Wasser."
+  },
+  {
+    "Wortliste": "stimmen (jmd. romantisch stimmen)",
+    "English": "to make someone feel (romantic, etc.)",
+    "Meaning": "Die Musik stimmt mich romantisch."
+  },
+  {
+    "Wortliste": "die Stromleitung, -en",
+    "English": "the power line",
+    "Meaning": "Bei dem Sturm wurden mehrere Stromleitungen beschädigt."
+  },
+  {
+    "Wortliste": "die Struktur, -en",
+    "English": "the structure",
+    "Meaning": "Die soziale Struktur der Stadt hat sich verändert."
+  },
+  {
+    "Wortliste": "der/die Techniker/in, -/-nen",
+    "English": "the technician",
+    "Meaning": "Der Techniker repariert die kaputte Leitung."
+  },
+  {
+    "Wortliste": "der Tunnel, -",
+    "English": "the tunnel",
+    "Meaning": "Der Tunnel ist fast zwei Kilometer lang."
+  },
+  {
+    "Wortliste": "der Überblick (Sg.)",
+    "English": "the overview",
+    "Meaning": "Die Tabelle gibt einen guten Überblick über die Ergebnisse."
+  },
+  {
+    "Wortliste": "überleben",
+    "English": "to survive",
+    "Meaning": "Nur wenige Pflanzen überleben in dieser Wüste."
+  },
+  {
+    "Wortliste": "der Überrest, -e",
+    "English": "the remains; remnant",
+    "Meaning": "Die Archäologen untersuchen die Überreste der Stadt."
+  },
+  {
+    "Wortliste": "vergehen, verging, ist vergangen",
+    "English": "to pass (time)",
+    "Meaning": "Die Zeit vergeht wie im Flug."
+  },
+  {
+    "Wortliste": "der/die Verlierer/in, -/-nen",
+    "English": "the loser",
+    "Meaning": "Auch die Verlierer haben ihr Bestes gegeben."
+  },
+  {
+    "Wortliste": "vermehren (sich)",
+    "English": "to multiply; to reproduce",
+    "Meaning": "Die Bakterien vermehren sich bei Wärme sehr schnell."
+  },
+  {
+    "Wortliste": "versinken, versank, ist versunken",
+    "English": "to sink; to get lost in",
+    "Meaning": "Er ist ganz in seine Gedanken versunken."
+  },
+  {
+    "Wortliste": "die Vision, -en",
+    "English": "the vision",
+    "Meaning": "Sie hat eine klare Vision von ihrer Zukunft."
+  },
+  {
+    "Wortliste": "wegwerfen, warf weg, hat weggeworfen",
+    "English": "to throw away",
+    "Meaning": "Bitte wirf den Müll nicht auf die Straße weg."
+  },
+  {
+    "Wortliste": "der Zerfall (Sg.)",
+    "English": "the decay; disintegration",
+    "Meaning": "Der Zerfall des alten Gebäudes ist deutlich zu sehen."
+  },
+  {
+    "Wortliste": "zerfallen, zerfiel, ist zerfallen",
+    "English": "to fall apart; to decay",
+    "Meaning": "Die Mauer ist mit der Zeit zerfallen."
+  },
+  {
+    "Wortliste": "zurückerobern",
+    "English": "to win back; to recapture",
+    "Meaning": "Die Natur hat sich das Gebiet langsam zurückerobert."
+  },
+  {
+    "Wortliste": "übereinstimmen (mit + D.)",
+    "English": "to correspond; to agree (with)",
+    "Meaning": "Seine Meinung stimmt mit meinen Erfahrungen überein."
+  },
+  {
+    "Wortliste": "der Charakter (Sg.)",
+    "English": "the character",
+    "Meaning": "An schwierigen Situationen erkennt man den wahren Charakter."
+  },
+  {
+    "Wortliste": "ausschlafen, schlief aus, hat ausgeschlafen",
+    "English": "to sleep in; to sleep enough",
+    "Meaning": "Am Wochenende kann ich endlich ausschlafen."
+  },
+  {
+    "Wortliste": "dösen",
+    "English": "to doze",
+    "Meaning": "Nach dem Essen döste er ein wenig auf dem Sofa."
+  },
+  {
+    "Wortliste": "das Murmeltier, -e",
+    "English": "the marmot",
+    "Meaning": "Murmeltier sprichwörtlich: ‚Wie ein Murmeltier schlafen‘."
+  },
+  {
+    "Wortliste": "das Nickerchen, - (ein Nickerchen machen)",
+    "English": "the nap (to take a nap)",
+    "Meaning": "Nachmittags mache ich gern ein kurzes Nickerchen."
+  },
+  {
+    "Wortliste": "der/die Allesfresser/in, -/-nen",
+    "English": "the omnivore",
+    "Meaning": "Der Mensch ist biologisch gesehen ein Allesfresser."
+  },
+  {
+    "Wortliste": "arg",
+    "English": "bad(ly); severe(ly)",
+    "Meaning": "Er hat sich beim Sport arg verletzt."
+  },
+  {
+    "Wortliste": "ausreichend",
+    "English": "sufficient; enough",
+    "Meaning": "Trinkst du ausreichend Wasser am Tag?"
+  },
+  {
+    "Wortliste": "der Ausweis, -e",
+    "English": "the ID card; pass",
+    "Meaning": "Bitte zeigen Sie mir Ihren Ausweis."
+  },
+  {
+    "Wortliste": "der Beleg, -e",
+    "English": "the receipt; proof",
+    "Meaning": "Heben Sie den Beleg für die Garantie auf."
+  },
+  {
+    "Wortliste": "der Bettflüchter, -",
+    "English": "person who gets up very early (colloquial)",
+    "Meaning": "Er ist ein echter Bettflüchter und steht schon um fünf Uhr auf."
+  },
+  {
+    "Wortliste": "der Bluthochdruck (Sg.)",
+    "English": "high blood pressure",
+    "Meaning": "Stress kann zu Bluthochdruck führen."
+  },
+  {
+    "Wortliste": "dauerhaft",
+    "English": "permanent; lasting",
+    "Meaning": "Dauerhafte Müdigkeit sollte man ernst nehmen."
+  },
+  {
+    "Wortliste": "durcharbeiten",
+    "English": "to work through (without a break)",
+    "Meaning": "Gestern habe ich bis spät in die Nacht durchgearbeitet."
+  },
+  {
+    "Wortliste": "der Durchschnitt, -e",
+    "English": "the average",
+    "Meaning": "Im Durchschnitt schlafen Erwachsene sieben bis acht Stunden."
+  },
+  {
+    "Wortliste": "der Eifer (Sg.)",
+    "English": "the eagerness; zeal",
+    "Meaning": "Sie lernt mit großem Eifer für die Prüfung."
+  },
+  {
+    "Wortliste": "eingerechnet",
+    "English": "included; counted in",
+    "Meaning": "Die Pausen sind in die Arbeitszeit eingerechnet."
+  },
+  {
+    "Wortliste": "eintauchen (in + A.)",
+    "English": "to immerse oneself (in)",
+    "Meaning": "Beim Lesen tauche ich völlig in die Geschichte ein."
+  },
+  {
+    "Wortliste": "der/die Feind/in, -e/-nen",
+    "English": "the enemy",
+    "Meaning": "Früher waren die beiden Länder Feinde."
+  },
+  {
+    "Wortliste": "der/die Feuilletonist/in, -en/-nen",
+    "English": "the arts journalist; feuilleton writer",
+    "Meaning": "Die Feuilletonistin schreibt über aktuelle Theaterstücke."
+  },
+  {
+    "Wortliste": "der/die Gealterte, -n",
+    "English": "the aged person",
+    "Meaning": "Viele Gealterte wünschen sich mehr Ruhe."
+  },
+  {
+    "Wortliste": "gehoben",
+    "English": "elevated; upscale",
+    "Meaning": "Sie wohnt in einem eher gehobenen Viertel."
+  },
+  {
+    "Wortliste": "gleichermaßen",
+    "English": "equally",
+    "Meaning": "Das Angebot richtet sich gleichermaßen an Jung und Alt."
+  },
+  {
+    "Wortliste": "global",
+    "English": "global",
+    "Meaning": "Der Klimawandel ist ein globales Problem."
+  },
+  {
+    "Wortliste": "hemmen",
+    "English": "to inhibit; to hinder",
+    "Meaning": "Angst kann die Leistungsfähigkeit hemmen."
+  },
+  {
+    "Wortliste": "der Herzinfarkt, -e",
+    "English": "the heart attack",
+    "Meaning": "Rauchen erhöht das Risiko für einen Herzinfarkt."
+  },
+  {
+    "Wortliste": "das Hirn, -e",
+    "English": "the brain",
+    "Meaning": "Im Schlaf erholt sich das Hirn."
+  },
+  {
+    "Wortliste": "kahl",
+    "English": "bald; bare",
+    "Meaning": "Im Winter stehen die Bäume kahl im Wind."
+  },
+  {
+    "Wortliste": "die Konkurrenz (Sg.)",
+    "English": "the competition",
+    "Meaning": "Die Konkurrenz auf dem Arbeitsmarkt ist groß."
+  },
+  {
+    "Wortliste": "die Lebenskunst, \"-e",
+    "English": "the art of living",
+    "Meaning": "Gelassenheit ist ein Teil der Lebenskunst."
+  },
+  {
+    "Wortliste": "die Leistungsfähigkeit (Sg.)",
+    "English": "performance capacity; efficiency",
+    "Meaning": "Genügend Schlaf steigert die Leistungsfähigkeit."
+  },
+  {
+    "Wortliste": "der Markt, \"-e",
+    "English": "the market",
+    "Meaning": "Auf dem Markt gibt es frisches Obst und Gemüse."
+  },
+  {
+    "Wortliste": "die Matratze, -n",
+    "English": "the mattress",
+    "Meaning": "Eine gute Matratze ist wichtig für den Rücken."
+  },
+  {
+    "Wortliste": "der/die Mediziner/in, -/-nen",
+    "English": "the medical doctor; medic",
+    "Meaning": "Mediziner empfehlen einen regelmäßigen Schlafrhythmus."
+  },
+  {
+    "Wortliste": "der/die Ministerpräsident/in, -en/-nen",
+    "English": "the prime minister (of a federal state)",
+    "Meaning": "Der Ministerpräsident spricht im Fernsehen zur aktuellen Lage."
+  },
+  {
+    "Wortliste": "das Mittagsschläfchen, -",
+    "English": "the midday nap; siesta",
+    "Meaning": "Ein kurzes Mittagsschläfchen kann sehr erholsam sein."
+  },
+  {
+    "Wortliste": "mittelalterlich",
+    "English": "medieval",
+    "Meaning": "Die Altstadt hat viele mittelalterliche Gebäude."
+  },
+  {
+    "Wortliste": "die Mitternacht (Sg.)",
+    "English": "midnight",
+    "Meaning": "Um Mitternacht war die Party noch in vollem Gange."
+  },
+  {
+    "Wortliste": "müdegearbeitet",
+    "English": "tired out from work",
+    "Meaning": "Nach der Schicht war er völlig müdegearbeitet."
+  },
+  {
+    "Wortliste": "die Nachteule, -n",
+    "English": "the night owl",
+    "Meaning": "Sie ist eine echte Nachteule und geht spät ins Bett."
+  },
+  {
+    "Wortliste": "ohnehin",
+    "English": "anyway; in any case",
+    "Meaning": "Ich wollte ohnehin früher nach Hause gehen."
+  },
+  {
+    "Wortliste": "das Organ, -e",
+    "English": "the organ",
+    "Meaning": "Das Herz ist ein lebenswichtiges Organ."
+  },
+  {
+    "Wortliste": "der/die Optimierer/in, -/-nen",
+    "English": "the optimizer (person who optimizes everything)",
+    "Meaning": "Als echter Optimierer plant er seinen Tag bis ins Detail."
+  },
+  {
+    "Wortliste": "der/die Power-Napper/in",
+    "English": "the power napper",
+    "Meaning": "Power-Napper schwören auf ein kurzes Schläfchen am Mittag."
+  },
+  {
+    "Wortliste": "die Produktivität (Sg.)",
+    "English": "productivity",
+    "Meaning": "Ausreichend Schlaf steigert die Produktivität am Arbeitsplatz."
+  },
+  {
+    "Wortliste": "rechnen (mit + D.)",
+    "English": "to expect; to count on",
+    "Meaning": "Mit so vielen Teilnehmern hatte niemand gerechnet."
+  },
+  {
+    "Wortliste": "die Regenerationsphase, -n",
+    "English": "regeneration phase; recovery phase",
+    "Meaning": "Im Schlaf beginnt für den Körper eine wichtige Regenerationsphase."
+  },
+  {
+    "Wortliste": "die Ressource, -n",
+    "English": "resource",
+    "Meaning": "Zeit ist eine knappe Ressource im Berufsleben."
+  },
+  {
+    "Wortliste": "der Rhythmus, Rhythmen",
+    "English": "rhythm",
+    "Meaning": "Ein regelmäßiger Schlafrhythmus ist gesund."
+  },
+  {
+    "Wortliste": "das Schlafforschungszentrum, -zentren",
+    "English": "sleep research center",
+    "Meaning": "Im Schlafforschungszentrum werden neue Therapien getestet."
+  },
+  {
+    "Wortliste": "das Schlafhormon, -e",
+    "English": "sleep hormone",
+    "Meaning": "Melatonin ist ein bekanntes Schlafhormon."
+  },
+  {
+    "Wortliste": "die Schlafstörung, -en",
+    "English": "sleep disorder",
+    "Meaning": "Viele Menschen leiden unter Schlafstörungen."
+  },
+  {
+    "Wortliste": "der/die Schlafwandler/in, -/-nen",
+    "English": "sleepwalker",
+    "Meaning": "Schlafwandler erinnern sich oft nicht an die Nacht."
+  },
+  {
+    "Wortliste": "die Schlagzeile, -n",
+    "English": "headline",
+    "Meaning": "Die Schlagzeile auf der Titelseite war sehr dramatisch."
+  },
+  {
+    "Wortliste": "die Schreibblockade, -n",
+    "English": "writer’s block",
+    "Meaning": "Vor der Prüfung hatte sie eine totale Schreibblockade."
+  },
+  {
+    "Wortliste": "senken",
+    "English": "to lower; to reduce",
+    "Meaning": "Sport kann den Stresspegel deutlich senken."
+  },
+  {
+    "Wortliste": "die Sperre, -n (eine Sperre im Kopf haben)",
+    "English": "barrier; block (to have a mental block)",
+    "Meaning": "Bei mündlichen Prüfungen habe ich manchmal eine Sperre im Kopf."
+  },
+  {
+    "Wortliste": "der Stoffwechsel, -",
+    "English": "metabolism",
+    "Meaning": "Im Schlaf verlangsamt sich der Stoffwechsel."
+  },
+  {
+    "Wortliste": "das Tief, -s (ein Mittagstief haben)",
+    "English": "low; slump (to have an afternoon slump)",
+    "Meaning": "Nach dem Essen habe ich oft ein kleines Mittagstief."
+  },
+  {
+    "Wortliste": "überlebensnotwendig",
+    "English": "vital for survival",
+    "Meaning": "Wasser und Schlaf sind überlebensnotwendig."
+  },
+  {
+    "Wortliste": "verarbeiten",
+    "English": "to process; to work through",
+    "Meaning": "Im Traum verarbeitet das Gehirn die Eindrücke des Tages."
+  },
+  {
+    "Wortliste": "verpönt",
+    "English": "frowned upon; taboo",
+    "Meaning": "Ein Nickerchen im Büro ist in vielen Firmen noch verpönt."
+  },
+  {
+    "Wortliste": "die Verschwendung, -en",
+    "English": "waste",
+    "Meaning": "Viele halten es für Verschwendung, lange auszuschlafen."
+  },
+  {
+    "Wortliste": "vorgeschrieben",
+    "English": "prescribed; required",
+    "Meaning": "Für Lkw-Fahrer sind Ruhezeiten gesetzlich vorgeschrieben."
+  },
+  {
+    "Wortliste": "die Wachphase, -n",
+    "English": "wake phase",
+    "Meaning": "Zwischen den Tiefschlafphasen gibt es kurze Wachphasen."
+  },
+  {
+    "Wortliste": "die Weile (Sg.)",
+    "English": "a while",
+    "Meaning": "Bleib doch noch eine Weile und trink einen Kaffee."
+  },
+  {
+    "Wortliste": "der/die Workaholic, -s",
+    "English": "workaholic",
+    "Meaning": "Workaholics haben oft Schwierigkeiten, abzuschalten."
+  },
+  {
+    "Wortliste": "die Zeitnot (Sg.)",
+    "English": "time pressure; lack of time",
+    "Meaning": "Wegen ständiger Zeitnot kommt sie kaum zur Ruhe."
+  },
+  {
+    "Wortliste": "der Zustand, \"-e",
+    "English": "state; condition",
+    "Meaning": "Nach der Nachtschicht war sein körperlicher Zustand schlecht."
+  },
+  {
+    "Wortliste": "die Erkenntnis, -se",
+    "English": "insight; realization",
+    "Meaning": "Die Studie brachte wichtige neue Erkenntnisse."
+  },
+  {
+    "Wortliste": "die Entspannung (Sg.)",
+    "English": "relaxation",
+    "Meaning": "Ein Spaziergang am Abend sorgt für Entspannung."
+  },
+  {
+    "Wortliste": "anfällig (für + A.)",
+    "English": "susceptible (to)",
+    "Meaning": "Übermüdete Menschen sind anfälliger für Fehler."
+  },
+  {
+    "Wortliste": "die Auswirkung, -en (auf + A.)",
+    "English": "effect; impact (on)",
+    "Meaning": "Schlafmangel hat negative Auswirkungen auf die Gesundheit."
+  },
+  {
+    "Wortliste": "die Belastbarkeit (Sg.)",
+    "English": "resilience; capacity to cope with stress",
+    "Meaning": "Regelmäßiger Schlaf erhöht die psychische Belastbarkeit."
+  },
+  {
+    "Wortliste": "der/die Frühaufsteher/in, -/-nen",
+    "English": "early riser",
+    "Meaning": "Frühaufsteher sind morgens besonders produktiv."
+  },
+  {
+    "Wortliste": "die Leistungssteigerung, -en",
+    "English": "performance increase",
+    "Meaning": "Schon kleine Pausen können zu einer deutlichen Leistungssteigerung führen."
+  },
+  {
+    "Wortliste": "die Merkfähigkeit (Sg.)",
+    "English": "ability to remember",
+    "Meaning": "Im ausgeschlafenen Zustand ist die Merkfähigkeit höher."
+  },
+  {
+    "Wortliste": "das Schlafbedürfnis (Sg.)",
+    "English": "need for sleep",
+    "Meaning": "Das Schlafbedürfnis ist von Mensch zu Mensch verschieden."
+  },
+  {
+    "Wortliste": "das Wohlbefinden (Sg.)",
+    "English": "well-being",
+    "Meaning": "Genug Ruhe ist wichtig für das allgemeine Wohlbefinden."
+  },
+  {
+    "Wortliste": "die Beachtung (Sg.) (Beachtung finden)",
+    "English": "attention (to attract attention)",
+    "Meaning": "Die Studie fand große Beachtung in den Medien."
+  },
+  {
+    "Wortliste": "der Faktor, -en",
+    "English": "factor",
+    "Meaning": "Stress ist ein wichtiger Faktor bei Schlafstörungen."
+  },
+  {
+    "Wortliste": "die Hektik (Sg.)",
+    "English": "hectic rush; hustle",
+    "Meaning": "In der Hektik des Alltags vergisst man leicht Pausen."
+  },
+  {
+    "Wortliste": "die Intonation, -en",
+    "English": "intonation",
+    "Meaning": "Durch die Intonation kann sich die Bedeutung eines Satzes ändern."
+  },
+  {
+    "Wortliste": "die Mimik (Sg.)",
+    "English": "facial expression",
+    "Meaning": "Ihre Mimik verrät mehr als ihre Worte."
+  },
+  {
+    "Wortliste": "die Reue (Sg.)",
+    "English": "remorse",
+    "Meaning": "Er zeigte keine Reue für sein Verhalten."
+  },
+  {
+    "Wortliste": "das Schamgefühl, -e",
+    "English": "sense of shame",
+    "Meaning": "Ein starkes Schamgefühl kann offene Gespräche verhindern."
+  },
+  {
+    "Wortliste": "das Wohlwollen (Sg.)",
+    "English": "goodwill; benevolence",
+    "Meaning": "Der Chef hörte ihm mit sichtbarem Wohlwollen zu."
+  },
+  {
+    "Wortliste": "der Zorn (Sg.)",
+    "English": "anger; rage",
+    "Meaning": "Sie versuchte, ihren Zorn zu kontrollieren."
+  },
+  {
+    "Wortliste": "der Buchstabe, -n",
+    "English": "letter (of the alphabet)",
+    "Meaning": "Bitte schreiben Sie alle Buchstaben gut lesbar."
+  },
+  {
+    "Wortliste": "die Energiequelle, -n",
+    "English": "source of energy",
+    "Meaning": "Schlaf ist eine wichtige Energiequelle für den Körper."
+  },
+  {
+    "Wortliste": "das Geisterhaus, \"-er",
+    "English": "haunted house",
+    "Meaning": "Als Kind hatte ich Angst vor Geisterhäusern."
+  },
+  {
+    "Wortliste": "das Grab, \"-er",
+    "English": "grave",
+    "Meaning": "An Allerheiligen schmücken viele Menschen die Gräber."
+  },
+  {
+    "Wortliste": "der/die Herrscher/in, -/-nen",
+    "English": "ruler",
+    "Meaning": "Die alten Herrscher wurden oft als Götter verehrt."
+  },
+  {
+    "Wortliste": "der Kaugummi, -s",
+    "English": "chewing gum",
+    "Meaning": "Bitte wirf den Kaugummi nicht auf den Boden."
+  },
+  {
+    "Wortliste": "die Lupe, -n",
+    "English": "magnifying glass",
+    "Meaning": "Mit der Lupe kann man die kleinen Buchstaben besser lesen."
+  },
+  {
+    "Wortliste": "der Reißverschluss, \"-e",
+    "English": "zip; zipper",
+    "Meaning": "Der Reißverschluss meiner Jacke ist kaputt."
+  },
+  {
+    "Wortliste": "der Schutzpatron, -e",
+    "English": "patron saint",
+    "Meaning": "Er glaubt, dass sein Schutzpatron über ihn wacht."
+  },
+  {
+    "Wortliste": "der Steinbeißer, -",
+    "English": "stone biter (type of fish, or joke name)",
+    "Meaning": "Im Aquarium schwimmt ein kleiner Steinbeißer."
+  },
+  {
+    "Wortliste": "das Versteck, -e",
+    "English": "hiding place",
+    "Meaning": "Die Kinder haben ein geheimes Versteck im Garten."
+  },
+  {
+    "Wortliste": "die Verwandlung, -en",
+    "English": "transformation",
+    "Meaning": "Die Verwandlung der Raupe in einen Schmetterling ist faszinierend."
+  },
+  {
+    "Wortliste": "die Wunderlampe, -n",
+    "English": "magic lamp",
+    "Meaning": "In der Geschichte erscheint aus der Wunderlampe ein Geist."
+  },
+  {
+    "Wortliste": "der Zauberer, -",
+    "English": "magician; wizard",
+    "Meaning": "Der Zauberer ließ die Münze verschwinden."
+  },
+  {
+    "Wortliste": "das Abgas, -e",
+    "English": "exhaust gas",
+    "Meaning": "Abgase von Autos verschmutzen die Luft."
+  },
+  {
+    "Wortliste": "das Atomkraftwerk, -e",
+    "English": "nuclear power plant",
+    "Meaning": "Viele Menschen demonstrieren gegen Atomkraftwerke."
+  },
+  {
+    "Wortliste": "das Ozonloch, \"-er",
+    "English": "ozone hole",
+    "Meaning": "In den 90er-Jahren war das Ozonloch ein großes Thema."
+  },
+  {
+    "Wortliste": "das Waldsterben (Sg.)",
+    "English": "forest dieback",
+    "Meaning": "Waldsterben ist eine Folge von Luftverschmutzung."
+  },
+  {
+    "Wortliste": "der Atommüll (Sg.)",
+    "English": "nuclear waste",
+    "Meaning": "Atommüll muss sicher gelagert werden."
+  },
+  {
+    "Wortliste": "die Erderwärmung (Sg.)",
+    "English": "global warming",
+    "Meaning": "Die Erderwärmung führt zu häufigeren Hitzewellen."
+  },
+  {
+    "Wortliste": "das Hochwasser, -",
+    "English": "flood; high water",
+    "Meaning": "Nach dem starken Regen droht Hochwasser."
+  },
+  {
+    "Wortliste": "die Kernenergie (Sg.)",
+    "English": "nuclear energy",
+    "Meaning": "Über die Rolle der Kernenergie wird heftig diskutiert."
+  },
+  {
+    "Wortliste": "das Kohlendioxid (Sg.)",
+    "English": "carbon dioxide",
+    "Meaning": "Beim Autofahren entsteht Kohlendioxid."
+  },
+  {
+    "Wortliste": "die Luftverschmutzung (Sg.)",
+    "English": "air pollution",
+    "Meaning": "In Großstädten ist die Luftverschmutzung oft hoch."
+  },
+  {
+    "Wortliste": "die Solarenergie (Sg.)",
+    "English": "solar energy",
+    "Meaning": "Viele Häuser nutzen Solarenergie vom eigenen Dach."
+  },
+  {
+    "Wortliste": "das Trinkwasser (Sg.)",
+    "English": "drinking water",
+    "Meaning": "Sauberes Trinkwasser ist nicht überall selbstverständlich."
+  },
+  {
+    "Wortliste": "die Überschwemmung, -en",
+    "English": "flooding",
+    "Meaning": "Heftige Regenfälle verursachten schwere Überschwemmungen."
+  },
+  {
+    "Wortliste": "der Umweltschutz (Sg.)",
+    "English": "environmental protection",
+    "Meaning": "Viele Organisationen setzen sich für den Umweltschutz ein."
+  },
+  {
+    "Wortliste": "die Umweltverschmutzung (Sg.)",
+    "English": "environmental pollution",
+    "Meaning": "Plastikmüll im Meer ist ein großes Problem der Umweltverschmutzung."
+  },
+  {
+    "Wortliste": "das Windrad, \"-er",
+    "English": "wind turbine",
+    "Meaning": "Auf dem Hügel drehen sich mehrere Windräder."
+  },
+  {
+    "Wortliste": "ausstoßen, stieß aus, hat ausgestoßen",
+    "English": "to emit",
+    "Meaning": "Die Fabrik stößt viele Abgase aus."
+  },
+  {
+    "Wortliste": "die Branche, -n",
+    "English": "industry sector; branch",
+    "Meaning": "Sie arbeitet in der IT-Branche."
+  },
+  {
+    "Wortliste": "die Dürre, -n",
+    "English": "drought",
+    "Meaning": "Die lange Dürre hat die Ernte zerstört."
+  },
+  {
+    "Wortliste": "einsparen",
+    "English": "to save; to cut",
+    "Meaning": "Durch LED-Lampen kann man viel Energie einsparen."
+  },
+  {
+    "Wortliste": "die Energieeffizienz (Sg.)",
+    "English": "energy efficiency",
+    "Meaning": "Moderne Geräte haben eine hohe Energieeffizienz."
+  },
+  {
+    "Wortliste": "die Ernteeinbuße, -n",
+    "English": "crop loss",
+    "Meaning": "Dürreperioden führen zu großen Ernteeinbußen."
+  },
+  {
+    "Wortliste": "die Erzeugung (Sg.)",
+    "English": "production; generation",
+    "Meaning": "Die Erzeugung von Strom aus Wind nimmt zu."
+  },
+  {
+    "Wortliste": "die Forstwirtschaft (Sg.)",
+    "English": "forestry",
+    "Meaning": "Nachhaltige Forstwirtschaft schützt den Wald."
+  },
+  {
+    "Wortliste": "die Gletscherschmelze (Sg.)",
+    "English": "glacier melt",
+    "Meaning": "Die Gletscherschmelze ist ein Zeichen der Klimaerwärmung."
+  },
+  {
+    "Wortliste": "der/die Klimaforscher/in, -/-nen",
+    "English": "climate researcher",
+    "Meaning": "Klimaforscher warnen vor den Folgen der Erderwärmung."
+  },
+  {
+    "Wortliste": "die Klimaveränderung, -en",
+    "English": "climate change",
+    "Meaning": "Klimaveränderungen beeinflussen das Wetter weltweit."
+  },
+  {
+    "Wortliste": "der/die Meteorologe/Meteorologin, -n/-nen",
+    "English": "meteorologist",
+    "Meaning": "Meteorologen erstellen die Wettervorhersagen."
+  },
+  {
+    "Wortliste": "der Schadstoff, -e",
+    "English": "pollutant",
+    "Meaning": "Filteranlagen sollen Schadstoffe aus der Luft entfernen."
+  },
+  {
+    "Wortliste": "die Stromerzeugung (Sg.)",
+    "English": "electricity generation",
+    "Meaning": "Die Stromerzeugung aus erneuerbaren Quellen steigt."
+  },
+  {
+    "Wortliste": "die Treibhausgasemission, -en",
+    "English": "greenhouse gas emission",
+    "Meaning": "Treibhausgasemissionen müssen dringend reduziert werden."
+  },
+  {
+    "Wortliste": "der Treibhauseffekt (Sg.)",
+    "English": "greenhouse effect",
+    "Meaning": "Der Treibhauseffekt wird durch CO₂ verstärkt."
+  },
+  {
+    "Wortliste": "die Ursache, -n",
+    "English": "cause",
+    "Meaning": "Die genauen Ursachen des Sturms sind noch unklar."
+  },
+  {
+    "Wortliste": "verbrauchen",
+    "English": "to use; to consume",
+    "Meaning": "Dieses alte Auto verbraucht viel Benzin."
+  },
+  {
+    "Wortliste": "der Verzicht (auf + A.)",
+    "English": "renunciation; giving up",
+    "Meaning": "Ein teilweiser Verzicht auf das Auto ist gut für die Umwelt."
+  },
+  {
+    "Wortliste": "die Wetteraufzeichnung, -en",
+    "English": "weather record",
+    "Meaning": "Lange Wetteraufzeichnungen helfen den Forschern."
+  },
+  {
+    "Wortliste": "die Wetterbedingung, -en",
+    "English": "weather condition",
+    "Meaning": "Die Wettkämpfe hängen von den Wetterbedingungen ab."
+  },
+  {
+    "Wortliste": "der Zeitraum, \"-e",
+    "English": "period of time",
+    "Meaning": "Im Zeitraum von zehn Jahren hat sich viel verändert."
+  },
+  {
+    "Wortliste": "der Anstieg, -e",
+    "English": "increase; rise",
+    "Meaning": "Ein Anstieg der Temperaturen ist deutlich zu sehen."
+  },
+  {
+    "Wortliste": "die Auswirkung, -en",
+    "English": "effect; consequence",
+    "Meaning": "Die Auswirkungen des Klimawandels sind überall spürbar."
+  },
+  {
+    "Wortliste": "der Beleg, -e",
+    "English": "proof; evidence",
+    "Meaning": "Die Daten liefern einen klaren Beleg für die Veränderung."
+  },
+  {
+    "Wortliste": "beweisen, bewies, hat bewiesen",
+    "English": "to prove",
+    "Meaning": "Die Studie beweist den Zusammenhang eindeutig."
+  },
+  {
+    "Wortliste": "drohen (mit + D.)",
+    "English": "to threaten (with)",
+    "Meaning": "Bei weiterer Erwärmung drohen häufigere Unwetter."
+  },
+  {
+    "Wortliste": "erheblich",
+    "English": "considerable; significant",
+    "Meaning": "Die Schäden sind erheblich."
+  },
+  {
+    "Wortliste": "das Ereignis, -se",
+    "English": "event",
+    "Meaning": "Solche Extremereignisse nehmen zu."
+  },
+  {
+    "Wortliste": "erwärmen (sich)",
+    "English": "to warm (up)",
+    "Meaning": "Die Atmosphäre erwärmt sich weiter."
+  },
+  {
+    "Wortliste": "die Hitzewelle, -n",
+    "English": "heatwave",
+    "Meaning": "Im Sommer gab es mehrere lange Hitzewellen."
+  },
+  {
+    "Wortliste": "die Prognose, -n",
+    "English": "forecast; prediction",
+    "Meaning": "Die Prognosen für die nächsten Jahrzehnte sind besorgniserregend."
+  },
+  {
+    "Wortliste": "das Unwetter, -",
+    "English": "severe storm; bad weather",
+    "Meaning": "Ein schweres Unwetter zog über die Stadt."
+  },
+  {
+    "Wortliste": "verzeichnen",
+    "English": "to record; to register",
+    "Meaning": "In diesem Jahr verzeichnete man neue Temperaturrekorde."
+  },
+  {
+    "Wortliste": "zunehmen, nahm zu, hat zugenommen",
+    "English": "to increase",
+    "Meaning": "Die Zahl der Stürme hat in den letzten Jahren zugenommen."
+  },
+  {
+    "Wortliste": "die Drohung, -en",
+    "English": "threat",
+    "Meaning": "Die Klimakrise ist eine reale Drohung für viele Regionen."
+  },
+  {
+    "Wortliste": "das Kohlendioxid (Sg.)",
+    "English": "carbon dioxide",
+    "Meaning": "Kohlendioxid entsteht bei der Verbrennung von Kohle, Öl und Gas."
+  },
+  {
+    "Wortliste": "der Sauerstoff (Sg.)",
+    "English": "oxygen",
+    "Meaning": "Ohne Sauerstoff können wir nicht leben."
+  },
+  {
+    "Wortliste": "der Smog (Sg.)",
+    "English": "smog",
+    "Meaning": "In einigen Großstädten ist der Smog im Winter besonders stark."
+  },
+  {
+    "Wortliste": "die Energie, -n (Energie sparen)",
+    "English": "energy (to save energy)",
+    "Meaning": "Zu Hause kann man leicht Energie sparen."
+  },
+  {
+    "Wortliste": "die Solaranlage, -n",
+    "English": "solar system (for energy)",
+    "Meaning": "Auf dem Dach wurde eine große Solaranlage installiert."
+  },
+  {
+    "Wortliste": "der Atomausstieg (Sg.)",
+    "English": "nuclear phase-out",
+    "Meaning": "Der Atomausstieg wird politisch heftig diskutiert."
+  },
+  {
+    "Wortliste": "die Laufzeitverlängerung, -en",
+    "English": "extension of operating life",
+    "Meaning": "Die Laufzeitverlängerung alter Kraftwerke ist umstritten."
+  },
+  {
+    "Wortliste": "der Ökostrom (Sg.)",
+    "English": "green electricity",
+    "Meaning": "Immer mehr Haushalte beziehen Ökostrom."
+  },
+  {
+    "Wortliste": "die Stromquelle, -n",
+    "English": "source of electricity",
+    "Meaning": "Wind und Sonne sind wichtige Stromquellen."
+  },
+  {
+    "Wortliste": "die Windkraft (Sg.)",
+    "English": "wind power",
+    "Meaning": "Die Windkraft spielt in Deutschland eine große Rolle."
+  },
+  {
+    "Wortliste": "der Ausbau (Sg.)",
+    "English": "expansion",
+    "Meaning": "Der Ausbau erneuerbarer Energien wird gefördert."
+  },
+  {
+    "Wortliste": "durchsetzen (sich)",
+    "English": "to prevail; to catch on",
+    "Meaning": "Erneuerbare Energien setzen sich immer mehr durch."
+  },
+  {
+    "Wortliste": "nachhaltig",
+    "English": "sustainable",
+    "Meaning": "Nachhaltige Lösungen schützen Umwelt und Klima."
+  },
+  {
+    "Wortliste": "regenerativ",
+    "English": "renewable",
+    "Meaning": "Wind- und Sonnenenergie sind regenerative Energien."
+  },
+  {
+    "Wortliste": "unerschöpflich",
+    "English": "inexhaustible",
+    "Meaning": "Sonnenlicht ist eine fast unerschöpfliche Energiequelle."
+  },
+  {
+    "Wortliste": "zentral",
+    "English": "central; key",
+    "Meaning": "Energiesparen ist ein zentrales Thema der Klimapolitik."
+  },
+  {
+    "Wortliste": "die Biomasse (Sg.)",
+    "English": "biomass",
+    "Meaning": "Aus Biomasse kann ebenfalls Energie gewonnen werden."
+  },
+  {
+    "Wortliste": "die Erdwärme (Sg.)",
+    "English": "geothermal heat",
+    "Meaning": "Erdwärme wird zur Heizung von Häusern genutzt."
+  },
+  {
+    "Wortliste": "die Geothermie (Sg.)",
+    "English": "geothermal energy",
+    "Meaning": "Geothermie nutzt die Wärme aus dem Inneren der Erde."
+  },
+  {
+    "Wortliste": "die Sonnenenergie (Sg.)",
+    "English": "solar energy",
+    "Meaning": "Sonnenenergie steht uns täglich gratis zur Verfügung."
+  },
+  {
+    "Wortliste": "die Wasserkraft (Sg.)",
+    "English": "hydropower",
+    "Meaning": "In den Alpen gibt es viele Wasserkraftwerke."
+  },
+  {
+    "Wortliste": "die Windenergie (Sg.)",
+    "English": "wind energy",
+    "Meaning": "Die Nutzung von Windenergie nimmt weltweit zu."
+  },
+  {
+    "Wortliste": "die Ansicht, -en (meiner Ansicht nach)",
+    "English": "view; opinion (in my view)",
+    "Meaning": "Meiner Ansicht nach sollte man mehr in Bildung investieren."
+  },
+  {
+    "Wortliste": "betonen",
+    "English": "to emphasize",
+    "Meaning": "Er betonte, wie wichtig Teamarbeit ist."
+  },
+  {
+    "Wortliste": "die Meinung, -en (der Meinung sein)",
+    "English": "opinion (to be of the opinion)",
+    "Meaning": "Ich bin der Meinung, dass das eine gute Idee ist."
+  },
+  {
+    "Wortliste": "überzeugen (von + D.)",
+    "English": "to convince (of)",
+    "Meaning": "Sie konnte ihn von ihrem Vorschlag überzeugen."
+  },
+  {
+    "Wortliste": "widersprechen, widersprach, hat widersprochen",
+    "English": "to contradict; to disagree",
+    "Meaning": "Da muss ich dir leider widersprechen."
+  },
+  {
+    "Wortliste": "die Bestätigung, -en",
+    "English": "confirmation",
+    "Meaning": "Sie bekam eine schriftliche Bestätigung der Anmeldung."
+  },
+  {
+    "Wortliste": "die Vermutung, -en",
+    "English": "assumption; suspicion",
+    "Meaning": "Meine Vermutung war richtig."
+  },
+  {
+    "Wortliste": "die Zusammenfassung, -en",
+    "English": "summary",
+    "Meaning": "Am Ende des Vortrags gab es eine kurze Zusammenfassung."
+  },
+  {
+    "Wortliste": "die App, -s",
+    "English": "app",
+    "Meaning": "Mit dieser App kannst du deinen Schlaf aufzeichnen."
+  },
+  {
+    "Wortliste": "auffrischen",
+    "English": "to refresh; to brush up",
+    "Meaning": "Ich möchte mein Deutsch ein bisschen auffrischen."
+  },
+  {
+    "Wortliste": "ausleihen, lieh aus, hat ausgeliehen",
+    "English": "to borrow; to lend",
+    "Meaning": "Ich habe mir ein Buch aus der Bibliothek ausgeliehen."
+  },
+  {
+    "Wortliste": "bedienen",
+    "English": "to operate; to serve",
+    "Meaning": "Können Sie dieses Gerät bedienen?"
+  },
+  {
+    "Wortliste": "die Funktionsweise, -n",
+    "English": "mode of operation; how something works",
+    "Meaning": "Die Funktionsweise der App wird im Video erklärt."
+  },
+  {
+    "Wortliste": "das Gerät, -e",
+    "English": "device; appliance",
+    "Meaning": "Dieses Gerät misst den Blutdruck."
+  },
+  {
+    "Wortliste": "interaktiv",
+    "English": "interactive",
+    "Meaning": "Die Webseite bietet viele interaktive Übungen."
+  },
+  {
+    "Wortliste": "die Klimaanlage, -n",
+    "English": "air conditioning system",
+    "Meaning": "Im Sommer läuft im Büro ständig die Klimaanlage."
+  },
+  {
+    "Wortliste": "das Navigationsgerät, -e",
+    "English": "navigation device; satnav",
+    "Meaning": "Im Auto hilft uns das Navigationsgerät, den Weg zu finden."
+  },
+  {
+    "Wortliste": "per",
+    "English": "by; via",
+    "Meaning": "Die Tickets bekommst du per E-Mail."
+  },
+  {
+    "Wortliste": "der Schalter, -",
+    "English": "switch; counter",
+    "Meaning": "Drück bitte auf den Schalter, um das Licht anzumachen."
+  },
+  {
+    "Wortliste": "die Steckdose, -n",
+    "English": "socket; power outlet",
+    "Meaning": "Der Stecker passt nicht in diese Steckdose."
+  },
+  {
+    "Wortliste": "steuern",
+    "English": "to control; to steer",
+    "Meaning": "Du kannst die Heizung per App steuern."
+  },
+  {
+    "Wortliste": "tippen",
+    "English": "to type; to tap",
+    "Meaning": "Bitte tippen Sie Ihren PIN ein."
+  },
+  {
+    "Wortliste": "das Touchscreen, -s",
+    "English": "touchscreen",
+    "Meaning": "Das Handy hat ein großes Touchscreen."
+  },
+  {
+    "Wortliste": "die Fernbedienung, -en",
+    "English": "remote control",
+    "Meaning": "Wo ist die Fernbedienung für den Fernseher?"
+  },
+  {
+    "Wortliste": "das Kabel, -",
+    "English": "cable",
+    "Meaning": "Pass auf, dass du nicht über das Kabel stolperst."
+  },
+  {
+    "Wortliste": "der Akku, -s",
+    "English": "rechargeable battery",
+    "Meaning": "Der Akku meines Handys ist fast leer."
+  },
+  {
+    "Wortliste": "die Alarmanlage, -n",
+    "English": "alarm system",
+    "Meaning": "Nach dem Einbruch haben sie eine Alarmanlage eingebaut."
+  },
+  {
+    "Wortliste": "der/die Anwender/in, -/-nen",
+    "English": "user",
+    "Meaning": "Die Software ist für unerfahrene Anwender leicht zu bedienen."
+  },
+  {
+    "Wortliste": "das Display, -s",
+    "English": "display; screen",
+    "Meaning": "Auf dem Display werden alle Funktionen angezeigt."
+  },
+  {
+    "Wortliste": "das Ersatzteil, -e",
+    "English": "spare part",
+    "Meaning": "Für alte Geräte gibt es oft keine Ersatzteile mehr."
+  },
+  {
+    "Wortliste": "die Fehlfunktion, -en",
+    "English": "malfunction",
+    "Meaning": "Eine Fehlfunktion hat den Computer abstürzen lassen."
+  },
+  {
+    "Wortliste": "die Garantie, -n",
+    "English": "guarantee; warranty",
+    "Meaning": "Auf das Gerät gibt es zwei Jahre Garantie."
+  },
+  {
+    "Wortliste": "der/die Hersteller/in, -/-nen",
+    "English": "manufacturer",
+    "Meaning": "Der Hersteller empfiehlt eine regelmäßige Wartung."
+  },
+  {
+    "Wortliste": "die Komponente, -n",
+    "English": "component",
+    "Meaning": "Alle Komponenten des Systems müssen zusammenpassen."
+  },
+  {
+    "Wortliste": "der Lautsprecher, -",
+    "English": "loudspeaker",
+    "Meaning": "Die Musik kommt aus kleinen Lautsprechern."
+  },
+  {
+    "Wortliste": "das Mikrofon, -e",
+    "English": "microphone",
+    "Meaning": "Mit dem Mikrofon kann man die Stimme aufnehmen."
+  },
+  {
+    "Wortliste": "der Monitor, -e",
+    "English": "monitor; screen",
+    "Meaning": "Der neue Monitor hat eine sehr hohe Auflösung."
+  },
+  {
+    "Wortliste": "der Sensor, -en",
+    "English": "sensor",
+    "Meaning": "Ein Sensor schaltet das Licht automatisch ein."
+  },
+  {
+    "Wortliste": "die Software, -s",
+    "English": "software",
+    "Meaning": "Die Software muss regelmäßig aktualisiert werden."
+  },
+  {
+    "Wortliste": "die Sprachsteuerung, -en",
+    "English": "voice control",
+    "Meaning": "Viele Geräte lassen sich heute per Sprachsteuerung bedienen."
+  },
+  {
+    "Wortliste": "der Stecker, -",
+    "English": "plug",
+    "Meaning": "Zieh den Stecker, bevor du das Gerät reparierst."
+  },
+  {
+    "Wortliste": "das Zubehör (Sg.)",
+    "English": "accessories",
+    "Meaning": "Zum Handy gehört viel Zubehör wie Kopfhörer und Ladegerät."
+  },
+  {
+    "Wortliste": "anbringen, brachte an, hat angebracht",
+    "English": "to attach; to mount",
+    "Meaning": "Die Kamera wurde an der Wand angebracht."
+  },
+  {
+    "Wortliste": "anschließen, schloss an, hat angeschlossen",
+    "English": "to connect; to plug in",
+    "Meaning": "Schließen Sie das Gerät an die Steckdose an."
+  },
+  {
+    "Wortliste": "ausstatten (mit + D.)",
+    "English": "to equip (with)",
+    "Meaning": "Die Wohnung ist mit einer modernen Küche ausgestattet."
+  },
+  {
+    "Wortliste": "defekt",
+    "English": "defective; broken",
+    "Meaning": "Das Handy ist defekt und geht nicht mehr an."
+  },
+  {
+    "Wortliste": "einbauen",
+    "English": "to install; to build in",
+    "Meaning": "Der Techniker baut eine neue Festplatte ein."
+  },
+  {
+    "Wortliste": "einschalten",
+    "English": "to switch on",
+    "Meaning": "Bitte schalten Sie das Gerät ein."
+  },
+  {
+    "Wortliste": "ersetzen",
+    "English": "to replace",
+    "Meaning": "Wir müssen die alten Kabel ersetzen."
+  },
+  {
+    "Wortliste": "justieren",
+    "English": "to adjust; to calibrate",
+    "Meaning": "Die Kamera muss noch genau justiert werden."
+  },
+  {
+    "Wortliste": "reparaturanfällig",
+    "English": "prone to needing repairs",
+    "Meaning": "Das Modell gilt als sehr reparaturanfällig."
+  },
+  {
+    "Wortliste": "reparieren",
+    "English": "to repair",
+    "Meaning": "Der Fachmann hat den Fernseher schnell repariert."
+  },
+  {
+    "Wortliste": "umrüsten",
+    "English": "to convert; to retrofit",
+    "Meaning": "Die Anlage wurde auf Ökostrom umgerüstet."
+  },
+  {
+    "Wortliste": "verknüpfen (mit + D.)",
+    "English": "to link; to connect (with)",
+    "Meaning": "Die App verknüpft sich mit deinem Kalender."
+  },
+  {
+    "Wortliste": "warten",
+    "English": "to maintain; to service",
+    "Meaning": "Die Heizung sollte einmal im Jahr gewartet werden."
+  },
+  {
+    "Wortliste": "die Abneigung, -en (gegen + A.)",
+    "English": "aversion (to)",
+    "Meaning": "Er hat eine starke Abneigung gegen laute Musik."
+  },
+  {
+    "Wortliste": "die Begeisterung (Sg.) (für + A.)",
+    "English": "enthusiasm (for)",
+    "Meaning": "Ihre Begeisterung für Technik ist ansteckend."
+  },
+  {
+    "Wortliste": "die Skepsis (Sg.) (gegenüber + D.)",
+    "English": "skepticism (towards)",
+    "Meaning": "Gegenüber neuen Apps zeigt er große Skepsis."
+  },
+  {
+    "Wortliste": "die Zustimmung (Sg.) (zu + D.)",
+    "English": "approval; consent",
+    "Meaning": "Für die Änderung brauchen wir die Zustimmung aller."
+  },
+  {
+    "Wortliste": "die Aufzählung, -en",
+    "English": "list; enumeration",
+    "Meaning": "In der Aufzählung fehlen noch ein paar wichtige Punkte."
+  },
+  {
+    "Wortliste": "die Einschränkung, -en",
+    "English": "limitation; restriction",
+    "Meaning": "Das Angebot gilt mit einigen Einschränkungen."
+  },
+  {
+    "Wortliste": "der Gegensatz, \"-e",
+    "English": "contrast; opposite",
+    "Meaning": "Zwischen Theorie und Praxis gibt es oft einen Gegensatz."
+  },
+  {
+    "Wortliste": "der Hai, -e",
+    "English": "shark",
+    "Meaning": "Viele Menschen haben Angst vor Haien."
+  },
+  {
+    "Wortliste": "das Hauptthema, -themen",
+    "English": "main topic",
+    "Meaning": "Klimaschutz war das Hauptthema der Konferenz."
+  },
+  {
+    "Wortliste": "das Immunsystem, -e",
+    "English": "immune system",
+    "Meaning": "Ein starkes Immunsystem schützt vor Krankheiten."
+  },
+  {
+    "Wortliste": "kentern",
+    "English": "to capsize",
+    "Meaning": "Das Boot ist bei Sturm gekentert."
+  },
+  {
+    "Wortliste": "umbringen, brachte um, hat umgebracht",
+    "English": "to kill",
+    "Meaning": "In dem Krimi wurde ein Zeuge umgebracht."
+  },
+  {
+    "Wortliste": "das Verbrechen, -",
+    "English": "crime",
+    "Meaning": "Die Polizei untersucht ein schweres Verbrechen."
+  },
+  {
+    "Wortliste": "der Zwischenfall, \"-e",
+    "English": "incident",
+    "Meaning": "Der Zwischenfall wurde in den Nachrichten gemeldet."
+  },
+  {
+    "Wortliste": "die Akademie, -n",
+    "English": "academy",
+    "Meaning": "Er studiert an einer Kunstakademie."
+  },
+  {
+    "Wortliste": "die Begabung, -en",
+    "English": "talent; aptitude",
+    "Meaning": "Sie hat eine besondere Begabung für Physik."
+  },
+  {
+    "Wortliste": "die Innovation, -en",
+    "English": "innovation",
+    "Meaning": "Die Firma ist bekannt für ihre technischen Innovationen."
+  },
+  {
+    "Wortliste": "die Linse, -n",
+    "English": "lens",
+    "Meaning": "Die Kamera verfügt über eine hochwertige Linse."
+  },
+  {
+    "Wortliste": "das Patent, -e",
+    "English": "patent",
+    "Meaning": "Für seine Erfindung hat er ein Patent angemeldet."
+  },
+  {
+    "Wortliste": "der Ruhm (Sg.)",
+    "English": "fame",
+    "Meaning": "Mit dieser Erfindung erlangte er großen Ruhm."
+  },
+  {
+    "Wortliste": "der/die Spektakelmacher/in, -/-nen",
+    "English": "person who stages spectacles",
+    "Meaning": "Der Spektakelmacher sorgt für große Shows im Fernsehen."
+  },
+  {
+    "Wortliste": "der/die Tüftler/in, -/-nen",
+    "English": "tinkerer; person who loves to fiddle with things",
+    "Meaning": "Tüftler verbringen Stunden damit, kleine Details zu verbessern."
+  },
+  {
+    "Wortliste": "anmelden (zum Patent anmelden)",
+    "English": "to register; to file (a patent)",
+    "Meaning": "Er will seine Idee zum Patent anmelden."
+  },
+  {
+    "Wortliste": "der/die Astronom/in, -en/-nen",
+    "English": "astronomer",
+    "Meaning": "Astronomen beobachten Sterne und Planeten."
+  },
+  {
+    "Wortliste": "das Bedürfnis (nach + D.)",
+    "English": "need (for)",
+    "Meaning": "Viele Menschen haben ein großes Bedürfnis nach Sicherheit."
+  },
+  {
+    "Wortliste": "benennen, benannte, hat benannt",
+    "English": "to name",
+    "Meaning": "Die Forscher benannten den neuen Stern nach der Entdeckerin."
+  },
+  {
+    "Wortliste": "eingehen, ging ein, ist eingegangen (in die Geschichte eingehen)",
+    "English": "to enter; to go down (in history)",
+    "Meaning": "Seine Entdeckung ging in die Geschichte ein."
+  },
+  {
+    "Wortliste": "die Glaserlehre, -n",
+    "English": "apprenticeship as a glazier",
+    "Meaning": "Er machte eine Glaserlehre in einer kleinen Werkstatt."
+  },
+  {
+    "Wortliste": "kontrollieren",
+    "English": "to control; to check",
+    "Meaning": "Bitte kontrollieren Sie die Angaben noch einmal."
+  },
+  {
+    "Wortliste": "die Kontrolle (Sg.) (außer Kontrolle geraten)",
+    "English": "control (to get out of control)",
+    "Meaning": "Das Feuer geriet schnell außer Kontrolle."
+  },
+  {
+    "Wortliste": "kommen, kam, ist gekommen (ums Leben kommen)",
+    "English": "to come (to lose one’s life)",
+    "Meaning": "Bei dem Unfall sind mehrere Menschen ums Leben gekommen."
+  },
+  {
+    "Wortliste": "das Leben, - (ums Leben kommen)",
+    "English": "life",
+    "Meaning": "Viele Tiere kommen durch Umweltverschmutzung ums Leben."
+  },
+  {
+    "Wortliste": "manipulieren",
+    "English": "to manipulate",
+    "Meaning": "Die Daten wurden nachträglich manipuliert."
+  },
+  {
+    "Wortliste": "die Meerestiefe, -n",
+    "English": "depth of the sea",
+    "Meaning": "In großen Meerestiefen leben besondere Tiere."
+  },
+  {
+    "Wortliste": "das Meerestier, -e",
+    "English": "sea animal",
+    "Meaning": "Viele Meerestiere leiden unter Plastikmüll."
+  },
+  {
+    "Wortliste": "die Nation, -en",
+    "English": "nation",
+    "Meaning": "Viele Nationen arbeiten beim Klimaschutz zusammen."
+  },
+  {
+    "Wortliste": "der Oberarm, -e",
+    "English": "upper arm",
+    "Meaning": "Die Impfung wird in den Oberarm gespritzt."
+  },
+  {
+    "Wortliste": "die Qualle, -n",
+    "English": "jellyfish",
+    "Meaning": "Im Meer sollte man vor Quallen aufpassen."
+  },
+  {
+    "Wortliste": "das Rauchen (Sg.)",
+    "English": "smoking",
+    "Meaning": "Rauchen schadet der Gesundheit."
+  },
+  {
+    "Wortliste": "der Schwarm, \"-e",
+    "English": "swarm; shoal",
+    "Meaning": "Ein Schwarm Fische schwamm am Boot vorbei."
+  },
+  {
+    "Wortliste": "der/die Schwimmer/in, -/-nen",
+    "English": "swimmer",
+    "Meaning": "Gute Schwimmer dürfen im tiefen Becken schwimmen."
+  },
+  {
+    "Wortliste": "sowieso",
+    "English": "anyway",
+    "Meaning": "Ich muss sowieso in die Stadt, ich nehme dein Paket mit."
+  },
+  {
+    "Wortliste": "das Sportpensum, -pensen",
+    "English": "amount of exercise",
+    "Meaning": "Sein tägliches Sportpensum ist beeindruckend."
+  },
+  {
+    "Wortliste": "vorsprechen, sprach vor, hat vorgesprochen (vor Gericht vorsprechen)",
+    "English": "to appear; to speak in front of (court)",
+    "Meaning": "Der Zeuge musste vor Gericht vorsprechen."
+  },
+  {
+    "Wortliste": "wiedertreffen, traf wieder, hat wiedergetroffen",
+    "English": "to meet again",
+    "Meaning": "Nach vielen Jahren trafen sie sich wieder."
+  },
+  {
+    "Wortliste": "zustande kommen, kam zustande, ist zustande gekommen",
+    "English": "to come about; to materialize",
+    "Meaning": "Der Vertrag kam nach langen Verhandlungen zustande."
   }
 ]

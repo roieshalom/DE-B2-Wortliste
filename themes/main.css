@@ -68,13 +68,15 @@ h1 {
 
 .header-inner {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   justify-content: space-between;
   align-items: center;
   gap: 20px;
 }
 
 .header h1 {
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 600;
   color: var(--header-text); 
   font-family: var(--font-family);
@@ -90,7 +92,7 @@ h1 {
 
 .header-links {
   display: flex;
-  gap: 14px;
+  gap: 20px;
 }
 
 .header-links a {
@@ -99,6 +101,7 @@ h1 {
   font-size: 1.1rem;
   font-weight: 500;
   font-family: var(--font-family);
+  text-decoration: underline;
 }
 
 .header-links a:hover {

@@ -307,8 +307,8 @@ h1 {
 /* Default theme button look */
 .theme-btn-default {
   border-radius: 10px;
-  border-color: #1e81b0;
-  color: #1e81b0;
+  border-color: #b01e73;
+  color: #92175f;
   font-family: 'Noto Sans', Arial, sans-serif;
 }
 
@@ -316,7 +316,7 @@ h1 {
 .theme-btn-brutalist {
   border-radius: 0;
   border-color: rgb(0, 0, 0);
-  color: #d33;
+  color: #158d4b;
   box-shadow: 2px 2px 0px hsl(0 0% 0% / 1);
   font-family: 'Geo', Courier, monospace;
 }

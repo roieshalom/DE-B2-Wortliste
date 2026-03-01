@@ -176,6 +176,7 @@
           <h3>Language</h3>
           <label><input type="radio" name="language" value="english"> English</label>
           <label><input type="radio" name="language" value="hebrew"> עברית</label>
+          <label><input type="radio" name="language" value="ukrainian"> Українська</label>
         </div>
       </div>
     </div>
@@ -186,6 +187,7 @@
     const MEANING_KEY = "Meaning";
     const ENGLISH_KEY = "English";
     const HEBREW_KEY = "Hebrew";
+    const UKRAINIAN_KEY = "Ukrainian";
     const SOURCES = { 'b2': 'B2-1.json', 'aspekte-beruf': 'B2-2.json' };
     let vocabData = [];
     let currentIdx = 0;
@@ -230,6 +232,8 @@
       const meaning = item[MEANING_KEY] || "";
       const translation = settings.language === 'hebrew'
         ? (item[HEBREW_KEY] || item[ENGLISH_KEY] || "")
+        : settings.language === 'ukrainian'
+        ? (item[UKRAINIAN_KEY] || item[ENGLISH_KEY] || "")
         : (item[ENGLISH_KEY] || "");
       
       const outer = document.createElement('div');

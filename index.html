@@ -14,7 +14,6 @@
   gtag('config', 'G-7MRET87ZCS');
 </script>
 
-
   <!-- Google Fonts Noto Sans -->
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="themes/main.css">
@@ -39,6 +38,7 @@
         <a href="#feedback" id="feedback-link" class="header-feedback-link">Feedback</a>
         <a href="#ueber" id="about-link">Über</a>
         <a href="https://www.b1wortschatz.de" target="_blank" id="about-link">B1 ↗&#xfe0e;</a>
+        <a href="#settings" id="settings-link" aria-label="Settings">⚙</a>
 
       </div>
     </div>
@@ -159,12 +159,46 @@
     </div>
   </div>
 
+  <!-- SETTINGS MODAL -->
+  <div class="about-modal-overlay" id="settings-overlay">
+    <div class="about-modal" id="settings-modal">
+      <div class="about-modal-header">
+        <h2 class="about-modal-title">Settings</h2>
+        <button class="about-modal-close" id="settings-close-btn" aria-label="Close">&times;</button>
+      </div>
+      <div class="about-modal-body">
+        <div class="settings-section">
+          <h3>Source</h3>
+          <label><input type="checkbox" name="source" value="b2"> B2</label>
+          <label><input type="checkbox" name="source" value="aspekte-beruf"> Aspekte Beruf</label>
+        </div>
+        <div class="settings-section">
+          <h3>Language</h3>
+          <label><input type="radio" name="language" value="english"> English</label>
+          <label><input type="radio" name="language" value="hebrew"> עברית</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script>
     const WORD_KEY = "Wortliste";
     const MEANING_KEY = "Meaning";
     const ENGLISH_KEY = "English";
+    const HEBREW_KEY = "Hebrew";
+    const SOURCES = { 'b2': 'B2-1.json', 'aspekte-beruf': 'B2-2.json' };
     let vocabData = [];
     let currentIdx = 0;
+    let settings = { sources: ['b2'], language: 'english' };
+
+    function loadSettings() {
+      const saved = localStorage.getItem('settings');
+      if (saved) settings = { ...settings, ...JSON.parse(saved) };
+    }
+
+    function saveSettings() {
+      localStorage.setItem('settings', JSON.stringify(settings));
+    }
     
     function shuffleArray(array) {
       for (let i = array.length - 1; i > 0; i--) {
@@ -194,7 +228,9 @@
       
       const word = item[WORD_KEY] || Object.values(item)[0];
       const meaning = item[MEANING_KEY] || "";
-      const english = item[ENGLISH_KEY] || "";
+      const translation = settings.language === 'hebrew'
+        ? (item[HEBREW_KEY] || item[ENGLISH_KEY] || "")
+        : (item[ENGLISH_KEY] || "");
       
       const outer = document.createElement('div');
       outer.className = 'flip-card-outer';
@@ -211,7 +247,7 @@
             </button>
           </div>
           <div class="flip-card-back">
-            <div class="back-english">${english}</div>
+            <div class="back-english">${translation}</div>
             <div class="back-meaning">${meaning}</div>
           </div>
         </div>
@@ -253,17 +289,23 @@
       renderCard(currentIdx);
     }
     
-    fetch('csvjson.json')
-      .then(response => response.json())
-      .then(data => {
-        vocabData = data;
-        shuffleArray(vocabData);
-        showCard(0);
-      })
-      .catch(error => {
-        document.getElementById('game-container').innerText =
-          'Fehler beim Laden der Wortliste: ' + error;
-      });
+    function loadVocabData() {
+      const fetches = settings.sources.map(src => fetch(SOURCES[src]).then(r => r.json()));
+      Promise.all(fetches)
+        .then(datasets => {
+          vocabData = [].concat(...datasets);
+          shuffleArray(vocabData);
+          currentIdx = 0;
+          showCard(0);
+        })
+        .catch(error => {
+          document.getElementById('game-container').innerText =
+            'Fehler beim Laden der Wortliste: ' + error;
+        });
+    }
+
+    loadSettings();
+    loadVocabData();
     
     document.getElementById('next-btn').addEventListener('click', function() {
       if (vocabData.length > 0) {
@@ -381,6 +423,44 @@
           }
         });
       }
+
+      // Settings modal
+      const settingsLink = document.getElementById('settings-link');
+      const settingsOverlay = document.getElementById('settings-overlay');
+      const settingsCloseBtn = document.getElementById('settings-close-btn');
+      const sourceCheckboxes = document.querySelectorAll('input[name="source"]');
+      const languageRadios = document.querySelectorAll('input[name="language"]');
+
+      // Init UI from saved settings
+      sourceCheckboxes.forEach(cb => { cb.checked = settings.sources.includes(cb.value); });
+      languageRadios.forEach(r => { r.checked = r.value === settings.language; });
+
+      function openSettings() { settingsOverlay.classList.add('open'); }
+      function closeSettings() { settingsOverlay.classList.remove('open'); }
+
+      settingsLink.addEventListener('click', e => { e.preventDefault(); openSettings(); });
+      settingsCloseBtn.addEventListener('click', closeSettings);
+      settingsOverlay.addEventListener('click', e => { if (e.target === settingsOverlay) closeSettings(); });
+
+      // Source checkboxes — enforce at least 1
+      sourceCheckboxes.forEach(cb => {
+        cb.addEventListener('change', () => {
+          const checked = [...sourceCheckboxes].filter(c => c.checked).map(c => c.value);
+          if (checked.length === 0) { cb.checked = true; return; }
+          settings.sources = checked;
+          saveSettings();
+          loadVocabData();
+        });
+      });
+
+      // Language radios
+      languageRadios.forEach(r => {
+        r.addEventListener('change', () => {
+          settings.language = r.value;
+          saveSettings();
+          renderCard(currentIdx);
+        });
+      });
     });
   </script>
 </body>

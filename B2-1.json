@@ -1,0 +1,4784 @@
+[
+  {
+    "Wortliste": "die Vorstellung, -en",
+    "English": "the introduction; the performance; the idea",
+    "Meaning": "1. Nach der Vorstellung haben wir uns alle kurz vorgestellt.\n2. Die Theateraufführung gestern war eine tolle Vorstellung.",
+    "Hebrew": "הצגה / מופע / מושג / היכרות"
+  },
+  {
+    "Wortliste": "das Zitat, -e",
+    "English": "the quotation",
+    "Meaning": "Das Zitat aus dem Buch passt sehr gut zu unserem Thema.",
+    "Hebrew": "ציטוט"
+  },
+  {
+    "Wortliste": "das Fernweh (Sg.)",
+    "English": "the wanderlust; longing to travel far away",
+    "Meaning": "Im Winter habe ich immer starkes Fernweh nach warmen Ländern.",
+    "Hebrew": "געגוע לנדודים / כמיהה לטייל"
+  },
+  {
+    "Wortliste": "der Arbeitsvertrag, \"-e",
+    "English": "the employment contract",
+    "Meaning": "Bevor ich anfange zu arbeiten, muss ich den Arbeitsvertrag unterschreiben.",
+    "Hebrew": "חוזה עבודה"
+  },
+  {
+    "Wortliste": "auflösen",
+    "English": "to dissolve; to cancel; to resolve",
+    "Meaning": "Wir mussten den Mietvertrag früher auflösen.",
+    "Hebrew": "לבטל / לפרק / להמיס"
+  },
+  {
+    "Wortliste": "beantragen",
+    "English": "to apply for; to request officially",
+    "Meaning": "Hast du schon die Arbeitserlaubnis beantragt?",
+    "Hebrew": "לבקש / להגיש בקשה"
+  },
+  {
+    "Wortliste": "eröffnen",
+    "English": "to open; to inaugurate",
+    "Meaning": "Nächste Woche eröffnet in unserer Straße ein neues Café.",
+    "Hebrew": "לפתוח / להקים"
+  },
+  {
+    "Wortliste": "der Handyvertrag, \"-e",
+    "English": "the mobile phone contract",
+    "Meaning": "Mein Handyvertrag läuft noch ein Jahr.",
+    "Hebrew": "חוזה טלפון סלולרי"
+  },
+  {
+    "Wortliste": "knüpfen",
+    "English": "to tie; to establish (contacts)",
+    "Meaning": "Auf der Konferenz konnte ich viele neue Kontakte knüpfen.",
+    "Hebrew": "לקשור / ליצור (קשרים)"
+  },
+  {
+    "Wortliste": "der Kontakt, -e",
+    "English": "the contact",
+    "Meaning": "Ich habe noch Kontakt zu meinen Kollegen aus Deutschland.",
+    "Hebrew": "קשר / מגע"
+  },
+  {
+    "Wortliste": "der Mietvertrag, \"-e",
+    "English": "the rental contract; the lease",
+    "Meaning": "Im Mietvertrag steht, dass Haustiere erlaubt sind.",
+    "Hebrew": "חוזה שכירות"
+  },
+  {
+    "Wortliste": "der/die Nachmieter/in, -/-nen",
+    "English": "the new tenant; the successor tenant",
+    "Meaning": "Wir suchen noch einen Nachmieter für unsere Wohnung.",
+    "Hebrew": "דייר/ת הבא/ה"
+  },
+  {
+    "Wortliste": "abenteuerlich",
+    "English": "adventurous",
+    "Meaning": "Die Reise durch Südamerika war sehr abenteuerlich.",
+    "Hebrew": "הרפתקני"
+  },
+  {
+    "Wortliste": "die Arbeitserlaubnis, -se",
+    "English": "the work permit",
+    "Meaning": "Ohne Arbeitserlaubnis darf ich hier nicht arbeiten.",
+    "Hebrew": "היתר עבודה"
+  },
+  {
+    "Wortliste": "aufgeregt",
+    "English": "excited; agitated; nervous",
+    "Meaning": "Vor dem Vorstellungsgespräch war ich sehr aufgeregt.",
+    "Hebrew": "נרגש/ת"
+  },
+  {
+    "Wortliste": "die Auslandserfahrung, -en",
+    "English": "the experience abroad",
+    "Meaning": "Auslandserfahrung ist für viele Firmen ein Vorteil.",
+    "Hebrew": "ניסיון בחו\"ל"
+  },
+  {
+    "Wortliste": "auswandern",
+    "English": "to emigrate",
+    "Meaning": "Meine Freunde wollen nach Kanada auswandern.",
+    "Hebrew": "לעלות / להגר"
+  },
+  {
+    "Wortliste": "bereuen",
+    "English": "to regret",
+    "Meaning": "Ich bereue nicht, dass ich ins Ausland gegangen bin.",
+    "Hebrew": "להתחרט"
+  },
+  {
+    "Wortliste": "der Blog, -s",
+    "English": "the blog",
+    "Meaning": "Sie schreibt einen Blog über ihr Leben in Berlin.",
+    "Hebrew": "בלוג"
+  },
+  {
+    "Wortliste": "einleben (sich)",
+    "English": "to settle in; to get used to a new place",
+    "Meaning": "In der neuen Stadt habe ich mich schnell eingelebt.",
+    "Hebrew": "להתאקלם / להשתלב"
+  },
+  {
+    "Wortliste": "die Erfahrung, -en",
+    "English": "the experience",
+    "Meaning": "Durch meinen Job im Ausland habe ich viele Erfahrungen gesammelt.",
+    "Hebrew": "ניסיון / חוויה"
+  },
+  {
+    "Wortliste": "erweitern",
+    "English": "to expand; to widen; to extend",
+    "Meaning": "Ich möchte meinen Wortschatz jeden Tag ein bisschen erweitern.",
+    "Hebrew": "להרחיב / לאלץ"
+  },
+  {
+    "Wortliste": "gestresst",
+    "English": "stressed",
+    "Meaning": "In der Prüfungszeit bin ich immer sehr gestresst.",
+    "Hebrew": "לחוץ/ה"
+  },
+  {
+    "Wortliste": "die Landessprache, -n",
+    "English": "the national language",
+    "Meaning": "Es ist wichtig, die Landessprache gut zu sprechen.",
+    "Hebrew": "שפת המדינה"
+  },
+  {
+    "Wortliste": "die Amtssprache, -n",
+    "English": "the official language",
+    "Meaning": "In der Schweiz sind Deutsch, Französisch, Italienisch und Rätoromanisch Amtssprachen.",
+    "Hebrew": "שפה רשמית"
+  },
+  {
+    "Wortliste": "anerkennen, erkannte an, hat anerkannt",
+    "English": "to recognize; to acknowledge",
+    "Meaning": "Mein Abschluss aus dem Ausland wurde in Deutschland anerkannt.",
+    "Hebrew": "להכיר / להודות / להעריך"
+  },
+  {
+    "Wortliste": "die Elite, -n",
+    "English": "the elite",
+    "Meaning": "Nur eine kleine Elite besucht diese teure Privatschule.",
+    "Hebrew": "אליטה"
+  },
+  {
+    "Wortliste": "die Identität, -en",
+    "English": "the identity",
+    "Meaning": "Sprache ist ein wichtiger Teil der persönlichen Identität.",
+    "Hebrew": "זהות"
+  },
+  {
+    "Wortliste": "komplex",
+    "English": "complex",
+    "Meaning": "Das Thema Migration ist sehr komplex.",
+    "Hebrew": "מורכב"
+  },
+  {
+    "Wortliste": "konfrontieren",
+    "English": "to confront",
+    "Meaning": "Im Ausland wird man oft mit neuen Kulturen konfrontiert.",
+    "Hebrew": "לעמת / להתעמת"
+  },
+  {
+    "Wortliste": "multikulturell",
+    "English": "multicultural",
+    "Meaning": "Berlin ist eine sehr multikulturelle Stadt.",
+    "Hebrew": "רב-תרבותי"
+  },
+  {
+    "Wortliste": "das Parlament, -e",
+    "English": "the parliament",
+    "Meaning": "Im Parlament wird heute über das neue Gesetz diskutiert.",
+    "Hebrew": "פרלמנט"
+  },
+  {
+    "Wortliste": "der Sachverhalt, -e",
+    "English": "the facts; the circumstances",
+    "Meaning": "Können Sie mir den Sachverhalt noch einmal genau erklären?",
+    "Hebrew": "עובדה / מצב דברים"
+  },
+  {
+    "Wortliste": "trösten",
+    "English": "to comfort; to console",
+    "Meaning": "Nach der Prüfung hat sie ihre enttäuschte Freundin getröstet.",
+    "Hebrew": "לנחם"
+  },
+  {
+    "Wortliste": "die Vertrautheit (Sg.)",
+    "English": "the familiarity; the closeness",
+    "Meaning": "Ich mag die Vertrautheit in meiner kleinen Heimatstadt.",
+    "Hebrew": "היכרות / קרבה"
+  },
+  {
+    "Wortliste": "die Verwaltungssprache, -n",
+    "English": "the administrative language",
+    "Meaning": "Formulare sind oft in einer sehr komplizierten Verwaltungssprache geschrieben.",
+    "Hebrew": "שפת המינהל"
+  },
+  {
+    "Wortliste": "die Vielfalt (Sg.)",
+    "English": "the diversity; the variety",
+    "Meaning": "Die kulturelle Vielfalt in der Klasse ist groß.",
+    "Hebrew": "גיוון / שונות"
+  },
+  {
+    "Wortliste": "vielsprachig",
+    "English": "multilingual; speaking many languages",
+    "Meaning": "In unserer Firma arbeiten viele vielsprachige Mitarbeiter.",
+    "Hebrew": "רב-לשוני"
+  },
+  {
+    "Wortliste": "das Landesgesetz, -e",
+    "English": "the federal state law; regional law",
+    "Meaning": "Die Regeln sind im Landesgesetz genau festgelegt.",
+    "Hebrew": "חוק מדינה / חוק מחוז"
+  },
+  {
+    "Wortliste": "die Vielsprachigkeit (Sg.)",
+    "English": "the multilingualism",
+    "Meaning": "Die Vielsprachigkeit Europas ist eine große Chance.",
+    "Hebrew": "רב-לשוניות"
+  },
+  {
+    "Wortliste": "das Alltagsprodukt, -e",
+    "English": "the everyday product",
+    "Meaning": "Auf vielen Alltagsprodukten stehen die Infos in mehreren Sprachen.",
+    "Hebrew": "מוצר יומיומי"
+  },
+  {
+    "Wortliste": "amtlich",
+    "English": "official",
+    "Meaning": "Sie müssen das Formular beim amtlichen Bürgerbüro abgeben.",
+    "Hebrew": "רשמי"
+  },
+  {
+    "Wortliste": "beherrschen",
+    "English": "to master; to command",
+    "Meaning": "Sie beherrscht drei Sprachen fließend.",
+    "Hebrew": "לשלוט / לדעת היטב"
+  },
+  {
+    "Wortliste": "die Bekanntmachung, -en",
+    "English": "the announcement; the public notice",
+    "Meaning": "Die Bekanntmachung hängt am Schwarzen Brett der Uni.",
+    "Hebrew": "הודעה / פרסום רשמי"
+  },
+  {
+    "Wortliste": "beschriften",
+    "English": "to label; to inscribe",
+    "Meaning": "Bitte beschriften Sie die Ordner mit Namen und Datum.",
+    "Hebrew": "לסמן / לכתוב על"
+  },
+  {
+    "Wortliste": "betreffen, betraf, hat betroffen",
+    "English": "to affect; to concern",
+    "Meaning": "Die neuen Regeln betreffen alle Mieter im Haus.",
+    "Hebrew": "לנגוע ב / לעסוק ב"
+  },
+  {
+    "Wortliste": "einheitlich",
+    "English": "uniform; consistent",
+    "Meaning": "Die Schilder sollen in allen Städten einheitlich sein.",
+    "Hebrew": "אחיד / אחידות"
+  },
+  {
+    "Wortliste": "fälschlicherweise",
+    "English": "by mistake; wrongly; erroneously",
+    "Meaning": "Mein Name wurde fälschlicherweise falsch geschrieben.",
+    "Hebrew": "בטעות / שלא כדין"
+  },
+  {
+    "Wortliste": "der Flyer, -",
+    "English": "the flyer; the leaflet",
+    "Meaning": "Vor der U-Bahn-Station werden Flyer verteilt.",
+    "Hebrew": "עלון / פרסומת"
+  },
+  {
+    "Wortliste": "der/die Grafiker/in, -/-nen",
+    "English": "the graphic designer",
+    "Meaning": "Die Grafikerin hat das neue Logo entworfen.",
+    "Hebrew": "גרפיקאי/ת"
+  },
+  {
+    "Wortliste": "der Horizont, -e",
+    "English": "the horizon; the outlook",
+    "Meaning": "Reisen erweitert den eigenen Horizont.",
+    "Hebrew": "אופק"
+  },
+  {
+    "Wortliste": "leichtfallen, fiel leicht, ist leichtgefallen",
+    "English": "to come easy; to be easy for someone",
+    "Meaning": "Sprachenlernen ist ihm schon immer leichtgefallen.",
+    "Hebrew": "להיות קל / לבוא בקלות"
+  },
+  {
+    "Wortliste": "mittlerweile",
+    "English": "in the meantime; by now",
+    "Meaning": "Ich bin mittlerweile seit fünf Jahren in Deutschland.",
+    "Hebrew": "בינתיים / כבר"
+  },
+  {
+    "Wortliste": "netterweise",
+    "English": "kindly; nicely",
+    "Meaning": "Netterweise hat mein Nachbar mir beim Umzug geholfen.",
+    "Hebrew": "באדיבות / בטוב לב"
+  },
+  {
+    "Wortliste": "riskieren",
+    "English": "to risk",
+    "Meaning": "Er wollte nichts riskieren und hat den sicheren Job behalten.",
+    "Hebrew": "לסכן / להסתכן"
+  },
+  {
+    "Wortliste": "schaffen",
+    "English": "to manage; to accomplish; to create",
+    "Meaning": "Keine Sorge, du schaffst die Prüfung bestimmt.",
+    "Hebrew": "ליצור / להצליח / לעשות"
+  },
+  {
+    "Wortliste": "sehnsüchtig",
+    "English": "longingly; full of longing",
+    "Meaning": "Sie schaut sehnsüchtig auf die alten Urlaubsfotos.",
+    "Hebrew": "מגעגע / כמה"
+  },
+  {
+    "Wortliste": "spontan",
+    "English": "spontaneous",
+    "Meaning": "Wir haben spontan entschieden, übers Wochenende wegzufahren.",
+    "Hebrew": "ספונטני"
+  },
+  {
+    "Wortliste": "wagen",
+    "English": "to dare; to venture",
+    "Meaning": "Ich habe es gewagt und bin allein ins Ausland gegangen.",
+    "Hebrew": "להעז / לסכן"
+  },
+  {
+    "Wortliste": "die Wohnungssuche, -n",
+    "English": "the apartment search",
+    "Meaning": "In Berlin kann die Wohnungssuche sehr lange dauern.",
+    "Hebrew": "חיפוש דירה"
+  },
+  {
+    "Wortliste": "zwischendurch",
+    "English": "in between; from time to time",
+    "Meaning": "Ich lerne zwischendurch Vokabeln mit meinem Handy.",
+    "Hebrew": "בינתיים / מדי פעם"
+  },
+  {
+    "Wortliste": "empfinden, empfand, hat empfunden",
+    "English": "to feel; to perceive",
+    "Meaning": "Wie empfindest du das Klima in deiner Firma?",
+    "Hebrew": "להרגיש / לחוש"
+  },
+  {
+    "Wortliste": "die Faustregel, -n",
+    "English": "the rule of thumb",
+    "Meaning": "Als Faustregel gilt: Erst fragen, dann handeln.",
+    "Hebrew": "כלל אצבע"
+  },
+  {
+    "Wortliste": "die Merkformel, -n",
+    "English": "the mnemonic; memory formula",
+    "Meaning": "Für die Grammatik habe ich mir eine kleine Merkformel ausgedacht.",
+    "Hebrew": "נוסחה לזכירה / מנמוניקה"
+  },
+  {
+    "Wortliste": "die Position, -en",
+    "English": "the position",
+    "Meaning": "Er bewirbt sich auf eine Position als Projektleiter.",
+    "Hebrew": "עמדה / מיקום / תפקיד"
+  },
+  {
+    "Wortliste": "ständig",
+    "English": "constant; all the time",
+    "Meaning": "Mein Handy klingelt heute ständig.",
+    "Hebrew": "תמידי / מתמיד / כל הזמן"
+  },
+  {
+    "Wortliste": "zerschneiden, zerschnitt, hat zerschnitten",
+    "English": "to cut into pieces",
+    "Meaning": "Sie hat das Papier in kleine Stücke zerschnitten.",
+    "Hebrew": "לחתוך / לגזור"
+  },
+  {
+    "Wortliste": "die Geschäftsbeziehung, -en",
+    "English": "the business relationship",
+    "Meaning": "Wir pflegen seit Jahren gute Geschäftsbeziehungen nach Österreich.",
+    "Hebrew": "קשרי עסקים"
+  },
+  {
+    "Wortliste": "die Geschäftsverhandlung, -en",
+    "English": "the business negotiation",
+    "Meaning": "Die Geschäftsverhandlungen dauerten den ganzen Tag.",
+    "Hebrew": "משא ומתן עסקי"
+  },
+  {
+    "Wortliste": "jedoch",
+    "English": "however; though",
+    "Meaning": "Ich wollte kommen, ich war jedoch krank.",
+    "Hebrew": "אולם / אך / אבל"
+  },
+  {
+    "Wortliste": "die Konferenz, -en",
+    "English": "the conference",
+    "Meaning": "Auf der Konferenz treffen sich Experten aus vielen Ländern.",
+    "Hebrew": "ועידה / כנס"
+  },
+  {
+    "Wortliste": "das Platzproblem, -e",
+    "English": "the space problem; lack of space",
+    "Meaning": "In unserer Küche haben wir ein echtes Platzproblem.",
+    "Hebrew": "בעיית מקום"
+  },
+  {
+    "Wortliste": "sämtlich",
+    "English": "all; entire",
+    "Meaning": "Sämtliche Unterlagen müssen bis Freitag abgegeben werden.",
+    "Hebrew": "כולם / כל"
+  },
+  {
+    "Wortliste": "die Sitzung, -en",
+    "English": "the meeting; the session",
+    "Meaning": "Die Sitzung beginnt um 9 Uhr im großen Konferenzraum.",
+    "Hebrew": "ישיבה / פגישה"
+  },
+  {
+    "Wortliste": "die Sprachenvielfalt (Sg.)",
+    "English": "the diversity of languages",
+    "Meaning": "Die Sprachenvielfalt in Europa ist beeindruckend.",
+    "Hebrew": "גיוון לשוני"
+  },
+  {
+    "Wortliste": "das Sprachgebiet, -e",
+    "English": "the language area/region",
+    "Meaning": "Im deutschsprachigen Sprachgebiet gibt es viele Dialekte.",
+    "Hebrew": "אזור דיבור / אזור לשוני"
+  },
+  {
+    "Wortliste": "die Sprachregion, -en",
+    "English": "the language region",
+    "Meaning": "Die Schweiz ist in verschiedene Sprachregionen aufgeteilt.",
+    "Hebrew": "אזור לשוני"
+  },
+  {
+    "Wortliste": "das Verkehrsschild, -er",
+    "English": "the traffic sign",
+    "Meaning": "Du hast das Verkehrsschild mit dem Tempolimit übersehen.",
+    "Hebrew": "שלט תנועה"
+  },
+  {
+    "Wortliste": "veröffentlichen",
+    "English": "to publish",
+    "Meaning": "Der Artikel wird nächste Woche online veröffentlicht.",
+    "Hebrew": "לפרסם / להוציא לאור"
+  },
+  {
+    "Wortliste": "die Verpackung, -en",
+    "English": "the packaging",
+    "Meaning": "Auf der Verpackung stehen die Inhaltsstoffe in mehreren Sprachen.",
+    "Hebrew": "אריזה"
+  },
+  {
+    "Wortliste": "voraussetzen",
+    "English": "to presuppose; to require",
+    "Meaning": "Für diesen Kurs wird B1-Niveau vorausgesetzt.",
+    "Hebrew": "להניח מראש / לדרוש"
+  },
+  {
+    "Wortliste": "der Wandel, -",
+    "English": "the change; transformation",
+    "Meaning": "Die Stadt ist im ständigen Wandel.",
+    "Hebrew": "שינוי / תמורה"
+  },
+  {
+    "Wortliste": "die Webseite, -n",
+    "English": "the website",
+    "Meaning": "Auf der Webseite findest du alle wichtigen Informationen.",
+    "Hebrew": "אתר אינטרנט / דף אינטרנט"
+  },
+  {
+    "Wortliste": "die Auffassung, -en",
+    "English": "the view; the opinion",
+    "Meaning": "In dieser Frage haben wir unterschiedliche Auffassungen.",
+    "Hebrew": "השקפה / דעה / הבנה"
+  },
+  {
+    "Wortliste": "entscheidend",
+    "English": "decisive; crucial",
+    "Meaning": "Die Sprachkenntnisse waren entscheidend für die Zusage.",
+    "Hebrew": "מכריע / קריטי"
+  },
+  {
+    "Wortliste": "erstaunlich",
+    "English": "amazing; astonishing",
+    "Meaning": "Es ist erstaunlich, wie schnell Kinder eine Sprache lernen.",
+    "Hebrew": "מפתיע / מדהים"
+  },
+  {
+    "Wortliste": "geteilt",
+    "English": "divided; shared",
+    "Meaning": "Die Meinungen in der Gruppe sind stark geteilt.",
+    "Hebrew": "מחולק / שנוי במחלוקת"
+  },
+  {
+    "Wortliste": "hilfreich",
+    "English": "helpful",
+    "Meaning": "Die Tipps meiner Lehrerin waren sehr hilfreich.",
+    "Hebrew": "מועיל / עוזר"
+  },
+  {
+    "Wortliste": "die Mehrsprachigkeit (Sg.)",
+    "English": "the multilingualism",
+    "Meaning": "Mehrsprachigkeit kann viele Türen im Berufsleben öffnen.",
+    "Hebrew": "רב-לשוניות"
+  },
+  {
+    "Wortliste": "nützlich",
+    "English": "useful",
+    "Meaning": "Ein gutes Wörterbuch ist immer nützlich.",
+    "Hebrew": "שימושי / מועיל"
+  },
+  {
+    "Wortliste": "die Sicht, -en",
+    "English": "the view; the perspective",
+    "Meaning": "Aus meiner Sicht ist das eine gute Lösung.",
+    "Hebrew": "נקודת מבט / ראייה"
+  },
+  {
+    "Wortliste": "missverständlich",
+    "English": "misleading; ambiguous",
+    "Meaning": "Die Formulierung in der E-Mail war missverständlich.",
+    "Hebrew": "מטעה / בלתי ברור"
+  },
+  {
+    "Wortliste": "das Abteil, -e",
+    "English": "the compartment (on a train)",
+    "Meaning": "Im Zug haben wir ein ruhiges Abteil gefunden.",
+    "Hebrew": "תא (ברכבת)"
+  },
+  {
+    "Wortliste": "missverstehen, missverstand, hat missverstanden",
+    "English": "to misunderstand",
+    "Meaning": "Entschuldigung, ich habe dich total missverstanden.",
+    "Hebrew": "להבין לא נכון / לטעות בהבנה"
+  },
+  {
+    "Wortliste": "peinlich",
+    "English": "embarrassing",
+    "Meaning": "Es war mir sehr peinlich, den Namen zu vergessen.",
+    "Hebrew": "מביך"
+  },
+  {
+    "Wortliste": "der Abstand, \"-e",
+    "English": "the distance; the gap",
+    "Meaning": "Bitte halten Sie genügend Abstand zur Tür.",
+    "Hebrew": "מרחק / ריחוק"
+  },
+  {
+    "Wortliste": "die Art, -en",
+    "English": "the kind; the type; the way",
+    "Meaning": "Diese Art von Humor verstehe ich nicht.",
+    "Hebrew": "סוג / מין / אופן"
+  },
+  {
+    "Wortliste": "äußerst",
+    "English": "extremely",
+    "Meaning": "Er war äußerst freundlich und hilfsbereit.",
+    "Hebrew": "ביותר / קיצוני / מאוד"
+  },
+  {
+    "Wortliste": "bedenken, bedachte, hat bedacht",
+    "English": "to consider; to keep in mind",
+    "Meaning": "Bitte bedenken Sie, dass das nur ein Beispiel ist.",
+    "Hebrew": "לשקול / לחשוב על"
+  },
+  {
+    "Wortliste": "der/die Begleiter/in, -/-nen",
+    "English": "the companion; the escort",
+    "Meaning": "Jeder Teilnehmer darf eine Begleiterin oder einen Begleiter mitbringen.",
+    "Hebrew": "מלווה"
+  },
+  {
+    "Wortliste": "breit",
+    "English": "broad; wide",
+    "Meaning": "Die Straße ist hier sehr breit.",
+    "Hebrew": "רחב"
+  },
+  {
+    "Wortliste": "die Freundlichkeit, -en",
+    "English": "the friendliness",
+    "Meaning": "Ich war von der Freundlichkeit der Leute beeindruckt.",
+    "Hebrew": "ידידותיות / נחמדות"
+  },
+  {
+    "Wortliste": "das Gegenüber, -",
+    "English": "the person opposite; the counterpart",
+    "Meaning": "Versuche, dein Gegenüber immer auszureden zu lassen.",
+    "Hebrew": "הצד השני / האדם מולך"
+  },
+  {
+    "Wortliste": "jeglich",
+    "English": "any; every",
+    "Meaning": "Jegliche Form von Diskriminierung ist verboten.",
+    "Hebrew": "כל / כלשהו"
+  },
+  {
+    "Wortliste": "das Lächeln, -",
+    "English": "the smile",
+    "Meaning": "Ein freundliches Lächeln kann viel bewirken.",
+    "Hebrew": "חיוך"
+  },
+  {
+    "Wortliste": "die Öffentlichkeit (Sg.)",
+    "English": "the public",
+    "Meaning": "Die Entscheidung wurde in der Öffentlichkeit kritisiert.",
+    "Hebrew": "ציבור / מרחב ציבורי"
+  },
+  {
+    "Wortliste": "die Privatsphäre (Sg.)",
+    "English": "the privacy",
+    "Meaning": "In sozialen Netzwerken ist die Privatsphäre ein wichtiges Thema.",
+    "Hebrew": "פרטיות"
+  },
+  {
+    "Wortliste": "stellen",
+    "English": "to put; to place; to pose (a question)",
+    "Meaning": "Darf ich Ihnen noch eine Frage stellen?",
+    "Hebrew": "לשים / לשאול (שאלה) / להציב"
+  },
+  {
+    "Wortliste": "üblich",
+    "English": "usual; common",
+    "Meaning": "In Deutschland ist es üblich, pünktlich zu sein.",
+    "Hebrew": "רגיל / נהוג / מקובל"
+  },
+  {
+    "Wortliste": "die Spielregel, -n",
+    "English": "the rule of the game",
+    "Meaning": "Bevor wir anfangen, erklären wir kurz die Spielregeln.",
+    "Hebrew": "חוק משחק / כלל"
+  },
+  {
+    "Wortliste": "die Geste, -n",
+    "English": "the gesture",
+    "Meaning": "Ein kleines Geschenk kann eine nette Geste sein.",
+    "Hebrew": "מחווה / תנועה"
+  },
+  {
+    "Wortliste": "alkoholfrei",
+    "English": "alcohol-free; non-alcoholic",
+    "Meaning": "Ich trinke lieber ein alkoholfreies Bier.",
+    "Hebrew": "ללא אלכוהול"
+  },
+  {
+    "Wortliste": "atypisch",
+    "English": "atypical; untypical",
+    "Meaning": "Für diese Jahreszeit ist das Wetter eher atypisch.",
+    "Hebrew": "לא טיפוסי / חריג"
+  },
+  {
+    "Wortliste": "das Desinteresse (Sg.)",
+    "English": "the lack of interest",
+    "Meaning": "Sein Desinteresse am Unterricht war deutlich zu sehen.",
+    "Hebrew": "חוסר עניין"
+  },
+  {
+    "Wortliste": "disqualifizieren",
+    "English": "to disqualify",
+    "Meaning": "Der Spieler wurde nach einem Foul disqualifiziert.",
+    "Hebrew": "לפסול / לפסל"
+  },
+  {
+    "Wortliste": "inhaltsleer",
+    "English": "empty of content; meaningless",
+    "Meaning": "Die Rede war schön, aber ziemlich inhaltsleer.",
+    "Hebrew": "חסר תוכן / ריק ממשמעות"
+  },
+  {
+    "Wortliste": "intolerant",
+    "English": "intolerant",
+    "Meaning": "Gegenüber anderen Kulturen sollten wir nicht intolerant sein.",
+    "Hebrew": "בלתי סובלני"
+  },
+  {
+    "Wortliste": "irreal",
+    "English": "unreal; imaginary",
+    "Meaning": "Sein Plan klang interessant, aber völlig irreal.",
+    "Hebrew": "לא מציאותי"
+  },
+  {
+    "Wortliste": "der/die Nichtschwimmer/in, -/-nen",
+    "English": "the non-swimmer",
+    "Meaning": "Für Nichtschwimmer gibt es im Schwimmbad einen extra Bereich.",
+    "Hebrew": "מי שאינו יודע לשחות"
+  },
+  {
+    "Wortliste": "nonverbal",
+    "English": "nonverbal",
+    "Meaning": "Nonverbale Signale spielen in der Kommunikation eine große Rolle.",
+    "Hebrew": "לא מילולי"
+  },
+  {
+    "Wortliste": "das Unverständnis (Sg.)",
+    "English": "the lack of understanding",
+    "Meaning": "Seine Entscheidung stieß auf viel Unverständnis.",
+    "Hebrew": "חוסר הבנה"
+  },
+  {
+    "Wortliste": "trennbar",
+    "English": "separable (verb); detachable",
+    "Meaning": "‚aufstehen‘ ist ein trennbares Verb.",
+    "Hebrew": "ניתן להפרדה"
+  },
+  {
+    "Wortliste": "die Chancengleichheit (Sg.)",
+    "English": "the equal opportunities",
+    "Meaning": "Chancengleichheit ist ein wichtiges Ziel in der Bildungspolitik.",
+    "Hebrew": "שוויון הזדמנויות"
+  },
+  {
+    "Wortliste": "der Migrationshintergrund (Sg.)",
+    "English": "the migration background",
+    "Meaning": "Viele Kinder in dieser Klasse haben einen Migrationshintergrund.",
+    "Hebrew": "רקע של הגירה"
+  },
+  {
+    "Wortliste": "das Schlüsselwort, \"-er",
+    "English": "the key word",
+    "Meaning": "Markieren Sie die Schlüsselwörter im Text.",
+    "Hebrew": "מילת מפתח"
+  },
+  {
+    "Wortliste": "völlig",
+    "English": "completely; totally",
+    "Meaning": "Ich bin nach dem langen Tag völlig müde.",
+    "Hebrew": "לחלוטין / לגמרי"
+  },
+  {
+    "Wortliste": "die Kindergartenpflicht (Sg.)",
+    "English": "the compulsory kindergarten attendance",
+    "Meaning": "In manchen Ländern gibt es eine Kindergartenpflicht.",
+    "Hebrew": "חובת גן ילדים"
+  },
+  {
+    "Wortliste": "die Schuluniform, -en",
+    "English": "the school uniform",
+    "Meaning": "An dieser Schule tragen alle Schülerinnen und Schüler eine Schuluniform.",
+    "Hebrew": "מדי בית ספר / אחיד"
+  },
+  {
+    "Wortliste": "eingehen",
+    "English": "to enter into; to go into; to be received",
+    "Meaning": "Auf dieses Thema möchte ich später noch genauer eingehen.",
+    "Hebrew": "להיכנס ל / להתייחס ל / לאבד תוקף"
+  },
+  {
+    "Wortliste": "die Einrichtung, -en",
+    "English": "the institution; the facility; the furnishing",
+    "Meaning": "Die Stadt unterstützt soziale Einrichtungen mit Geld.",
+    "Hebrew": "מוסד / ריהוט / מתקן"
+  },
+  {
+    "Wortliste": "ermöglichen",
+    "English": "to make possible; to enable",
+    "Meaning": "Das Stipendium ermöglicht mir das Studium im Ausland.",
+    "Hebrew": "לאפשר"
+  },
+  {
+    "Wortliste": "die Lehrkraft, \"-e",
+    "English": "the teacher; teaching staff",
+    "Meaning": "Die Lehrkräfte an dieser Schule sind sehr engagiert.",
+    "Hebrew": "מורה / כוח הוראה"
+  },
+  {
+    "Wortliste": "die Migrantenfamilie, -n",
+    "English": "the migrant family",
+    "Meaning": "Viele Migrantenfamilien leben schon seit Jahren in Deutschland.",
+    "Hebrew": "משפחה מהגרת"
+  },
+  {
+    "Wortliste": "das Migrantenkind, -er",
+    "English": "the child from a migrant family",
+    "Meaning": "Migrantenkinder wachsen oft zweisprachig auf.",
+    "Hebrew": "ילד מהגר"
+  },
+  {
+    "Wortliste": "der/die Pate/Patin, -n/-nen",
+    "English": "the sponsor; the mentor; the godparent",
+    "Meaning": "Ein ehrenamtlicher Pate hilft neuen Flüchtlingen im Alltag.",
+    "Hebrew": "סנדק / סנדקית / חסות"
+  },
+  {
+    "Wortliste": "der/die Senior/in, -en/-nen",
+    "English": "the senior; the elderly person",
+    "Meaning": "Die Senioren treffen sich jeden Mittwoch im Nachbarschaftshaus.",
+    "Hebrew": "מבוגר/ת / בכיר/ה"
+  },
+  {
+    "Wortliste": "sinnvoll",
+    "English": "sensible; meaningful; useful",
+    "Meaning": "Es ist sinnvoll, früh mit dem Deutschlernen zu beginnen.",
+    "Hebrew": "הגיוני / שימושי / כדאי"
+  },
+  {
+    "Wortliste": "der/die Zugewanderte, -n",
+    "English": "the immigrant; the newcomer",
+    "Meaning": "Die Stadt bietet einen Sprachkurs speziell für Zugewanderte an.",
+    "Hebrew": "מהגר/ת / עולה"
+  },
+  {
+    "Wortliste": "anfügen",
+    "English": "to add; to append",
+    "Meaning": "Am Ende des Briefes fügte sie noch eine persönliche Notiz an.",
+    "Hebrew": "לצרף / להוסיף"
+  },
+  {
+    "Wortliste": "ausbremsen",
+    "English": "to slow down; to thwart",
+    "Meaning": "Ständige Bürokratie kann gute Ideen ausbremsen.",
+    "Hebrew": "לבלום / לעצור"
+  },
+  {
+    "Wortliste": "die Ausländerquote, -n",
+    "English": "the proportion of foreigners",
+    "Meaning": "In diesem Stadtteil ist die Ausländerquote besonders hoch.",
+    "Hebrew": "מכסת זרים"
+  },
+  {
+    "Wortliste": "der Automobilhersteller, -",
+    "English": "the car manufacturer",
+    "Meaning": "Viele deutsche Automobilhersteller exportieren weltweit.",
+    "Hebrew": "יצרן רכב"
+  },
+  {
+    "Wortliste": "die Betriebswirtschaft, -en",
+    "English": "business administration",
+    "Meaning": "Sie studiert Betriebswirtschaft an der Universität.",
+    "Hebrew": "מנהל עסקים"
+  },
+  {
+    "Wortliste": "die Diskriminierung, -en",
+    "English": "the discrimination",
+    "Meaning": "Diskriminierung wegen Herkunft oder Sprache ist verboten.",
+    "Hebrew": "אפליה / הפליה"
+  },
+  {
+    "Wortliste": "farbenfroh",
+    "English": "colourful",
+    "Meaning": "Die Wohnung ist sehr farbenfroh eingerichtet.",
+    "Hebrew": "צבעוני / עליז"
+  },
+  {
+    "Wortliste": "fernliegen, lag fern, hat ferngelegen",
+    "English": "to be far from someone’s mind",
+    "Meaning": "Mir liegt es fern, dich zu kritisieren.",
+    "Hebrew": "להיות רחוק מ / לא נראה מסתבר"
+  },
+  {
+    "Wortliste": "das Feuerholz (Sg.)",
+    "English": "the firewood",
+    "Meaning": "Wir haben genug Feuerholz für den ganzen Winter.",
+    "Hebrew": "עצי הסקה / עצי מדורה"
+  },
+  {
+    "Wortliste": "flechten, flocht, hat geflochten",
+    "English": "to braid; to weave",
+    "Meaning": "Sie hat ihrer Tochter Zöpfe geflochten.",
+    "Hebrew": "לקלוע / לשזור"
+  },
+  {
+    "Wortliste": "führen",
+    "English": "to lead; to guide; to manage",
+    "Meaning": "Er führt seit fünf Jahren eine eigene Firma.",
+    "Hebrew": "להוביל / לנהל"
+  },
+  {
+    "Wortliste": "gelegentlich",
+    "English": "occasionally",
+    "Meaning": "Wir treffen uns gelegentlich auf einen Kaffee.",
+    "Hebrew": "לעיתים / מדי פעם"
+  },
+  {
+    "Wortliste": "das Gemüsegeschäft, -e",
+    "English": "the vegetable shop; greengrocer’s",
+    "Meaning": "Ich kaufe mein Obst im kleinen Gemüsegeschäft an der Ecke.",
+    "Hebrew": "חנות ירקות"
+  },
+  {
+    "Wortliste": "der/die Gründer/in, -/-nen",
+    "English": "the founder",
+    "Meaning": "Die Gründerin des Start-ups ist erst 25 Jahre alt.",
+    "Hebrew": "מייסד/ת"
+  },
+  {
+    "Wortliste": "die Hausverwaltung, -en",
+    "English": "the property management",
+    "Meaning": "Bei Problemen mit der Heizung wenden Sie sich an die Hausverwaltung.",
+    "Hebrew": "ניהול בניין / ועד בית"
+  },
+  {
+    "Wortliste": "die Hochschulreife (Sg.)",
+    "English": "the higher education entrance qualification (A-levels/Abitur)",
+    "Meaning": "Für das Studium brauchst du die Hochschulreife.",
+    "Hebrew": "בגרות / כשירות ללימודים אקדמיים"
+  },
+  {
+    "Wortliste": "die Informatik (Sg.)",
+    "English": "computer science",
+    "Meaning": "Er interessiert sich für Informatik und programmiert gern.",
+    "Hebrew": "מדעי המחשב"
+  },
+  {
+    "Wortliste": "infrage kommen",
+    "English": "to be possible; to be considered",
+    "Meaning": "Für diese Stelle kommen nur Bewerber mit Erfahrung infrage.",
+    "Hebrew": "לבוא בחשבון / להיות אפשרות"
+  },
+  {
+    "Wortliste": "inmitten",
+    "English": "in the middle of; amidst",
+    "Meaning": "Inmitten der Stadt gibt es einen großen Park.",
+    "Hebrew": "בתוך / בלב"
+  },
+  {
+    "Wortliste": "der Keks, -e",
+    "English": "the biscuit; the cookie",
+    "Meaning": "Zum Tee gibt es selbst gebackene Kekse.",
+    "Hebrew": "עוגיה / ביסקוויט"
+  },
+  {
+    "Wortliste": "der/die Kommilitone/Kommilitonin, -n/-nen",
+    "English": "the fellow student (university)",
+    "Meaning": "Mit meinen Kommilitonen lerne ich oft in der Bibliothek.",
+    "Hebrew": "חבר/ת ללימודים"
+  },
+  {
+    "Wortliste": "leuchten",
+    "English": "to shine; to glow",
+    "Meaning": "Die Sterne leuchten heute besonders hell.",
+    "Hebrew": "להאיר / לזהור"
+  },
+  {
+    "Wortliste": "nachdenklich",
+    "English": "thoughtful; pensive",
+    "Meaning": "Nach dem Gespräch war sie still und nachdenklich.",
+    "Hebrew": "מהורהר / חשבני"
+  },
+  {
+    "Wortliste": "die Odyssee, -n",
+    "English": "the odyssey; long difficult journey",
+    "Meaning": "Die Wohnungssuche war eine echte Odyssee.",
+    "Hebrew": "אודיסיאה / מסע ארוך"
+  },
+  {
+    "Wortliste": "die Option, -en",
+    "English": "the option; the choice",
+    "Meaning": "Wir prüfen noch verschiedene Optionen.",
+    "Hebrew": "אפשרות / אופציה"
+  },
+  {
+    "Wortliste": "der Preis, -e",
+    "English": "the price; the prize",
+    "Meaning": "Für den Film hat sie einen wichtigen Preis bekommen.",
+    "Hebrew": "מחיר / פרס"
+  },
+  {
+    "Wortliste": "scheitern",
+    "English": "to fail",
+    "Meaning": "Das Projekt ist leider an der Finanzierung gescheitert.",
+    "Hebrew": "להיכשל"
+  },
+  {
+    "Wortliste": "der Schulabschluss, \"-e",
+    "English": "the school leaving certificate",
+    "Meaning": "Nach dem Schulabschluss möchte er eine Ausbildung machen.",
+    "Hebrew": "תעודת בית ספר / סיום לימודים"
+  },
+  {
+    "Wortliste": "verbergen, verbarg, hat verborgen",
+    "English": "to hide; to conceal",
+    "Meaning": "Sie konnte ihre Enttäuschung nicht verbergen.",
+    "Hebrew": "להסתיר / להסתר"
+  },
+  {
+    "Wortliste": "vollkommen",
+    "English": "completely; perfectly",
+    "Meaning": "Ich bin mit dem Ergebnis vollkommen zufrieden.",
+    "Hebrew": "מושלם / לחלוטין"
+  },
+  {
+    "Wortliste": "der/die Wanderarbeiter/in, -/-nen",
+    "English": "the migrant worker",
+    "Meaning": "Viele Wanderarbeiter schicken Geld an ihre Familien im Heimatland.",
+    "Hebrew": "עובד/ת נודד/ת / פועל עונתי"
+  },
+  {
+    "Wortliste": "weitergehen",
+    "English": "to continue; to go on",
+    "Meaning": "Nach einer kurzen Pause ging der Unterricht weiter.",
+    "Hebrew": "להמשיך / להמשיך לאחר"
+  },
+  {
+    "Wortliste": "die Windeseile (Sg.)",
+    "English": "great haste; very quickly",
+    "Meaning": "Die Nachricht verbreitete sich in Windeseile.",
+    "Hebrew": "מהירות רוח / מהירות אדירה"
+  },
+  {
+    "Wortliste": "die Wüste, -n",
+    "English": "the desert",
+    "Meaning": "Sie träumen von einer Reise durch die Wüste.",
+    "Hebrew": "מדבר"
+  },
+  {
+    "Wortliste": "zerrissen",
+    "English": "torn (also figurative: torn between)",
+    "Meaning": "Nach dem Umzug fühlte er sich innerlich zerrissen.",
+    "Hebrew": "קרוע / שסוע"
+  },
+  {
+    "Wortliste": "das Zöpfchen, -",
+    "English": "the little braid; small plait",
+    "Meaning": "Das Mädchen trägt zwei kleine Zöpfchen.",
+    "Hebrew": "צמה קטנה"
+  },
+  {
+    "Wortliste": "zusammenbinden, band zusammen, hat zusammengebunden",
+    "English": "to tie together",
+    "Meaning": "Sie hat die Bücher mit einem Band zusammengebunden.",
+    "Hebrew": "לקשור יחד"
+  },
+  {
+    "Wortliste": "der Anschluss, \"-e",
+    "English": "the connection; the connection (train/bus); affiliation",
+    "Meaning": "Ich habe meinen Anschlusszug knapp verpasst.",
+    "Hebrew": "חיבור / קשר / המשך"
+  },
+  {
+    "Wortliste": "entsprechend",
+    "English": "corresponding; appropriate",
+    "Meaning": "Bitte verhalten Sie sich der Situation entsprechend.",
+    "Hebrew": "מתאים / בהתאם ל"
+  },
+  {
+    "Wortliste": "anhören",
+    "English": "to listen to; to sound",
+    "Meaning": "Die Geschichte hört sich interessant an.",
+    "Hebrew": "להאזין / לשמוע"
+  },
+  {
+    "Wortliste": "annehmen",
+    "English": "to accept; to assume",
+    "Meaning": "Ich nehme an, dass du morgen kommst.",
+    "Hebrew": "לקבל / להניח / לאמץ"
+  },
+  {
+    "Wortliste": "einig",
+    "English": "in agreement; united",
+    "Meaning": "Wir sind uns einig, dass das die beste Lösung ist.",
+    "Hebrew": "תמים דעים / מסכים"
+  },
+  {
+    "Wortliste": "entwickeln",
+    "English": "to develop",
+    "Meaning": "Die Firma entwickelt eine neue App.",
+    "Hebrew": "לפתח / לפרוש"
+  },
+  {
+    "Wortliste": "meinetwegen",
+    "English": "as far as I’m concerned; for my sake",
+    "Meaning": "Meinetwegen können wir jetzt eine Pause machen.",
+    "Hebrew": "בשבילי / כפי שאני מתכוון"
+  },
+  {
+    "Wortliste": "veranstalten",
+    "English": "to organize; to host (an event)",
+    "Meaning": "Die Schule veranstaltet ein Sommerfest.",
+    "Hebrew": "לארגן / לקיים אירוע"
+  },
+  {
+    "Wortliste": "auszeichnen",
+    "English": "to distinguish; to award",
+    "Meaning": "Der Film wurde mit mehreren Preisen ausgezeichnet.",
+    "Hebrew": "להעניק פרס / לייחד"
+  },
+  {
+    "Wortliste": "begehrt",
+    "English": "in demand; sought-after",
+    "Meaning": "Diese Wohnungen sind in der Innenstadt sehr begehrt.",
+    "Hebrew": "מבוקש / נחשק"
+  },
+  {
+    "Wortliste": "bürgerlich",
+    "English": "middle-class; bourgeois; civic",
+    "Meaning": "Er kommt aus einem eher bürgerlichen Elternhaus.",
+    "Hebrew": "בורגני / אזרחי"
+  },
+  {
+    "Wortliste": "das Diplom, -e",
+    "English": "the diploma; degree",
+    "Meaning": "Nach fünf Jahren Studium hat sie ihr Diplom bekommen.",
+    "Hebrew": "דיפלומה"
+  },
+  {
+    "Wortliste": "kommerziell",
+    "English": "commercial",
+    "Meaning": "Der Film war ein großer kommerzieller Erfolg.",
+    "Hebrew": "מסחרי"
+  },
+  {
+    "Wortliste": "der/die Drehbuchautor/in, -en/-nen",
+    "English": "the screenwriter",
+    "Meaning": "Der Drehbuchautor arbeitet an einer neuen Serie.",
+    "Hebrew": "כותב/ת תסריט"
+  },
+  {
+    "Wortliste": "der Langspielfilm, -e",
+    "English": "the feature film",
+    "Meaning": "Ihr erster Langspielfilm lief auf einem großen Festival.",
+    "Hebrew": "סרט ארוך"
+  },
+  {
+    "Wortliste": "der Drehbuchpreis, -e",
+    "English": "the screenwriting award",
+    "Meaning": "Für das Drehbuch bekam sie einen internationalen Drehbuchpreis.",
+    "Hebrew": "פרס תסריט"
+  },
+  {
+    "Wortliste": "der Lebensweg, -e",
+    "English": "the life path",
+    "Meaning": "Jeder Mensch hat seinen eigenen Lebensweg.",
+    "Hebrew": "מסלול חיים"
+  },
+  {
+    "Wortliste": "der Durchbruch, \"-e",
+    "English": "the breakthrough",
+    "Meaning": "Mit diesem Film gelang ihm der große Durchbruch.",
+    "Hebrew": "פריצת דרך"
+  },
+  {
+    "Wortliste": "das Melodram, -en",
+    "English": "the melodrama",
+    "Meaning": "Das Melodram war spannend, aber sehr gefühlvoll.",
+    "Hebrew": "מלודרמה"
+  },
+  {
+    "Wortliste": "der/die Einwanderer/Einwanderin, -/-nen",
+    "English": "the immigrant",
+    "Meaning": "Viele Einwanderer kommen wegen der Arbeit nach Deutschland.",
+    "Hebrew": "מהגר/ת"
+  },
+  {
+    "Wortliste": "entstammen",
+    "English": "to originate from; to come from",
+    "Meaning": "Er entstammt einer Musikerfamilie.",
+    "Hebrew": "לבוא מ / להיות ממוצא"
+  },
+  {
+    "Wortliste": "das Migrationsdrama, -dramen",
+    "English": "the migration drama",
+    "Meaning": "Das Migrationsdrama erzählt die Geschichte einer Flüchtlingsfamilie.",
+    "Hebrew": "דרמת הגירה"
+  },
+  {
+    "Wortliste": "das Milieu, -s",
+    "English": "the social environment; the milieu",
+    "Meaning": "Der Film spielt im kriminellen Milieu einer Großstadt.",
+    "Hebrew": "מילייה / סביבה חברתית"
+  },
+  {
+    "Wortliste": "der/die Filmregisseur/in, -e/-nen",
+    "English": "the film director",
+    "Meaning": "Der bekannte Filmregisseur arbeitet an einem neuen Projekt.",
+    "Hebrew": "במאי/ת קולנוע"
+  },
+  {
+    "Wortliste": "der/die Muslim/in, -e/-nen",
+    "English": "the Muslim",
+    "Meaning": "In diesem Viertel leben viele Muslime.",
+    "Hebrew": "מוסלמי/ת"
+  },
+  {
+    "Wortliste": "das Gangsterkino (Sg.)",
+    "English": "gangster films (as a genre)",
+    "Meaning": "Er interessiert sich besonders für amerikanisches Gangsterkino.",
+    "Hebrew": "סרטי גנגסטרים"
+  },
+  {
+    "Wortliste": "passioniert",
+    "English": "passionate",
+    "Meaning": "Sie ist eine passionierte Filmregisseurin.",
+    "Hebrew": "נלהב / בעל תשוקה"
+  },
+  {
+    "Wortliste": "geprägt",
+    "English": "shaped; influenced",
+    "Meaning": "Sein Stil ist stark von seiner Kindheit geprägt.",
+    "Hebrew": "מעוצב / מושפע"
+  },
+  {
+    "Wortliste": "der/die Produzent/in, -en/-nen",
+    "English": "the producer",
+    "Meaning": "Der Produzent sucht nach Geld für den neuen Film.",
+    "Hebrew": "מפיק/ה"
+  },
+  {
+    "Wortliste": "gläubig",
+    "English": "religious; believing",
+    "Meaning": "Seine Familie ist sehr gläubig.",
+    "Hebrew": "מאמין/ה / דתי/ה"
+  },
+  {
+    "Wortliste": "die Härte (Sg.)",
+    "English": "the hardness; the severity",
+    "Meaning": "Er war überrascht über die Härte der Kritik.",
+    "Hebrew": "קשיות / חומרה"
+  },
+  {
+    "Wortliste": "die Hauptrolle, -n",
+    "English": "the leading role",
+    "Meaning": "Sie spielt die Hauptrolle in diesem Kinofilm.",
+    "Hebrew": "תפקיד ראשי"
+  },
+  {
+    "Wortliste": "heimisch",
+    "English": "at home; native",
+    "Meaning": "In Berlin fühlt er sich inzwischen heimisch.",
+    "Hebrew": "ביתי / מוכר / ילידי"
+  },
+  {
+    "Wortliste": "die Hommage, -n",
+    "English": "the homage; tribute",
+    "Meaning": "Der Film ist eine Hommage an seine Kindheit.",
+    "Hebrew": "מחווה / כבוד"
+  },
+  {
+    "Wortliste": "der Juryvorsitz (Sg.)",
+    "English": "the chairmanship of the jury",
+    "Meaning": "Den Juryvorsitz übernimmt dieses Jahr eine bekannte Schauspielerin.",
+    "Hebrew": "יו\"ר חבר השופטים"
+  },
+  {
+    "Wortliste": "katholisch",
+    "English": "Catholic",
+    "Meaning": "Er ist in einer katholischen Familie aufgewachsen.",
+    "Hebrew": "קתולי"
+  },
+  {
+    "Wortliste": "der Kiez, -e",
+    "English": "the neighbourhood (colloquial, often in Berlin)",
+    "Meaning": "In meinem Kiez kennt fast jeder jeden.",
+    "Hebrew": "שכונה (בגרמנית סלנג)"
+  },
+  {
+    "Wortliste": "der Kinofilm, -e",
+    "English": "the cinema film",
+    "Meaning": "Der neue Kinofilm läuft ab Donnerstag.",
+    "Hebrew": "סרט קולנוע"
+  },
+  {
+    "Wortliste": "die Kinokasse, -n",
+    "English": "the box office; cinema ticket counter",
+    "Meaning": "An der Kinokasse bilden sich lange Schlangen.",
+    "Hebrew": "קופה של קולנוע"
+  },
+  {
+    "Wortliste": "der Nonsens (Sg.)",
+    "English": "the nonsense",
+    "Meaning": "Was er erzählt hat, war totaler Nonsens.",
+    "Hebrew": "שטויות / חוסר הגיון"
+  },
+  {
+    "Wortliste": "der/die Regisseur/in, -e/-nen",
+    "English": "the director",
+    "Meaning": "Der Regisseur erklärt den Schauspielern die nächste Szene.",
+    "Hebrew": "במאי/ת"
+  },
+  {
+    "Wortliste": "die Scheinehe, -n",
+    "English": "the sham marriage",
+    "Meaning": "Eine Scheinehe ist in vielen Ländern strafbar.",
+    "Hebrew": "נישואי פיקציה"
+  },
+  {
+    "Wortliste": "schmerzlos",
+    "English": "painless",
+    "Meaning": "Die Behandlung war fast schmerzlos.",
+    "Hebrew": "ללא כאב / כואב-פחות"
+  },
+  {
+    "Wortliste": "der Spielfilm, -e",
+    "English": "the feature film",
+    "Meaning": "Heute Abend läuft ein französischer Spielfilm im Fernsehen.",
+    "Hebrew": "סרט עלילתי"
+  },
+  {
+    "Wortliste": "stets",
+    "English": "always",
+    "Meaning": "Sie ist stets pünktlich und gut vorbereitet.",
+    "Hebrew": "תמיד / כל הזמן"
+  },
+  {
+    "Wortliste": "treu",
+    "English": "faithful; loyal",
+    "Meaning": "Er ist seinen Freunden immer treu geblieben.",
+    "Hebrew": "נאמן"
+  },
+  {
+    "Wortliste": "die Trophäe, -n",
+    "English": "the trophy",
+    "Meaning": "Die Mannschaft hielt stolz die Trophäe in die Höhe.",
+    "Hebrew": "גביע / פרס"
+  },
+  {
+    "Wortliste": "visuell",
+    "English": "visual",
+    "Meaning": "Der Film arbeitet stark mit visuellen Effekten.",
+    "Hebrew": "חזותי"
+  },
+  {
+    "Wortliste": "voller",
+    "English": "full of",
+    "Meaning": "Der Film ist voller überraschender Wendungen.",
+    "Hebrew": "מלא / עמוס"
+  },
+  {
+    "Wortliste": "das Vorbild, -er",
+    "English": "the role model",
+    "Meaning": "Sein älterer Bruder ist für ihn ein großes Vorbild.",
+    "Hebrew": "מודל לחיקוי / דוגמה"
+  },
+  {
+    "Wortliste": "wesentlich",
+    "English": "essential; significant",
+    "Meaning": "Sprachkenntnisse sind ein wesentlicher Vorteil im Beruf.",
+    "Hebrew": "מהותי / חשוב / משמעותי"
+  },
+  {
+    "Wortliste": "das Piktogramm, -e",
+    "English": "the pictogram",
+    "Meaning": "Piktogramme helfen, Informationen ohne Text zu verstehen.",
+    "Hebrew": "פיקטוגרמה / סמל גרפי"
+  },
+  {
+    "Wortliste": "der Anlass, \"-e",
+    "English": "the occasion; the reason",
+    "Meaning": "Der Geburtstag war ein schöner Anlass für ein Treffen.",
+    "Hebrew": "סיבה / אירוע / הזדמנות"
+  },
+  {
+    "Wortliste": "kommunizieren",
+    "English": "to communicate",
+    "Meaning": "Wir kommunizieren heute oft über Messenger-Dienste.",
+    "Hebrew": "לתקשר"
+  },
+  {
+    "Wortliste": "ausstrecken",
+    "English": "to stretch out",
+    "Meaning": "Er streckte die Hand aus, um sie zu begrüßen.",
+    "Hebrew": "להושיט / למתוח"
+  },
+  {
+    "Wortliste": "die Auszeit, -en",
+    "English": "the time-out; break",
+    "Meaning": "Nach dem Studium nahm sie sich eine Auszeit im Ausland.",
+    "Hebrew": "הפסקה / זמן חופש"
+  },
+  {
+    "Wortliste": "die Gebärdensprache (Sg.)",
+    "English": "sign language",
+    "Meaning": "Viele Gehörlose kommunizieren mit Gebärdensprache.",
+    "Hebrew": "שפת סימנים"
+  },
+  {
+    "Wortliste": "die Schranke, -n",
+    "English": "the barrier; the gate",
+    "Meaning": "Die Schranke am Bahnübergang ist geschlossen.",
+    "Hebrew": "מחסום / גבול"
+  },
+  {
+    "Wortliste": "der Stopp, -s",
+    "English": "the stop; halt",
+    "Meaning": "Wir machen einen kurzen Stopp an der Tankstelle.",
+    "Hebrew": "עצור / עצירה"
+  },
+  {
+    "Wortliste": "weisen",
+    "English": "to point; to show",
+    "Meaning": "Der Wegweiser weist in Richtung Zentrum.",
+    "Hebrew": "להצביע / לכוון"
+  },
+  {
+    "Wortliste": "die Körpersprache (Sg.)",
+    "English": "body language",
+    "Meaning": "Ihre Körpersprache zeigt deutlich, dass sie nervös ist.",
+    "Hebrew": "שפת גוף"
+  },
+  {
+    "Wortliste": "die Emotion, -en",
+    "English": "the emotion",
+    "Meaning": "Der Film löste starke Emotionen beim Publikum aus.",
+    "Hebrew": "רגש / אמוציה"
+  },
+  {
+    "Wortliste": "das Körpersignal, -e",
+    "English": "the body signal",
+    "Meaning": "Achten Sie auf die Körpersignale Ihres Gesprächspartners.",
+    "Hebrew": "אות גוף / סימן גוף"
+  },
+  {
+    "Wortliste": "verraten",
+    "English": "to reveal; to betray",
+    "Meaning": "Sein Gesicht verrät, dass er nervös ist.",
+    "Hebrew": "לבגוד / לגלות סוד"
+  },
+  {
+    "Wortliste": "allzu",
+    "English": "too; all too",
+    "Meaning": "Mach dir nicht allzu viele Sorgen.",
+    "Hebrew": "יותר מדי"
+  },
+  {
+    "Wortliste": "anlegen",
+    "English": "to apply; to put on; to invest",
+    "Meaning": "Für das Projekt müssen wir einen neuen Ordner anlegen.",
+    "Hebrew": "ליצור / להשקיע / לעגון"
+  },
+  {
+    "Wortliste": "auszahlen",
+    "English": "to pay out; to pay off",
+    "Meaning": "Fleiß zahlt sich am Ende aus.",
+    "Hebrew": "לשלם / להחזיר כסף"
+  },
+  {
+    "Wortliste": "der/die Autor/in, -en/-nen",
+    "English": "the author",
+    "Meaning": "Die Autorin liest heute Abend aus ihrem neuen Buch.",
+    "Hebrew": "מחבר/ת / סופר/ת"
+  },
+  {
+    "Wortliste": "betroffen",
+    "English": "affected; concerned; shocked",
+    "Meaning": "Viele Mitarbeiter sind von der Entscheidung betroffen.",
+    "Hebrew": "מושפע / נפגע / נרגש"
+  },
+  {
+    "Wortliste": "bilingual",
+    "English": "bilingual",
+    "Meaning": "Die Kinder wachsen bilingual auf.",
+    "Hebrew": "דו-לשוני"
+  },
+  {
+    "Wortliste": "einsprachig",
+    "English": "monolingual; speaking one language",
+    "Meaning": "Er ist einsprachig aufgewachsen.",
+    "Hebrew": "חד-לשוני"
+  },
+  {
+    "Wortliste": "fehlerlos",
+    "English": "without mistakes; flawless",
+    "Meaning": "Sie hat den Test fast fehlerlos geschrieben.",
+    "Hebrew": "ללא שגיאות / מושלם"
+  },
+  {
+    "Wortliste": "instinktiv",
+    "English": "instinctive; instinctively",
+    "Meaning": "Er hat instinktiv die richtige Entscheidung getroffen.",
+    "Hebrew": "אינסטינקטיבי"
+  },
+  {
+    "Wortliste": "wahrnehmen",
+    "English": "to perceive; to notice",
+    "Meaning": "Sie nimmt leise Geräusche sehr genau wahr.",
+    "Hebrew": "לתפוס / להבחין / לחוש"
+  },
+  {
+    "Wortliste": "deuten",
+    "English": "to interpret; to indicate",
+    "Meaning": "Wie deutest du seine Reaktion?",
+    "Hebrew": "לפרש / לפרש"
+  },
+  {
+    "Wortliste": "die Mimik, -en",
+    "English": "the facial expression(s)",
+    "Meaning": "An ihrer Mimik kann man viel ablesen.",
+    "Hebrew": "הבעת פנים"
+  },
+  {
+    "Wortliste": "vorgeben",
+    "English": "to pretend; to set; to prescribe",
+    "Meaning": "Die Lehrerin gibt das Thema für den Aufsatz vor.",
+    "Hebrew": "להעמיד פנים / לטעון"
+  },
+  {
+    "Wortliste": "bestimmen",
+    "English": "to determine; to decide",
+    "Meaning": "Du kannst selbst bestimmen, wie viel du lernen willst.",
+    "Hebrew": "לקבוע / לאפיין"
+  },
+  {
+    "Wortliste": "eindeutig",
+    "English": "clear; unambiguous",
+    "Meaning": "Die Regeln sind eindeutig formuliert.",
+    "Hebrew": "ברור / חד משמעי"
+  },
+  {
+    "Wortliste": "das Signal, -e",
+    "English": "the signal",
+    "Meaning": "Ein Lächeln kann ein positives Signal sein.",
+    "Hebrew": "אות / סימן"
+  },
+  {
+    "Wortliste": "angemessen",
+    "English": "appropriate; adequate",
+    "Meaning": "In einem Bewerbungsgespräch ist formelle Kleidung angemessen.",
+    "Hebrew": "הולם / מתאים"
+  },
+  {
+    "Wortliste": "feststellen",
+    "English": "to determine; to find out",
+    "Meaning": "Der Arzt stellte eine Grippe fest.",
+    "Hebrew": "לקבוע / לזהות / לגלות"
+  },
+  {
+    "Wortliste": "führen",
+    "English": "to lead; to conduct",
+    "Meaning": "Sie führt ein sehr persönliches Gespräch mit ihrem Chef.",
+    "Hebrew": "להוביל / לנהל"
+  },
+  {
+    "Wortliste": "geduldig",
+    "English": "patient",
+    "Meaning": "Die Lehrerin erklärt alles sehr geduldig.",
+    "Hebrew": "סבלני"
+  },
+  {
+    "Wortliste": "das Gehirn, -e",
+    "English": "the brain",
+    "Meaning": "Das Gehirn verarbeitet ständig neue Informationen.",
+    "Hebrew": "מוח"
+  },
+  {
+    "Wortliste": "das Großraumbüro, -s",
+    "English": "the open-plan office",
+    "Meaning": "Im Großraumbüro ist es manchmal laut.",
+    "Hebrew": "משרד פתוח / open space"
+  },
+  {
+    "Wortliste": "herumschlagen",
+    "English": "to struggle with; to grapple with",
+    "Meaning": "Viele Eltern schlagen sich mit dem Thema Handyregeln herum.",
+    "Hebrew": "להתמודד / להתעסק עם"
+  },
+  {
+    "Wortliste": "kinderleicht",
+    "English": "child’s play; very easy",
+    "Meaning": "Mit dieser App ist Vokabellernen kinderleicht.",
+    "Hebrew": "קל כמו לילד / פשוט מאוד"
+  },
+  {
+    "Wortliste": "das Kleinkind, -er",
+    "English": "the toddler; small child",
+    "Meaning": "Das Kleinkind lernt gerade seine ersten Wörter.",
+    "Hebrew": "פעוט / ילד קטן"
+  },
+  {
+    "Wortliste": "die Kompetenz, -en",
+    "English": "the competence; skill",
+    "Meaning": "Sprachliche Kompetenzen sind im Beruf wichtig.",
+    "Hebrew": "כשירות / יכולת"
+  },
+  {
+    "Wortliste": "die Konzentrationsleistung, -en",
+    "English": "the concentration performance; ability to concentrate",
+    "Meaning": "Nachmittags lässt meine Konzentrationsleistung nach.",
+    "Hebrew": "יכולת ריכוז"
+  },
+  {
+    "Wortliste": "monolingual",
+    "English": "monolingual",
+    "Meaning": "Die Studie vergleicht monolinguale und bilinguale Kinder.",
+    "Hebrew": "חד-לשוני"
+  },
+  {
+    "Wortliste": "nachweisen",
+    "English": "to prove; to demonstrate",
+    "Meaning": "Sie konnte gute Deutschkenntnisse nachweisen.",
+    "Hebrew": "להוכיח / להראות"
+  },
+  {
+    "Wortliste": "die Phase, -n",
+    "English": "the phase; the stage",
+    "Meaning": "In der ersten Phase ist alles noch neu und spannend.",
+    "Hebrew": "שלב / פאזה"
+  },
+  {
+    "Wortliste": "der/die Psychologe/Psychologin, -n/-nen",
+    "English": "the psychologist",
+    "Meaning": "Die Psychologin erklärt die Ergebnisse der Studie.",
+    "Hebrew": "פסיכולוג/ית"
+  },
+  {
+    "Wortliste": "schwerfallen",
+    "English": "to be difficult (for someone)",
+    "Meaning": "Am Anfang fällt mir das Sprechen auf Deutsch noch schwer.",
+    "Hebrew": "להיות קשה / לא לבוא בקלות"
+  },
+  {
+    "Wortliste": "die Sprachenpolitik (Sg.)",
+    "English": "language policy",
+    "Meaning": "Die Sprachenpolitik des Landes fördert Mehrsprachigkeit.",
+    "Hebrew": "מדיניות שפה"
+  },
+  {
+    "Wortliste": "die Sprachentwicklung, -en",
+    "English": "language development",
+    "Meaning": "Eltern können die Sprachentwicklung ihrer Kinder unterstützen.",
+    "Hebrew": "התפתחות שפה"
+  },
+  {
+    "Wortliste": "der Sprachschatz (Sg.)",
+    "English": "vocabulary; stock of words",
+    "Meaning": "Durch viel Lesen erweitert man seinen Sprachschatz.",
+    "Hebrew": "אוצר מילים"
+  },
+  {
+    "Wortliste": "der/die Sprachwissenschaftler/in, -/-nen",
+    "English": "the linguist",
+    "Meaning": "Sprachwissenschaftler untersuchen, wie sich Sprachen entwickeln.",
+    "Hebrew": "בלשן / חוקר/ת שפה"
+  },
+  {
+    "Wortliste": "die Startchance, -n",
+    "English": "the starting opportunity; starting chance",
+    "Meaning": "Gute Bildung erhöht die Startchancen im Berufsleben.",
+    "Hebrew": "הזדמנות התחלתית"
+  },
+  {
+    "Wortliste": "der/die Trendforscher/in, -/-nen",
+    "English": "the trend researcher",
+    "Meaning": "Trendforscher analysieren, wie sich unsere Gesellschaft verändert.",
+    "Hebrew": "חוקר/ת מגמות"
+  },
+  {
+    "Wortliste": "überfordern",
+    "English": "to overstrain; to overwhelm",
+    "Meaning": "Zu viele Hausaufgaben können Schüler leicht überfordern.",
+    "Hebrew": "לדרוש יותר מדי / להעמיס"
+  },
+  {
+    "Wortliste": "umgehen",
+    "English": "to deal with; to handle",
+    "Meaning": "Man muss lernen, mit Stress besser umzugehen.",
+    "Hebrew": "להתמודד עם / לעקוף"
+  },
+  {
+    "Wortliste": "unterfordern",
+    "English": "to underchallenge",
+    "Meaning": "Wenn Kinder im Unterricht unterfordert sind, langweilen sie sich.",
+    "Hebrew": "לא לאתגר מספיק"
+  },
+  {
+    "Wortliste": "die Verhandlung, -en",
+    "English": "the negotiation; the hearing",
+    "Meaning": "Die Verhandlungen zwischen den Firmen waren erfolgreich.",
+    "Hebrew": "משא ומתן / דיון"
+  },
+  {
+    "Wortliste": "vertraut",
+    "English": "familiar",
+    "Meaning": "Die Stadt ist mir inzwischen sehr vertraut.",
+    "Hebrew": "מוכר / קרוב / בטוח"
+  },
+  {
+    "Wortliste": "werben",
+    "English": "to advertise; to recruit",
+    "Meaning": "Die Firma wirbt mit einem neuen Logo im Internet.",
+    "Hebrew": "לפרסם / לגייס"
+  },
+  {
+    "Wortliste": "der/die Wissenschaftler/in, -/-nen",
+    "English": "the scientist; academic researcher",
+    "Meaning": "Die Wissenschaftlerin präsentiert ihre Ergebnisse auf einer Konferenz.",
+    "Hebrew": "מדען/ית"
+  },
+  {
+    "Wortliste": "der Wunsch, \"-e",
+    "English": "the wish; the desire",
+    "Meaning": "Er hat den Wunsch, später im Ausland zu arbeiten.",
+    "Hebrew": "משאלה / רצון / בקשה"
+  },
+  {
+    "Wortliste": "zweisprachig",
+    "English": "bilingual",
+    "Meaning": "Sie ist zweisprachig aufgewachsen.",
+    "Hebrew": "דו-לשוני"
+  },
+  {
+    "Wortliste": "vorgehen",
+    "English": "to proceed; to act",
+    "Meaning": "Wir müssen bei dem Projekt sehr sorgfältig vorgehen.",
+    "Hebrew": "להתקדם / לנהוג / להיות עדיפות"
+  },
+  {
+    "Wortliste": "das Defizit, -e",
+    "English": "the deficit",
+    "Meaning": "Viele Schüler haben ein Defizit im Hörverstehen.",
+    "Hebrew": "גירעון / חוסר"
+  },
+  {
+    "Wortliste": "der/die Gegner/in, -/-nen",
+    "English": "the opponent",
+    "Meaning": "Im Spiel waren unsere Gegner sehr stark.",
+    "Hebrew": "יריב/ה / מתנגד/ת"
+  },
+  {
+    "Wortliste": "das Prinzip, -ien",
+    "English": "the principle",
+    "Meaning": "Aus Prinzip bezahlt er seine Rechnungen immer pünktlich.",
+    "Hebrew": "עיקרון / עקרון"
+  },
+  {
+    "Wortliste": "der Umgang, \"-e",
+    "English": "the interaction; the handling",
+    "Meaning": "Der Umgang mit Konflikten fällt ihm nicht leicht.",
+    "Hebrew": "התנהלות / קשר / עסקה"
+  },
+  {
+    "Wortliste": "die Basis, Basen",
+    "English": "the basis; foundation",
+    "Meaning": "Vertrauen ist die Basis einer guten Beziehung.",
+    "Hebrew": "בסיס"
+  },
+  {
+    "Wortliste": "entspannt",
+    "English": "relaxed",
+    "Meaning": "Nach dem Urlaub fühle ich mich wieder ganz entspannt.",
+    "Hebrew": "רגוע / נינוח"
+  },
+  {
+    "Wortliste": "das Teilthema, -themen",
+    "English": "the subtopic",
+    "Meaning": "Jede Gruppe bearbeitet ein Teilthema des Projekts.",
+    "Hebrew": "נושא משנה"
+  },
+  {
+    "Wortliste": "gehen",
+    "English": "to go",
+    "Meaning": "Es geht in diesem Kurs vor allem um Kommunikation.",
+    "Hebrew": "ללכת / להסתדר"
+  },
+  {
+    "Wortliste": "gründlich",
+    "English": "thorough; thoroughly",
+    "Meaning": "Bitte lesen Sie den Text gründlich durch.",
+    "Hebrew": "יסודי / מעמיק"
+  },
+  {
+    "Wortliste": "die Lage, -n",
+    "English": "the situation; the location",
+    "Meaning": "Die wirtschaftliche Lage hat sich verbessert.",
+    "Hebrew": "מצב / מיקום"
+  },
+  {
+    "Wortliste": "die Nummer, -n",
+    "English": "the number",
+    "Meaning": "Können Sie mir Ihre Telefonnummer geben?",
+    "Hebrew": "מספר"
+  },
+  {
+    "Wortliste": "das Talent, -e",
+    "English": "the talent",
+    "Meaning": "Er hat ein großes Talent für Sprachen.",
+    "Hebrew": "כישרון"
+  },
+  {
+    "Wortliste": "eilig",
+    "English": "in a hurry; urgent",
+    "Meaning": "Sie hat es eilig und läuft schnell zur U-Bahn.",
+    "Hebrew": "דחוף / ממהר"
+  },
+  {
+    "Wortliste": "austeilen",
+    "English": "to hand out; to distribute",
+    "Meaning": "Die Lehrerin teilt die Arbeitsblätter aus.",
+    "Hebrew": "לחלק / להעניק"
+  },
+  {
+    "Wortliste": "die Berufsschule, -n",
+    "English": "the vocational school",
+    "Meaning": "Die Auszubildenden gehen zweimal pro Woche zur Berufsschule.",
+    "Hebrew": "בית ספר מקצועי"
+  },
+  {
+    "Wortliste": "draufhauen",
+    "English": "to bash; to lash out (coll.)",
+    "Meaning": "In der Diskussion hat er ganz schön draufgehauen.",
+    "Hebrew": "לחבוט / להקים עסק"
+  },
+  {
+    "Wortliste": "einstecken",
+    "English": "to put in (pocket); to take (criticism)",
+    "Meaning": "Er musste viel Kritik einstecken.",
+    "Hebrew": "לקחת / לסבול / לחבר לחשמל"
+  },
+  {
+    "Wortliste": "der/die Gepäckermittler/in, -/-nen",
+    "English": "the baggage tracer; baggage investigator",
+    "Meaning": "Die Gepäckermittler suchen nach dem verlorenen Koffer.",
+    "Hebrew": "מאתר/ת מזוודות"
+  },
+  {
+    "Wortliste": "der/die Kabarettist/in, -en/-nen",
+    "English": "the cabaret artist; satirist",
+    "Meaning": "Der Kabarettist macht sich über die Politik lustig.",
+    "Hebrew": "קברטיסט/ית"
+  },
+  {
+    "Wortliste": "die Kritik, -en",
+    "English": "the criticism; the review",
+    "Meaning": "Der Film hat gute Kritiken bekommen.",
+    "Hebrew": "ביקורת"
+  },
+  {
+    "Wortliste": "nehmen",
+    "English": "to take",
+    "Meaning": "Er nimmt die Kritik gelassen.",
+    "Hebrew": "לקחת"
+  },
+  {
+    "Wortliste": "der Respekt (Sg.)",
+    "English": "the respect",
+    "Meaning": "Sie zeigt großen Respekt vor älteren Menschen.",
+    "Hebrew": "כבוד / יחס"
+  },
+  {
+    "Wortliste": "ruhig",
+    "English": "calm; quiet",
+    "Meaning": "Bitte bleiben Sie ruhig und hören Sie zu.",
+    "Hebrew": "שקט / רגוע"
+  },
+  {
+    "Wortliste": "touren",
+    "English": "to be on tour",
+    "Meaning": "Die Band tourt im Sommer durch ganz Europa.",
+    "Hebrew": "לסייר / לצאת לסיבוב"
+  },
+  {
+    "Wortliste": "zusammengehören",
+    "English": "to belong together",
+    "Meaning": "Die beiden Sätze gehören inhaltlich zusammen.",
+    "Hebrew": "להשתייך יחד / להתאים"
+  },
+  {
+    "Wortliste": "üben",
+    "English": "to practise",
+    "Meaning": "Du musst die neuen Vokabeln regelmäßig üben.",
+    "Hebrew": "לתרגל / להפעיל"
+  },
+  {
+    "Wortliste": "aggressiv",
+    "English": "aggressive",
+    "Meaning": "Sein Ton wurde plötzlich sehr aggressiv.",
+    "Hebrew": "אגרסיבי"
+  },
+  {
+    "Wortliste": "auffordern",
+    "English": "to request; to urge; to call upon",
+    "Meaning": "Die Lehrerin fordert die Schüler zum Mitmachen auf.",
+    "Hebrew": "לדרוש / לבקש / להזמין"
+  },
+  {
+    "Wortliste": "blamieren (sich)",
+    "English": "to embarrass (oneself)",
+    "Meaning": "Ich will mich bei der Präsentation nicht blamieren.",
+    "Hebrew": "להתבייש / להביך את עצמו"
+  },
+  {
+    "Wortliste": "das Mitleid (Sg.)",
+    "English": "the pity; compassion",
+    "Meaning": "Ich möchte kein Mitleid, sondern Unterstützung.",
+    "Hebrew": "רחמים / חמלה"
+  },
+  {
+    "Wortliste": "die Verbesserung, -en",
+    "English": "the improvement; correction",
+    "Meaning": "Die Lehrerin hat meine Fehler mit roten Verbesserungen markiert.",
+    "Hebrew": "שיפור / תיקון"
+  },
+  {
+    "Wortliste": "verschuldet",
+    "English": "in debt; at fault",
+    "Meaning": "Viele junge Leute sind nach dem Studium hoch verschuldet.",
+    "Hebrew": "חייב / מסובך בחובות"
+  },
+  {
+    "Wortliste": "hinhören",
+    "English": "to listen closely",
+    "Meaning": "Man muss genau hinhören, um alles zu verstehen.",
+    "Hebrew": "להאזין / לשים לב"
+  },
+  {
+    "Wortliste": "der Konsens (Sg.)",
+    "English": "the consensus",
+    "Meaning": "In der Gruppe herrscht Konsens über das Vorgehen.",
+    "Hebrew": "קונסנזוס / הסכמה"
+  },
+  {
+    "Wortliste": "die Sache, -n",
+    "English": "the thing; matter; issue",
+    "Meaning": "Lass uns die Sache in Ruhe besprechen.",
+    "Hebrew": "עניין / דבר"
+  },
+  {
+    "Wortliste": "die Schwäche, -n",
+    "English": "the weakness",
+    "Meaning": "Im Bewerbungsgespräch fragen sie oft nach Stärken und Schwächen.",
+    "Hebrew": "חולשה"
+  },
+  {
+    "Wortliste": "die Aufgabenteilung, -en",
+    "English": "the division of tasks",
+    "Meaning": "Zu Hause haben wir eine klare Aufgabenteilung.",
+    "Hebrew": "חלוקת משימות"
+  },
+  {
+    "Wortliste": "auslösen",
+    "English": "to trigger; to cause",
+    "Meaning": "Die Nachricht hat große Freude ausgelöst.",
+    "Hebrew": "לגרום / להפעיל"
+  },
+  {
+    "Wortliste": "donnern",
+    "English": "to thunder; to boom",
+    "Meaning": "Draußen donnert es, gleich gibt es ein Gewitter.",
+    "Hebrew": "לרעום / להרעים"
+  },
+  {
+    "Wortliste": "ernst meinen",
+    "English": "to mean seriously",
+    "Meaning": "Ich glaube, er meint das wirklich ernst.",
+    "Hebrew": "להתכוון ברצינות"
+  },
+  {
+    "Wortliste": "lexikalisch",
+    "English": "lexical",
+    "Meaning": "Die Übung konzentriert sich auf lexikalische Unterschiede.",
+    "Hebrew": "לקסיקלי / של אוצר מילים"
+  },
+  {
+    "Wortliste": "die Naturerscheinung, -en",
+    "English": "the natural phenomenon",
+    "Meaning": "Nordlichter sind eine beeindruckende Naturerscheinung.",
+    "Hebrew": "תופעת טבע"
+  },
+  {
+    "Wortliste": "die Zeiterscheinung, -en",
+    "English": "the sign of the times; contemporary phenomenon",
+    "Meaning": "Soziale Medien sind eine typische Zeiterscheinung.",
+    "Hebrew": "תופעה עכשווית"
+  },
+  {
+    "Wortliste": "nichtssagend",
+    "English": "meaningless; bland",
+    "Meaning": "Die Antwort war höflich, aber ziemlich nichtssagend.",
+    "Hebrew": "חסר משמעות / לא אומר כלום"
+  },
+  {
+    "Wortliste": "der/die Stellvertreter/in, -/-nen",
+    "English": "the deputy; the representative",
+    "Meaning": "Die Stellvertreterin übernimmt die Leitung bei seiner Abwesenheit.",
+    "Hebrew": "ממלא/ת מקום / סגן/ית"
+  },
+  {
+    "Wortliste": "verwunderlich",
+    "English": "surprising; strange",
+    "Meaning": "Es ist nicht verwunderlich, dass er müde ist.",
+    "Hebrew": "מפתיע / תמוה"
+  },
+  {
+    "Wortliste": "ratsam",
+    "English": "advisable",
+    "Meaning": "Es ist ratsam, vor der Prüfung früh schlafen zu gehen.",
+    "Hebrew": "מומלץ / חכם"
+  },
+  {
+    "Wortliste": "witzig",
+    "English": "funny",
+    "Meaning": "Der Film war sehr witzig, ich musste viel lachen.",
+    "Hebrew": "מצחיק / שנון"
+  },
+  {
+    "Wortliste": "der Benzinmotor, -en",
+    "English": "the petrol engine",
+    "Meaning": "Der Benzinmotor verbraucht relativ viel Kraftstoff.",
+    "Hebrew": "מנוע בנזין"
+  },
+  {
+    "Wortliste": "die Längeneinheit, -en",
+    "English": "the unit of length",
+    "Meaning": "Meter und Kilometer sind Längeneinheiten.",
+    "Hebrew": "יחידת אורך"
+  },
+  {
+    "Wortliste": "das Mittelalter (Sg.)",
+    "English": "the Middle Ages",
+    "Meaning": "Viele Burgen stammen aus dem Mittelalter.",
+    "Hebrew": "ימי הביניים"
+  },
+  {
+    "Wortliste": "der Flügel, -",
+    "English": "the wing",
+    "Meaning": "Der Vogel breitet seine Flügel aus.",
+    "Hebrew": "כנף / כנף פסנתר"
+  },
+  {
+    "Wortliste": "die Hieroglyphe, -n",
+    "English": "the hieroglyph",
+    "Meaning": "Ägyptische Hieroglyphen sind sehr komplex.",
+    "Hebrew": "היירוגליף"
+  },
+  {
+    "Wortliste": "die Kalorie, -n",
+    "English": "the calorie",
+    "Meaning": "Auf der Verpackung steht, wie viele Kalorien das Produkt hat.",
+    "Hebrew": "קלוריה"
+  },
+  {
+    "Wortliste": "die Keilschrift, -en",
+    "English": "the cuneiform script",
+    "Meaning": "Keilschrift ist eine der ältesten bekannten Schriften.",
+    "Hebrew": "כתב יתדות"
+  },
+  {
+    "Wortliste": "die Lebenserwartung, -en",
+    "English": "the life expectancy",
+    "Meaning": "Die Lebenserwartung ist in vielen Ländern gestiegen.",
+    "Hebrew": "תוחלת חיים"
+  },
+  {
+    "Wortliste": "die Mücke, -n",
+    "English": "the mosquito",
+    "Meaning": "Nachts nerven mich die Mücken im Zimmer.",
+    "Hebrew": "יתוש"
+  },
+  {
+    "Wortliste": "das Olivenöl, -e",
+    "English": "the olive oil",
+    "Meaning": "Zum Salat nehme ich gern Olivenöl.",
+    "Hebrew": "שמן זית"
+  },
+  {
+    "Wortliste": "schlagen, schlug, hat geschlagen",
+    "English": "to hit; to beat",
+    "Meaning": "Bitte schlag nicht so fest auf den Tisch.",
+    "Hebrew": "להכות / לדפוק"
+  },
+  {
+    "Wortliste": "der Speck (Sg.)",
+    "English": "the bacon",
+    "Meaning": "Zum Frühstück gibt es Eier mit Speck.",
+    "Hebrew": "בייקון / שומן חזיר"
+  },
+  {
+    "Wortliste": "das Quiz, -",
+    "English": "the quiz",
+    "Meaning": "Im Fernsehen läuft heute ein interessantes Quiz.",
+    "Hebrew": "חידון"
+  },
+  {
+    "Wortliste": "ausgewechselt (sich wie ausgewechselt verhalten)",
+    "English": "changed (to behave like a different person)",
+    "Meaning": "Seit dem Umzug wirkt sie wie ausgewechselt.",
+    "Hebrew": "להתנהג כאילו הוחלפת / שינוי גמור"
+  },
+  {
+    "Wortliste": "entfalten (sich)",
+    "English": "to unfold; to develop",
+    "Meaning": "In der neuen Klasse kann er sein Potenzial voll entfalten.",
+    "Hebrew": "להתפתח / לפרוש"
+  },
+  {
+    "Wortliste": "hängen, hing, hat gehangen (an den Lippen hängen)",
+    "English": "to hang (to hang on someone’s lips)",
+    "Meaning": "Die Kinder hingen an den Lippen der Erzählerin.",
+    "Hebrew": "לתלות / להיות תלוי ב / לשים לב לכל מילה"
+  },
+  {
+    "Wortliste": "lenken (etw./jmd. in eine Richtung lenken)",
+    "English": "to steer; to direct",
+    "Meaning": "Der Moderator lenkte das Gespräch in eine neue Richtung.",
+    "Hebrew": "לכוון / להסיט"
+  },
+  {
+    "Wortliste": "die Lippe, -n",
+    "English": "the lip",
+    "Meaning": "Sie hat sich auf die Lippen gebissen.",
+    "Hebrew": "שפה (של הפה)"
+  },
+  {
+    "Wortliste": "die Weiche, -n (die Weichen für etw. stellen)",
+    "English": "the switch (to set the course for sth.)",
+    "Meaning": "Mit dieser Entscheidung werden die Weichen für die Zukunft gestellt.",
+    "Hebrew": "מסלול / לסלול דרך ל"
+  },
+  {
+    "Wortliste": "abbauen (Scheu abbauen)",
+    "English": "to reduce; to dismantle",
+    "Meaning": "Spiele im Unterricht helfen, die Scheu vor dem Sprechen abzubauen.",
+    "Hebrew": "להפחית / להסיר (עכבות)"
+  },
+  {
+    "Wortliste": "absolvieren",
+    "English": "to complete; to graduate",
+    "Meaning": "Sie hat ein Praktikum in einer großen Firma absolviert.",
+    "Hebrew": "לסיים / לבצע"
+  },
+  {
+    "Wortliste": "analytisch",
+    "English": "analytical",
+    "Meaning": "Er hat einen sehr analytischen Denkstil.",
+    "Hebrew": "אנליטי"
+  },
+  {
+    "Wortliste": "außergewöhnlich",
+    "English": "extraordinary; exceptional",
+    "Meaning": "Sie zeigt eine außergewöhnliche Begabung für Musik.",
+    "Hebrew": "יוצא דופן / מיוחד"
+  },
+  {
+    "Wortliste": "der Becher, -",
+    "English": "the cup; beaker",
+    "Meaning": "Im Labor benutzt man spezielle Becher für die Flüssigkeiten.",
+    "Hebrew": "כוס / ספל"
+  },
+  {
+    "Wortliste": "der Bedarf (an + D.)",
+    "English": "the need; demand (for)",
+    "Meaning": "Der Bedarf an Pflegekräften ist in vielen Ländern hoch.",
+    "Hebrew": "צורך / ביקוש"
+  },
+  {
+    "Wortliste": "die Berufsentscheidung, -en",
+    "English": "the career choice",
+    "Meaning": "Die Berufsentscheidung fällt vielen Jugendlichen schwer.",
+    "Hebrew": "החלטה מקצועית"
+  },
+  {
+    "Wortliste": "einstellen (sich)",
+    "English": "to adjust; to adapt",
+    "Meaning": "Man muss sich auf neue Kollegen erst einstellen.",
+    "Hebrew": "להכין / להתכוון"
+  },
+  {
+    "Wortliste": "das Experiment, -e",
+    "English": "the experiment",
+    "Meaning": "Die Schüler führen im Chemieunterricht ein Experiment durch.",
+    "Hebrew": "ניסוי"
+  },
+  {
+    "Wortliste": "experimentieren",
+    "English": "to experiment",
+    "Meaning": "Im Labor können die Kinder frei experimentieren.",
+    "Hebrew": "להתנסות / לעשות ניסויים"
+  },
+  {
+    "Wortliste": "die Forschungseinrichtung, -en",
+    "English": "the research institution",
+    "Meaning": "Die Universität ist eine bekannte Forschungseinrichtung.",
+    "Hebrew": "מוסד מחקר"
+  },
+  {
+    "Wortliste": "geben, gab, hat gegeben (eine Antwort geben)",
+    "English": "to give (to give an answer)",
+    "Meaning": "Bitte geben Sie eine möglichst genaue Antwort.",
+    "Hebrew": "לתת / להגיב"
+  },
+  {
+    "Wortliste": "die Gießkanne, -n",
+    "English": "the watering can",
+    "Meaning": "Mit der Gießkanne gießt sie die Blumen im Garten.",
+    "Hebrew": "כלי השקיה"
+  },
+  {
+    "Wortliste": "heranführen (an + A.)",
+    "English": "to introduce; to lead towards",
+    "Meaning": "Das Projekt soll Kinder früh an Naturwissenschaften heranführen.",
+    "Hebrew": "להקנות / להתוודע ל"
+  },
+  {
+    "Wortliste": "die Ingenieurwissenschaft, -en",
+    "English": "engineering (as a science)",
+    "Meaning": "Er möchte später Ingenieurwissenschaften studieren.",
+    "Hebrew": "הנדסה"
+  },
+  {
+    "Wortliste": "die Initiative, -n",
+    "English": "the initiative",
+    "Meaning": "Die Initiative unterstützt Kinder aus sozial schwachen Familien.",
+    "Hebrew": "יוזמה"
+  },
+  {
+    "Wortliste": "das Kindergartenalter (Sg.)",
+    "English": "kindergarten age; preschool age",
+    "Meaning": "Im Kindergartenalter lernen Kinder Sprachen besonders schnell.",
+    "Hebrew": "גיל גן ילדים"
+  },
+  {
+    "Wortliste": "die Kinderzahl, -en",
+    "English": "the number of children",
+    "Meaning": "Die Kinderzahl in vielen Familien ist gesunken.",
+    "Hebrew": "מספר ילדים"
+  },
+  {
+    "Wortliste": "klagen (über + A.)",
+    "English": "to complain (about)",
+    "Meaning": "Er klagt oft über zu viel Arbeit.",
+    "Hebrew": "להתלונן על"
+  },
+  {
+    "Wortliste": "die Konzentration (Sg.)",
+    "English": "the concentration",
+    "Meaning": "Nach einer Pause ist die Konzentration wieder besser.",
+    "Hebrew": "ריכוז / ריכוזיות"
+  },
+  {
+    "Wortliste": "konzentriert (auf + A.)",
+    "English": "concentrated; focused (on)",
+    "Meaning": "Die Schüler arbeiten konzentriert an der Aufgabe.",
+    "Hebrew": "מרוכז ב"
+  },
+  {
+    "Wortliste": "konzipieren",
+    "English": "to design; to plan",
+    "Meaning": "Die Lehrerin konzipiert einen neuen Kurs.",
+    "Hebrew": "לתכנן / לקנן"
+  },
+  {
+    "Wortliste": "der Laborkittel, -",
+    "English": "the lab coat",
+    "Meaning": "Im Labor müssen alle einen Laborkittel tragen.",
+    "Hebrew": "חלוק מעבדה"
+  },
+  {
+    "Wortliste": "mathematisch",
+    "English": "mathematical",
+    "Meaning": "Sie hat ein gutes mathematisches Verständnis.",
+    "Hebrew": "מתמטי"
+  },
+  {
+    "Wortliste": "die Nachwuchskraft, \"-e",
+    "English": "the junior staff; young professional",
+    "Meaning": "Die Firma sucht qualifizierte Nachwuchskräfte.",
+    "Hebrew": "כוח עבודה צעיר / מתחיל"
+  },
+  {
+    "Wortliste": "die Naturwissenschaft, -en",
+    "English": "the natural science",
+    "Meaning": "Biologie und Physik sind Naturwissenschaften.",
+    "Hebrew": "מדעי הטבע"
+  },
+  {
+    "Wortliste": "naturwissenschaftlich",
+    "English": "scientific (in the natural sciences)",
+    "Meaning": "Sie hat eine starke naturwissenschaftliche Ausbildung.",
+    "Hebrew": "מדעי (של מדעי הטבע)"
+  },
+  {
+    "Wortliste": "der/die Pädagoge/Pädagogin, -n/-nen",
+    "English": "the pedagogue; educator",
+    "Meaning": "Pädagogen beschäftigen sich mit Lernen und Erziehung.",
+    "Hebrew": "פדגוג / מחנך/ת"
+  },
+  {
+    "Wortliste": "das Phänomen, -e",
+    "English": "the phenomenon",
+    "Meaning": "Mehrsprachigkeit ist ein spannendes Phänomen.",
+    "Hebrew": "פנומן / תופעה"
+  },
+  {
+    "Wortliste": "die Pipette, -n",
+    "English": "the pipette",
+    "Meaning": "Mit der Pipette nimmt man eine kleine Menge Flüssigkeit auf.",
+    "Hebrew": "פיפטה"
+  },
+  {
+    "Wortliste": "qualifizieren",
+    "English": "to qualify",
+    "Meaning": "Mit diesem Kurs können Sie sich für den Test qualifizieren.",
+    "Hebrew": "להכשיר / לאמת"
+  },
+  {
+    "Wortliste": "der Rand, \"-er",
+    "English": "the edge; the margin",
+    "Meaning": "Schreiben Sie Ihren Namen oben an den Rand.",
+    "Hebrew": "שפה / קצה / גבול"
+  },
+  {
+    "Wortliste": "die Sache, -n (bei der Sache sein)",
+    "English": "the matter (to stay focused on sth.)",
+    "Meaning": "Bitte bleibt bei der Sache und hört zu.",
+    "Hebrew": "עניין / להיות ממוקד"
+  },
+  {
+    "Wortliste": "sanft",
+    "English": "gentle; softly",
+    "Meaning": "Die Lehrerin spricht sanft mit den Kindern.",
+    "Hebrew": "עדין / רך / שקט"
+  },
+  {
+    "Wortliste": "die Scheu (Sg.)",
+    "English": "the shyness; inhibition",
+    "Meaning": "Viele Teilnehmer haben zuerst Scheu, vor der Gruppe zu sprechen.",
+    "Hebrew": "עכבה / ביישנות"
+  },
+  {
+    "Wortliste": "schrumpfen",
+    "English": "to shrink",
+    "Meaning": "Die Schülerzahl in der Schule ist in den letzten Jahren geschrumpft.",
+    "Hebrew": "להתכווץ / לקטון"
+  },
+  {
+    "Wortliste": "spritzen",
+    "English": "to squirt; to spray; to inject",
+    "Meaning": "Die Kinder spritzen mit Wasser im Garten.",
+    "Hebrew": "לרסס / להזריק"
+  },
+  {
+    "Wortliste": "stellen (die Weichen für etw. stellen)",
+    "English": "to set; to put (to set the course for sth.)",
+    "Meaning": "Mit dieser Entscheidung stellen wir die Weichen für die Zukunft.",
+    "Hebrew": "לסלול / לקבוע מסלול"
+  },
+  {
+    "Wortliste": "überlebenswichtig (für + A.)",
+    "English": "vital for survival",
+    "Meaning": "Sauberes Wasser ist überlebenswichtig für alle Menschen.",
+    "Hebrew": "חיוני לשרידות"
+  },
+  {
+    "Wortliste": "umfallen, fiel um, ist umgefallen",
+    "English": "to fall over",
+    "Meaning": "Die Vase ist umgefallen und zerbrochen.",
+    "Hebrew": "ליפול / להתהפך"
+  },
+  {
+    "Wortliste": "das Umfeld, -er",
+    "English": "the environment; surroundings",
+    "Meaning": "Das soziale Umfeld beeinflusst die Sprachentwicklung.",
+    "Hebrew": "סביבה / הקשר"
+  },
+  {
+    "Wortliste": "verschärfen",
+    "English": "to worsen; to intensify",
+    "Meaning": "Die neuen Regeln verschärfen die Situation noch.",
+    "Hebrew": "להחמיר / לחדד"
+  },
+  {
+    "Wortliste": "wackeln",
+    "English": "to wobble; to shake",
+    "Meaning": "Der Stuhl wackelt ein bisschen.",
+    "Hebrew": "להתנועע / להתנדנד"
+  },
+  {
+    "Wortliste": "wacklig",
+    "English": "wobbly; shaky",
+    "Meaning": "Der Tisch ist ziemlich wacklig.",
+    "Hebrew": "לא יציב / רועד"
+  },
+  {
+    "Wortliste": "zurückfallen",
+    "English": "to fall back; to relapse",
+    "Meaning": "Ohne Übung kann man schnell in alte Fehler zurückfallen.",
+    "Hebrew": "ליפול אחורה / לפגר"
+  },
+  {
+    "Wortliste": "zurückfallen, fiel zurück, ist zurückgefallen",
+    "English": "to fall back; to regress",
+    "Meaning": "Ohne Übung fällt man schnell in alte Fehler zurück.",
+    "Hebrew": "ליפול אחורה / לפגר"
+  },
+  {
+    "Wortliste": "durchführbar",
+    "English": "feasible; practicable",
+    "Meaning": "Der Plan ist ehrgeizig, aber durchaus durchführbar.",
+    "Hebrew": "בר-ביצוע / ניתן לביצוע"
+  },
+  {
+    "Wortliste": "der/die Erfinder/in, -/-nen",
+    "English": "the inventor",
+    "Meaning": "Der Erfinder hat ein neues Energiesystem entwickelt.",
+    "Hebrew": "ממציא/ת"
+  },
+  {
+    "Wortliste": "die Notlüge, -n",
+    "English": "the white lie",
+    "Meaning": "Manchmal benutzt man eine Notlüge, um niemanden zu verletzen.",
+    "Hebrew": "שקר לבן"
+  },
+  {
+    "Wortliste": "der Schneeball, \"-e",
+    "English": "the snowball",
+    "Meaning": "Die Kinder werfen sich Schneebälle zu.",
+    "Hebrew": "כדור שלג"
+  },
+  {
+    "Wortliste": "wälzen",
+    "English": "to pore over; to roll",
+    "Meaning": "Er wälzt abends stundenlang Fachbücher.",
+    "Hebrew": "להתגלגל / לדפדף"
+  },
+  {
+    "Wortliste": "das Sprichwort, \"-er",
+    "English": "the proverb; saying",
+    "Meaning": "Kennst du das Sprichwort „Übung macht den Meister“?",
+    "Hebrew": "פתגם / משל"
+  },
+  {
+    "Wortliste": "abstrakt",
+    "English": "abstract",
+    "Meaning": "Das ist mir zu abstrakt, ich brauche ein konkretes Beispiel.",
+    "Hebrew": "מופשט / אבסטרקטי"
+  },
+  {
+    "Wortliste": "akustisch",
+    "English": "acoustic; audibly",
+    "Meaning": "Im Saal ist die Musik akustisch gut zu hören.",
+    "Hebrew": "אקוסטי / של שמע"
+  },
+  {
+    "Wortliste": "der/die Artgenosse/Artgenossin, -n/-nen",
+    "English": "the conspecific; member of the same species",
+    "Meaning": "Viele Tiere leben gern mit ihren Artgenossen zusammen.",
+    "Hebrew": "בן/בת מין / חבר/ה מאותו מין"
+  },
+  {
+    "Wortliste": "die Bekanntschaft, -en",
+    "English": "the acquaintance",
+    "Meaning": "Im Sprachkurs habe ich viele neue Bekanntschaften gemacht.",
+    "Hebrew": "היכרות / מכר"
+  },
+  {
+    "Wortliste": "die Bewertung, -en",
+    "English": "the evaluation; rating",
+    "Meaning": "Das Restaurant hat sehr gute Bewertungen im Internet.",
+    "Hebrew": "הערכה / ציון / דירוג"
+  },
+  {
+    "Wortliste": "dermaßen",
+    "English": "so much; to such an extent",
+    "Meaning": "Er war dermaßen müde, dass er sofort eingeschlafen ist.",
+    "Hebrew": "כה / כל כך / עד כדי כך"
+  },
+  {
+    "Wortliste": "ertragen, ertrug, hat ertragen",
+    "English": "to bear; to endure",
+    "Meaning": "Diese Hitze ist kaum zu ertragen.",
+    "Hebrew": "לסבול / לשאת"
+  },
+  {
+    "Wortliste": "erwecken",
+    "English": "to arouse; to evoke",
+    "Meaning": "Der Film erweckt den Eindruck, eine wahre Geschichte zu sein.",
+    "Hebrew": "לעורר / להקיץ"
+  },
+  {
+    "Wortliste": "glaubwürdig",
+    "English": "credible; believable",
+    "Meaning": "Ihre Erklärung klingt sehr glaubwürdig.",
+    "Hebrew": "מהימן / אמין"
+  },
+  {
+    "Wortliste": "greifen, griff, hat gegriffen (nach einer Lüge greifen)",
+    "English": "to grab; to reach for (to resort to a lie)",
+    "Meaning": "In der Situation griff er aus Angst nach einer Lüge.",
+    "Hebrew": "לתפוס / לפנות ל"
+  },
+  {
+    "Wortliste": "ignorieren",
+    "English": "to ignore",
+    "Meaning": "Man sollte wichtige Warnsignale nicht ignorieren.",
+    "Hebrew": "להתעלם"
+  },
+  {
+    "Wortliste": "intellektuell",
+    "English": "intellectual",
+    "Meaning": "Er mag intellektuelle Diskussionen über Politik.",
+    "Hebrew": "אינטלקטואלי"
+  },
+  {
+    "Wortliste": "der/die Kandidat/in, -en/-nen",
+    "English": "the candidate",
+    "Meaning": "Für die Stelle gibt es viele gut qualifizierte Kandidaten.",
+    "Hebrew": "מועמד/ת"
+  },
+  {
+    "Wortliste": "das Kommunikationsmittel, -",
+    "English": "the means of communication",
+    "Meaning": "E-Mails sind heute ein wichtiges Kommunikationsmittel.",
+    "Hebrew": "אמצעי תקשורת"
+  },
+  {
+    "Wortliste": "das Kompliment, -e",
+    "English": "the compliment",
+    "Meaning": "Sie hat ihm ein nettes Kompliment gemacht.",
+    "Hebrew": "מחמאה"
+  },
+  {
+    "Wortliste": "kontinuierlich",
+    "English": "continuous; steadily",
+    "Meaning": "Sein Deutsch hat sich kontinuierlich verbessert.",
+    "Hebrew": "רציף / מתמיד"
+  },
+  {
+    "Wortliste": "kurzfristig",
+    "English": "at short notice; short-term",
+    "Meaning": "Der Termin wurde kurzfristig abgesagt.",
+    "Hebrew": "קצר טווח / לטווח קצר"
+  },
+  {
+    "Wortliste": "längerfristig",
+    "English": "longer-term",
+    "Meaning": "Längerfristig möchte sie im Ausland arbeiten.",
+    "Hebrew": "לטווח ארוך יותר"
+  },
+  {
+    "Wortliste": "die Lügengeschichte, -n",
+    "English": "the made-up story; pack of lies",
+    "Meaning": "Seine Ausrede war eine reine Lügengeschichte.",
+    "Hebrew": "סיפור שקרים"
+  },
+  {
+    "Wortliste": "die Nervenzelle, -n",
+    "English": "the nerve cell",
+    "Meaning": "Im Gehirn sind Millionen von Nervenzellen aktiv.",
+    "Hebrew": "תא עצב / נוירון"
+  },
+  {
+    "Wortliste": "oftmals",
+    "English": "often; frequently",
+    "Meaning": "Oftmals hilft schon ein kurzer Spaziergang gegen Stress.",
+    "Hebrew": "לעיתים קרובות"
+  },
+  {
+    "Wortliste": "der/die Proband/in, -en/-nen",
+    "English": "the test subject (in a study)",
+    "Meaning": "Die Probanden nahmen freiwillig an dem Experiment teil.",
+    "Hebrew": "נבדק/ת / משתתף/ת בניסוי"
+  },
+  {
+    "Wortliste": "die Psyche, -n",
+    "English": "the psyche",
+    "Meaning": "Stress kann die menschliche Psyche stark belasten.",
+    "Hebrew": "נפש / פסיכה"
+  },
+  {
+    "Wortliste": "das Radiofeature, -s",
+    "English": "the radio feature; radio documentary",
+    "Meaning": "Im Radiofeature berichten Experten über das Thema Lügen.",
+    "Hebrew": "תוכנית רדיו / פיצ'ר רדיו"
+  },
+  {
+    "Wortliste": "regulieren",
+    "English": "to regulate",
+    "Meaning": "Das Gesetz reguliert den Umgang mit persönlichen Daten.",
+    "Hebrew": "לווסת / לרגל"
+  },
+  {
+    "Wortliste": "schwindeln",
+    "English": "to cheat; to fib",
+    "Meaning": "Bei dem Test hat er ein bisschen geschwindelt.",
+    "Hebrew": "לשקר / לרמות"
+  },
+  {
+    "Wortliste": "die Sympathie, -n",
+    "English": "the liking; sympathy",
+    "Meaning": "Er genießt große Sympathie bei seinen Kollegen.",
+    "Hebrew": "סימפטיה / אהדה"
+  },
+  {
+    "Wortliste": "die Täuschung, -en",
+    "English": "the deception",
+    "Meaning": "Die Werbung arbeitet manchmal mit Täuschungen.",
+    "Hebrew": "הטעיה / רמאות"
+  },
+  {
+    "Wortliste": "die Tendenz, -en",
+    "English": "the tendency; trend",
+    "Meaning": "Es gibt eine Tendenz zu immer längeren Arbeitszeiten.",
+    "Hebrew": "מגמה / נטייה"
+  },
+  {
+    "Wortliste": "übersehen, übersah, hat übersehen",
+    "English": "to overlook; to miss",
+    "Meaning": "Ich habe die wichtige Mail leider übersehen.",
+    "Hebrew": "להתעלם / לפספס"
+  },
+  {
+    "Wortliste": "verarbeiten",
+    "English": "to process; to work through",
+    "Meaning": "Er braucht Zeit, um die Nachricht zu verarbeiten.",
+    "Hebrew": "לעבד / לעכל"
+  },
+  {
+    "Wortliste": "verbreitet",
+    "English": "widespread; common",
+    "Meaning": "Dieses Vorurteil ist leider immer noch weit verbreitet.",
+    "Hebrew": "נפוץ / מקובל"
+  },
+  {
+    "Wortliste": "verfügen (über + A.)",
+    "English": "to have at one’s disposal; to possess",
+    "Meaning": "Sie verfügt über langjährige Berufserfahrung.",
+    "Hebrew": "להחזיק / לדעת"
+  },
+  {
+    "Wortliste": "verschaffen",
+    "English": "to procure; to provide",
+    "Meaning": "Gute Sprachkenntnisse verschaffen dir Vorteile auf dem Arbeitsmarkt.",
+    "Hebrew": "להשיג / לספק"
+  },
+  {
+    "Wortliste": "die Versuchsgruppe, -n",
+    "English": "the experimental group",
+    "Meaning": "Die Versuchsgruppe bekam andere Aufgaben als die Kontrollgruppe.",
+    "Hebrew": "קבוצת ניסוי"
+  },
+  {
+    "Wortliste": "die Versuchsperson, -en",
+    "English": "the test person; subject",
+    "Meaning": "Die Versuchspersonen wussten nichts vom eigentlichen Ziel der Studie.",
+    "Hebrew": "נבדק/ת / אדם בניסוי"
+  },
+  {
+    "Wortliste": "die Versuchsreihe, -n",
+    "English": "the series of experiments",
+    "Meaning": "In einer langen Versuchsreihe wurden die Ergebnisse überprüft.",
+    "Hebrew": "סדרת ניסויים"
+  },
+  {
+    "Wortliste": "das Warnsignal, -e",
+    "English": "the warning signal",
+    "Meaning": "Starke Müdigkeit kann ein Warnsignal für Stress sein.",
+    "Hebrew": "אות אזהרה"
+  },
+  {
+    "Wortliste": "der Weg, -e (etw./jmd. aus dem Weg gehen)",
+    "English": "the way (to avoid sth./sb.)",
+    "Meaning": "Seit dem Streit geht er ihr aus dem Weg.",
+    "Hebrew": "דרך / להתחמק מ"
+  },
+  {
+    "Wortliste": "wünschenswert",
+    "English": "desirable",
+    "Meaning": "Gute Deutschkenntnisse sind für diesen Job sehr wünschenswert.",
+    "Hebrew": "רצוי / מבוקש"
+  },
+  {
+    "Wortliste": "der Bescheid, -e (Bescheid sagen)",
+    "English": "the information; answer (to let sb. know)",
+    "Meaning": "Sag mir bitte morgen Bescheid, ob du kommen kannst.",
+    "Hebrew": "הודעה / להודיע"
+  },
+  {
+    "Wortliste": "die Besprechung, -en",
+    "English": "the meeting; discussion",
+    "Meaning": "Die Besprechung findet im kleinen Konferenzraum statt.",
+    "Hebrew": "פגישה / שיחה"
+  },
+  {
+    "Wortliste": "der Besprechungstermin, -e",
+    "English": "the meeting appointment",
+    "Meaning": "Den Besprechungstermin haben wir auf Dienstag gelegt.",
+    "Hebrew": "מועד פגישה"
+  },
+  {
+    "Wortliste": "das Kundengespräch, -e",
+    "English": "the customer meeting; client talk",
+    "Meaning": "Im Kundengespräch ist eine klare Sprache wichtig.",
+    "Hebrew": "שיחה עם לקוח"
+  },
+  {
+    "Wortliste": "der/die Mitbewohner/in, -/-nen",
+    "English": "the flatmate; roommate",
+    "Meaning": "Mein Mitbewohner kommt aus Spanien.",
+    "Hebrew": "שותף/ת לדירה"
+  },
+  {
+    "Wortliste": "die Schulden (Pl.)",
+    "English": "the debts",
+    "Meaning": "Er möchte seine Schulden so schnell wie möglich zurückzahlen.",
+    "Hebrew": "חובות"
+  },
+  {
+    "Wortliste": "der Strauß, \"-e",
+    "English": "the bouquet; ostrich",
+    "Meaning": "Sie bekam einen schönen Strauß Blumen zum Geburtstag.",
+    "Hebrew": "זר פרחים / יען"
+  },
+  {
+    "Wortliste": "unpassend",
+    "English": "inappropriate; unsuitable",
+    "Meaning": "Sein Kommentar war in dieser Situation unpassend.",
+    "Hebrew": "לא מתאים / לא הולם"
+  },
+  {
+    "Wortliste": "der/die Vermieter/in, -/-nen",
+    "English": "the landlord/landlady",
+    "Meaning": "Die Vermieterin wohnt im gleichen Haus.",
+    "Hebrew": "משכיר/ה"
+  },
+  {
+    "Wortliste": "der/die Besitzer/in, -/-nen",
+    "English": "the owner",
+    "Meaning": "Der Besitzer des Autos ist nicht zu Hause.",
+    "Hebrew": "בעלים"
+  },
+  {
+    "Wortliste": "die Geldbörse, -n",
+    "English": "the wallet; purse",
+    "Meaning": "Ich habe meine Geldbörse im Café vergessen.",
+    "Hebrew": "ארנק"
+  },
+  {
+    "Wortliste": "die Kreditkarte, -n",
+    "English": "the credit card",
+    "Meaning": "Kann ich hier mit Kreditkarte bezahlen?",
+    "Hebrew": "כרטיס אשראי"
+  },
+  {
+    "Wortliste": "ansiedeln (in + D.)",
+    "English": "to settle; to establish (in)",
+    "Meaning": "Viele Firmen siedeln sich in der Region an.",
+    "Hebrew": "להתיישב / לשכן"
+  },
+  {
+    "Wortliste": "die Atomenergie, -n",
+    "English": "nuclear energy",
+    "Meaning": "Die Nutzung von Atomenergie ist umstritten.",
+    "Hebrew": "אנרגיה גרעינית"
+  },
+  {
+    "Wortliste": "das Atomkraftwerk, -e",
+    "English": "the nuclear power plant",
+    "Meaning": "In der Nähe der Stadt steht ein altes Atomkraftwerk.",
+    "Hebrew": "תחנת כוח גרעינית"
+  },
+  {
+    "Wortliste": "der Atommeiler, -",
+    "English": "the nuclear reactor",
+    "Meaning": "Der Atommeiler soll in den nächsten Jahren abgeschaltet werden.",
+    "Hebrew": "כור גרעיני"
+  },
+  {
+    "Wortliste": "der Aufbau (Sg.)",
+    "English": "the structure; construction",
+    "Meaning": "Der Aufbau des Textes ist klar und logisch.",
+    "Hebrew": "בנייה / מבנה / הקמה"
+  },
+  {
+    "Wortliste": "aufhalten, hielt auf, hat aufgehalten",
+    "English": "to stop; to delay; to stay",
+    "Meaning": "Der Stau hat mich lange aufgehalten.",
+    "Hebrew": "לעצור / לעכב"
+  },
+  {
+    "Wortliste": "auftanken",
+    "English": "to refuel; to recharge",
+    "Meaning": "Im Urlaub konnte ich neue Energie auftanken.",
+    "Hebrew": "לתדלק"
+  },
+  {
+    "Wortliste": "ausfallen, fiel aus, ist ausgefallen",
+    "English": "to be cancelled; to fail",
+    "Meaning": "Der Kurs fällt heute leider aus.",
+    "Hebrew": "ליפול / לבטל / להיכשל"
+  },
+  {
+    "Wortliste": "auskommen, kam aus, ist ausgekommen",
+    "English": "to get along; to get by",
+    "Meaning": "Mit meinen Kollegen komme ich gut aus.",
+    "Hebrew": "להסתדר / לפרנס את עצמו"
+  },
+  {
+    "Wortliste": "die Bahn, -en (freie Bahn haben)",
+    "English": "the track; the railway (to have free way)",
+    "Meaning": "Im Flur war niemand, wir hatten freie Bahn.",
+    "Hebrew": "מסלול / רכבת / לקבל חופש פעולה"
+  },
+  {
+    "Wortliste": "die Bakterie, -n",
+    "English": "the bacterium",
+    "Meaning": "Nicht alle Bakterien sind gefährlich.",
+    "Hebrew": "חיידק"
+  },
+  {
+    "Wortliste": "das Bauwerk, -e",
+    "English": "the building; structure",
+    "Meaning": "Der Dom ist ein beeindruckendes Bauwerk.",
+    "Hebrew": "מבנה / בניין"
+  },
+  {
+    "Wortliste": "bedroht (von + D.)",
+    "English": "threatened (by)",
+    "Meaning": "Viele Tierarten sind vom Aussterben bedroht.",
+    "Hebrew": "מאוים ע\"י"
+  },
+  {
+    "Wortliste": "das Blei (Sg.)",
+    "English": "lead (metal)",
+    "Meaning": "Früher wurden Wasserrohre oft aus Blei hergestellt.",
+    "Hebrew": "עופרת"
+  },
+  {
+    "Wortliste": "der Damm, \"-e",
+    "English": "the dam; embankment",
+    "Meaning": "Nach dem Sturm war der Damm beschädigt.",
+    "Hebrew": "סכר / גדה"
+  },
+  {
+    "Wortliste": "deprimierend",
+    "English": "depressing",
+    "Meaning": "Die Nachrichten waren heute ziemlich deprimierend.",
+    "Hebrew": "מדכא / מדכדך"
+  },
+  {
+    "Wortliste": "dramatisch",
+    "English": "dramatic",
+    "Meaning": "Die Lage im Überschwemmungsgebiet ist dramatisch.",
+    "Hebrew": "דרמטי"
+  },
+  {
+    "Wortliste": "einstürzen",
+    "English": "to collapse",
+    "Meaning": "Das alte Haus ist nach dem Sturm eingestürzt.",
+    "Hebrew": "לקרוס / לשקוע"
+  },
+  {
+    "Wortliste": "der/die Forscher/in, -/-nen",
+    "English": "the researcher; scientist",
+    "Meaning": "Die Forscher arbeiten an einem Impfstoff.",
+    "Hebrew": "חוקר/ת"
+  },
+  {
+    "Wortliste": "gesamt",
+    "English": "entire; total",
+    "Meaning": "Die gesamten Kosten trägt die Firma.",
+    "Hebrew": "כולל / כלל"
+  },
+  {
+    "Wortliste": "geschützt",
+    "English": "protected",
+    "Meaning": "Dieses Gebiet ist ein geschützter Naturpark.",
+    "Hebrew": "מוגן"
+  },
+  {
+    "Wortliste": "der/die Gewinner/in, -/-nen",
+    "English": "the winner",
+    "Meaning": "Die Gewinner des Wettbewerbs bekommen ein Stipendium.",
+    "Hebrew": "זוכה / מנצח/ת"
+  },
+  {
+    "Wortliste": "der Griff, -e (etw./jmd. fest im Griff haben)",
+    "English": "the grip; handle (to have sth./sb. under control)",
+    "Meaning": "Die Situation ist jetzt wieder fest im Griff.",
+    "Hebrew": "אחיזה / ידית / שליטה מלאה"
+  },
+  {
+    "Wortliste": "das Grundwasser (Sg.)",
+    "English": "groundwater",
+    "Meaning": "Das Grundwasser darf nicht verschmutzt werden.",
+    "Hebrew": "מי תהום"
+  },
+  {
+    "Wortliste": "hinterlassen, hinterließ, hat hinterlassen",
+    "English": "to leave behind",
+    "Meaning": "Der Unfall hat deutliche Spuren hinterlassen.",
+    "Hebrew": "להשאיר / להוריש"
+  },
+  {
+    "Wortliste": "intakt",
+    "English": "intact",
+    "Meaning": "Die alte Brücke ist trotz des Alters noch intakt.",
+    "Hebrew": "שלם / תקין"
+  },
+  {
+    "Wortliste": "die Kakerlake, -n",
+    "English": "the cockroach",
+    "Meaning": "In der Küche fanden sie mehrere Kakerlaken.",
+    "Hebrew": "ג'וק"
+  },
+  {
+    "Wortliste": "der/die Kämpfer/in, -/-nen",
+    "English": "the fighter",
+    "Meaning": "Trotz aller Probleme bleibt sie eine echte Kämpferin.",
+    "Hebrew": "לוחם/ת"
+  },
+  {
+    "Wortliste": "das Kraftwerk, -e",
+    "English": "the power plant",
+    "Meaning": "Das Kraftwerk versorgt die ganze Region mit Strom.",
+    "Hebrew": "תחנת כוח"
+  },
+  {
+    "Wortliste": "die Notversorgung, -en",
+    "English": "the emergency supply",
+    "Meaning": "Nach dem Stromausfall lief nur noch die Notversorgung.",
+    "Hebrew": "אספקה חירום"
+  },
+  {
+    "Wortliste": "der/die Ökologe/Ökologin, -n/-nen",
+    "English": "the ecologist",
+    "Meaning": "Ökologen warnen vor den Folgen des Klimawandels.",
+    "Hebrew": "אקולוג/ית"
+  },
+  {
+    "Wortliste": "die Orientierung, -en",
+    "English": "the orientation; sense of direction",
+    "Meaning": "Im Dunkeln verliert man leicht die Orientierung.",
+    "Hebrew": "התמצאות / כיוון"
+  },
+  {
+    "Wortliste": "der Planet, -en",
+    "English": "the planet",
+    "Meaning": "Wir müssen besser auf unseren Planeten achten.",
+    "Hebrew": "כוכב לכת / פלנטה"
+  },
+  {
+    "Wortliste": "die Plastiktüte, -n",
+    "English": "the plastic bag",
+    "Meaning": "Viele Supermärkte geben keine kostenlosen Plastiktüten mehr aus.",
+    "Hebrew": "שקית פלסטיק"
+  },
+  {
+    "Wortliste": "das Plutonium (Sg.)",
+    "English": "plutonium",
+    "Meaning": "Plutonium ist ein hoch radioaktives Material.",
+    "Hebrew": "פלוטוניום"
+  },
+  {
+    "Wortliste": "die Prognose, -n",
+    "English": "the forecast; prognosis",
+    "Meaning": "Die Prognosen für das Wetter sind gut.",
+    "Hebrew": "תחזית / פרוגנוזה"
+  },
+  {
+    "Wortliste": "die Pumpe, -n",
+    "English": "the pump",
+    "Meaning": "Eine Pumpe befördert das Wasser aus dem Keller.",
+    "Hebrew": "משאבה"
+  },
+  {
+    "Wortliste": "radioaktiv",
+    "English": "radioactive",
+    "Meaning": "Radioaktive Stoffe müssen besonders geschützt werden.",
+    "Hebrew": "רדיואקטיבי"
+  },
+  {
+    "Wortliste": "die Ratte, -n",
+    "English": "the rat",
+    "Meaning": "Im alten Haus leben viele Ratten.",
+    "Hebrew": "חולדה"
+  },
+  {
+    "Wortliste": "romantisch",
+    "English": "romantic",
+    "Meaning": "Der Sonnenuntergang am See war sehr romantisch.",
+    "Hebrew": "רומנטי"
+  },
+  {
+    "Wortliste": "die Schätzung, -en",
+    "English": "the estimate",
+    "Meaning": "Laut Schätzungen leben hier über eine Million Menschen.",
+    "Hebrew": "הערכה / אומדן"
+  },
+  {
+    "Wortliste": "sichtbar",
+    "English": "visible",
+    "Meaning": "Die Verbesserung ist deutlich sichtbar.",
+    "Hebrew": "נראה לעין / גלוי"
+  },
+  {
+    "Wortliste": "die Spezies, Spezien",
+    "English": "the species",
+    "Meaning": "Viele Spezien sind durch Umweltverschmutzung bedroht.",
+    "Hebrew": "מין / מינים"
+  },
+  {
+    "Wortliste": "stehen, stand, hat gestanden (unter Wasser stehen)",
+    "English": "to stand (to be under water)",
+    "Meaning": "Nach dem Sturm stand der ganze Keller unter Wasser.",
+    "Hebrew": "לעמוד / להיות מוצף"
+  },
+  {
+    "Wortliste": "stimmen (jmd. romantisch stimmen)",
+    "English": "to make someone feel (romantic, etc.)",
+    "Meaning": "Die Musik stimmt mich romantisch.",
+    "Hebrew": "להלך רוח / לגרום למצב רוח"
+  },
+  {
+    "Wortliste": "die Stromleitung, -en",
+    "English": "the power line",
+    "Meaning": "Bei dem Sturm wurden mehrere Stromleitungen beschädigt.",
+    "Hebrew": "קו חשמל / כבל חשמל"
+  },
+  {
+    "Wortliste": "die Struktur, -en",
+    "English": "the structure",
+    "Meaning": "Die soziale Struktur der Stadt hat sich verändert.",
+    "Hebrew": "מבנה / מערכת"
+  },
+  {
+    "Wortliste": "der/die Techniker/in, -/-nen",
+    "English": "the technician",
+    "Meaning": "Der Techniker repariert die kaputte Leitung.",
+    "Hebrew": "טכנאי/ת"
+  },
+  {
+    "Wortliste": "der Tunnel, -",
+    "English": "the tunnel",
+    "Meaning": "Der Tunnel ist fast zwei Kilometer lang.",
+    "Hebrew": "מנהרה"
+  },
+  {
+    "Wortliste": "der Überblick (Sg.)",
+    "English": "the overview",
+    "Meaning": "Die Tabelle gibt einen guten Überblick über die Ergebnisse.",
+    "Hebrew": "סקירה / תמונה כללית"
+  },
+  {
+    "Wortliste": "überleben",
+    "English": "to survive",
+    "Meaning": "Nur wenige Pflanzen überleben in dieser Wüste.",
+    "Hebrew": "לשרוד"
+  },
+  {
+    "Wortliste": "der Überrest, -e",
+    "English": "the remains; remnant",
+    "Meaning": "Die Archäologen untersuchen die Überreste der Stadt.",
+    "Hebrew": "שריד / שארית"
+  },
+  {
+    "Wortliste": "vergehen, verging, ist vergangen",
+    "English": "to pass (time)",
+    "Meaning": "Die Zeit vergeht wie im Flug.",
+    "Hebrew": "לחלוף / לעבור"
+  },
+  {
+    "Wortliste": "der/die Verlierer/in, -/-nen",
+    "English": "the loser",
+    "Meaning": "Auch die Verlierer haben ihr Bestes gegeben.",
+    "Hebrew": "מפסיד/ה"
+  },
+  {
+    "Wortliste": "vermehren (sich)",
+    "English": "to multiply; to reproduce",
+    "Meaning": "Die Bakterien vermehren sich bei Wärme sehr schnell.",
+    "Hebrew": "להתרבות / לגדול"
+  },
+  {
+    "Wortliste": "versinken, versank, ist versunken",
+    "English": "to sink; to get lost in",
+    "Meaning": "Er ist ganz in seine Gedanken versunken.",
+    "Hebrew": "לשקוע"
+  },
+  {
+    "Wortliste": "die Vision, -en",
+    "English": "the vision",
+    "Meaning": "Sie hat eine klare Vision von ihrer Zukunft.",
+    "Hebrew": "חזון / ראייה"
+  },
+  {
+    "Wortliste": "wegwerfen, warf weg, hat weggeworfen",
+    "English": "to throw away",
+    "Meaning": "Bitte wirf den Müll nicht auf die Straße weg.",
+    "Hebrew": "לזרוק"
+  },
+  {
+    "Wortliste": "der Zerfall (Sg.)",
+    "English": "the decay; disintegration",
+    "Meaning": "Der Zerfall des alten Gebäudes ist deutlich zu sehen.",
+    "Hebrew": "פירוק / התפרקות"
+  },
+  {
+    "Wortliste": "zerfallen, zerfiel, ist zerfallen",
+    "English": "to fall apart; to decay",
+    "Meaning": "Die Mauer ist mit der Zeit zerfallen.",
+    "Hebrew": "להתפרק / ליפול"
+  },
+  {
+    "Wortliste": "zurückerobern",
+    "English": "to win back; to recapture",
+    "Meaning": "Die Natur hat sich das Gebiet langsam zurückerobert.",
+    "Hebrew": "לכבוש בחזרה"
+  },
+  {
+    "Wortliste": "übereinstimmen (mit + D.)",
+    "English": "to correspond; to agree (with)",
+    "Meaning": "Seine Meinung stimmt mit meinen Erfahrungen überein.",
+    "Hebrew": "להסכים עם / להתאים ל"
+  },
+  {
+    "Wortliste": "der Charakter (Sg.)",
+    "English": "the character",
+    "Meaning": "An schwierigen Situationen erkennt man den wahren Charakter.",
+    "Hebrew": "אופי / דמות"
+  },
+  {
+    "Wortliste": "ausschlafen, schlief aus, hat ausgeschlafen",
+    "English": "to sleep in; to sleep enough",
+    "Meaning": "Am Wochenende kann ich endlich ausschlafen.",
+    "Hebrew": "לישון מספיק / להתרענן בשינה"
+  },
+  {
+    "Wortliste": "dösen",
+    "English": "to doze",
+    "Meaning": "Nach dem Essen döste er ein wenig auf dem Sofa.",
+    "Hebrew": "לנמנם / להתנמנם"
+  },
+  {
+    "Wortliste": "das Murmeltier, -e",
+    "English": "the marmot",
+    "Meaning": "Murmeltier sprichwörtlich: ‚Wie ein Murmeltier schlafen‘.",
+    "Hebrew": "מרמוט"
+  },
+  {
+    "Wortliste": "das Nickerchen, - (ein Nickerchen machen)",
+    "English": "the nap (to take a nap)",
+    "Meaning": "Nachmittags mache ich gern ein kurzes Nickerchen.",
+    "Hebrew": "שינה קצרה / תנומה"
+  },
+  {
+    "Wortliste": "der/die Allesfresser/in, -/-nen",
+    "English": "the omnivore",
+    "Meaning": "Der Mensch ist biologisch gesehen ein Allesfresser.",
+    "Hebrew": "אוכל הכל / אומניבור"
+  },
+  {
+    "Wortliste": "arg",
+    "English": "bad(ly); severe(ly)",
+    "Meaning": "Er hat sich beim Sport arg verletzt.",
+    "Hebrew": "חמור / גרוע / מאוד"
+  },
+  {
+    "Wortliste": "ausreichend",
+    "English": "sufficient; enough",
+    "Meaning": "Trinkst du ausreichend Wasser am Tag?",
+    "Hebrew": "מספיק / מספק"
+  },
+  {
+    "Wortliste": "der Ausweis, -e",
+    "English": "the ID card; pass",
+    "Meaning": "Bitte zeigen Sie mir Ihren Ausweis.",
+    "Hebrew": "תעודת זהות"
+  },
+  {
+    "Wortliste": "der Beleg, -e",
+    "English": "the receipt; proof",
+    "Meaning": "Heben Sie den Beleg für die Garantie auf.",
+    "Hebrew": "ראיה / הוכחה / קבלה"
+  },
+  {
+    "Wortliste": "der Bettflüchter, -",
+    "English": "person who gets up very early (colloquial)",
+    "Meaning": "Er ist ein echter Bettflüchter und steht schon um fünf Uhr auf.",
+    "Hebrew": "מי שקם מהר מהמיטה"
+  },
+  {
+    "Wortliste": "der Bluthochdruck (Sg.)",
+    "English": "high blood pressure",
+    "Meaning": "Stress kann zu Bluthochdruck führen.",
+    "Hebrew": "לחץ דם גבוה"
+  },
+  {
+    "Wortliste": "dauerhaft",
+    "English": "permanent; lasting",
+    "Meaning": "Dauerhafte Müdigkeit sollte man ernst nehmen.",
+    "Hebrew": "קבוע / מתמיד / ארוך טווח"
+  },
+  {
+    "Wortliste": "durcharbeiten",
+    "English": "to work through (without a break)",
+    "Meaning": "Gestern habe ich bis spät in die Nacht durchgearbeitet.",
+    "Hebrew": "לעבוד ללא הפסקה / לסיים"
+  },
+  {
+    "Wortliste": "der Durchschnitt, -e",
+    "English": "the average",
+    "Meaning": "Im Durchschnitt schlafen Erwachsene sieben bis acht Stunden.",
+    "Hebrew": "ממוצע"
+  },
+  {
+    "Wortliste": "der Eifer (Sg.)",
+    "English": "the eagerness; zeal",
+    "Meaning": "Sie lernt mit großem Eifer für die Prüfung.",
+    "Hebrew": "להיטות / מסירות / התלהבות"
+  },
+  {
+    "Wortliste": "eingerechnet",
+    "English": "included; counted in",
+    "Meaning": "Die Pausen sind in die Arbeitszeit eingerechnet.",
+    "Hebrew": "כלול / מחושב"
+  },
+  {
+    "Wortliste": "eintauchen (in + A.)",
+    "English": "to immerse oneself (in)",
+    "Meaning": "Beim Lesen tauche ich völlig in die Geschichte ein.",
+    "Hebrew": "לצלול / להשתקע ב"
+  },
+  {
+    "Wortliste": "der/die Feind/in, -e/-nen",
+    "English": "the enemy",
+    "Meaning": "Früher waren die beiden Länder Feinde.",
+    "Hebrew": "אויב/ת"
+  },
+  {
+    "Wortliste": "der/die Feuilletonist/in, -en/-nen",
+    "English": "the arts journalist; feuilleton writer",
+    "Meaning": "Die Feuilletonistin schreibt über aktuelle Theaterstücke.",
+    "Hebrew": "כותב/ת פויטון / מסאי/ת"
+  },
+  {
+    "Wortliste": "der/die Gealterte, -n",
+    "English": "the aged person",
+    "Meaning": "Viele Gealterte wünschen sich mehr Ruhe.",
+    "Hebrew": "מזדקן/ת / זקן/ה"
+  },
+  {
+    "Wortliste": "gehoben",
+    "English": "elevated; upscale",
+    "Meaning": "Sie wohnt in einem eher gehobenen Viertel.",
+    "Hebrew": "מרומם / גבוה / נעלה"
+  },
+  {
+    "Wortliste": "gleichermaßen",
+    "English": "equally",
+    "Meaning": "Das Angebot richtet sich gleichermaßen an Jung und Alt.",
+    "Hebrew": "באופן שווה / כשווה"
+  },
+  {
+    "Wortliste": "global",
+    "English": "global",
+    "Meaning": "Der Klimawandel ist ein globales Problem.",
+    "Hebrew": "גלובלי / עולמי"
+  },
+  {
+    "Wortliste": "hemmen",
+    "English": "to inhibit; to hinder",
+    "Meaning": "Angst kann die Leistungsfähigkeit hemmen.",
+    "Hebrew": "לעכב / לבלום"
+  },
+  {
+    "Wortliste": "der Herzinfarkt, -e",
+    "English": "the heart attack",
+    "Meaning": "Rauchen erhöht das Risiko für einen Herzinfarkt.",
+    "Hebrew": "התקף לב"
+  },
+  {
+    "Wortliste": "das Hirn, -e",
+    "English": "the brain",
+    "Meaning": "Im Schlaf erholt sich das Hirn.",
+    "Hebrew": "מוח"
+  },
+  {
+    "Wortliste": "kahl",
+    "English": "bald; bare",
+    "Meaning": "Im Winter stehen die Bäume kahl im Wind.",
+    "Hebrew": "קרח / חשוף / ערום"
+  },
+  {
+    "Wortliste": "die Konkurrenz (Sg.)",
+    "English": "the competition",
+    "Meaning": "Die Konkurrenz auf dem Arbeitsmarkt ist groß.",
+    "Hebrew": "תחרות / יריבות"
+  },
+  {
+    "Wortliste": "die Lebenskunst, \"-e",
+    "English": "the art of living",
+    "Meaning": "Gelassenheit ist ein Teil der Lebenskunst.",
+    "Hebrew": "אמנות החיים"
+  },
+  {
+    "Wortliste": "die Leistungsfähigkeit (Sg.)",
+    "English": "performance capacity; efficiency",
+    "Meaning": "Genügend Schlaf steigert die Leistungsfähigkeit.",
+    "Hebrew": "יכולת ביצוע / תפוקה"
+  },
+  {
+    "Wortliste": "der Markt, \"-e",
+    "English": "the market",
+    "Meaning": "Auf dem Markt gibt es frisches Obst und Gemüse.",
+    "Hebrew": "שוק"
+  },
+  {
+    "Wortliste": "die Matratze, -n",
+    "English": "the mattress",
+    "Meaning": "Eine gute Matratze ist wichtig für den Rücken.",
+    "Hebrew": "מזרן"
+  },
+  {
+    "Wortliste": "der/die Mediziner/in, -/-nen",
+    "English": "the medical doctor; medic",
+    "Meaning": "Mediziner empfehlen einen regelmäßigen Schlafrhythmus.",
+    "Hebrew": "רופא/ה / מי שעוסק ברפואה"
+  },
+  {
+    "Wortliste": "der/die Ministerpräsident/in, -en/-nen",
+    "English": "the prime minister (of a federal state)",
+    "Meaning": "Der Ministerpräsident spricht im Fernsehen zur aktuellen Lage.",
+    "Hebrew": "ראש ממשלה / ראש מדינה"
+  },
+  {
+    "Wortliste": "das Mittagsschläfchen, -",
+    "English": "the midday nap; siesta",
+    "Meaning": "Ein kurzes Mittagsschläfchen kann sehr erholsam sein.",
+    "Hebrew": "שנת צהרים"
+  },
+  {
+    "Wortliste": "mittelalterlich",
+    "English": "medieval",
+    "Meaning": "Die Altstadt hat viele mittelalterliche Gebäude.",
+    "Hebrew": "מימי הביניים"
+  },
+  {
+    "Wortliste": "die Mitternacht (Sg.)",
+    "English": "midnight",
+    "Meaning": "Um Mitternacht war die Party noch in vollem Gange.",
+    "Hebrew": "חצות"
+  },
+  {
+    "Wortliste": "müdegearbeitet",
+    "English": "tired out from work",
+    "Meaning": "Nach der Schicht war er völlig müdegearbeitet.",
+    "Hebrew": "עייף מעבודה"
+  },
+  {
+    "Wortliste": "die Nachteule, -n",
+    "English": "the night owl",
+    "Meaning": "Sie ist eine echte Nachteule und geht spät ins Bett.",
+    "Hebrew": "ינשוף לילה / מי שפעיל בלילה"
+  },
+  {
+    "Wortliste": "ohnehin",
+    "English": "anyway; in any case",
+    "Meaning": "Ich wollte ohnehin früher nach Hause gehen.",
+    "Hebrew": "ממילא / בלאו הכי"
+  },
+  {
+    "Wortliste": "das Organ, -e",
+    "English": "the organ",
+    "Meaning": "Das Herz ist ein lebenswichtiges Organ.",
+    "Hebrew": "איבר / אורגן"
+  },
+  {
+    "Wortliste": "der/die Optimierer/in, -/-nen",
+    "English": "the optimizer (person who optimizes everything)",
+    "Meaning": "Als echter Optimierer plant er seinen Tag bis ins Detail.",
+    "Hebrew": "מייעל/ת"
+  },
+  {
+    "Wortliste": "der/die Power-Napper/in",
+    "English": "the power napper",
+    "Meaning": "Power-Napper schwören auf ein kurzes Schläfchen am Mittag.",
+    "Hebrew": "מי שישן שינות קצרות"
+  },
+  {
+    "Wortliste": "die Produktivität (Sg.)",
+    "English": "productivity",
+    "Meaning": "Ausreichend Schlaf steigert die Produktivität am Arbeitsplatz.",
+    "Hebrew": "פריון / יצרנות"
+  },
+  {
+    "Wortliste": "rechnen (mit + D.)",
+    "English": "to expect; to count on",
+    "Meaning": "Mit so vielen Teilnehmern hatte niemand gerechnet.",
+    "Hebrew": "לחשב / לצפות / לסמוך על"
+  },
+  {
+    "Wortliste": "die Regenerationsphase, -n",
+    "English": "regeneration phase; recovery phase",
+    "Meaning": "Im Schlaf beginnt für den Körper eine wichtige Regenerationsphase.",
+    "Hebrew": "שלב התאוששות"
+  },
+  {
+    "Wortliste": "die Ressource, -n",
+    "English": "resource",
+    "Meaning": "Zeit ist eine knappe Ressource im Berufsleben.",
+    "Hebrew": "משאב"
+  },
+  {
+    "Wortliste": "der Rhythmus, Rhythmen",
+    "English": "rhythm",
+    "Meaning": "Ein regelmäßiger Schlafrhythmus ist gesund.",
+    "Hebrew": "ריתמוס / קצב"
+  },
+  {
+    "Wortliste": "das Schlafforschungszentrum, -zentren",
+    "English": "sleep research center",
+    "Meaning": "Im Schlafforschungszentrum werden neue Therapien getestet.",
+    "Hebrew": "מרכז מחקר שינה"
+  },
+  {
+    "Wortliste": "das Schlafhormon, -e",
+    "English": "sleep hormone",
+    "Meaning": "Melatonin ist ein bekanntes Schlafhormon.",
+    "Hebrew": "הורמון שינה"
+  },
+  {
+    "Wortliste": "die Schlafstörung, -en",
+    "English": "sleep disorder",
+    "Meaning": "Viele Menschen leiden unter Schlafstörungen.",
+    "Hebrew": "הפרעת שינה"
+  },
+  {
+    "Wortliste": "der/die Schlafwandler/in, -/-nen",
+    "English": "sleepwalker",
+    "Meaning": "Schlafwandler erinnern sich oft nicht an die Nacht.",
+    "Hebrew": "סהרורי/ת"
+  },
+  {
+    "Wortliste": "die Schlagzeile, -n",
+    "English": "headline",
+    "Meaning": "Die Schlagzeile auf der Titelseite war sehr dramatisch.",
+    "Hebrew": "כותרת עיתון"
+  },
+  {
+    "Wortliste": "die Schreibblockade, -n",
+    "English": "writer’s block",
+    "Meaning": "Vor der Prüfung hatte sie eine totale Schreibblockade.",
+    "Hebrew": "חסימת כתיבה"
+  },
+  {
+    "Wortliste": "senken",
+    "English": "to lower; to reduce",
+    "Meaning": "Sport kann den Stresspegel deutlich senken.",
+    "Hebrew": "להוריד / להפחית"
+  },
+  {
+    "Wortliste": "die Sperre, -n (eine Sperre im Kopf haben)",
+    "English": "barrier; block (to have a mental block)",
+    "Meaning": "Bei mündlichen Prüfungen habe ich manchmal eine Sperre im Kopf.",
+    "Hebrew": "חסימה / מחסום / חסם נפשי"
+  },
+  {
+    "Wortliste": "der Stoffwechsel, -",
+    "English": "metabolism",
+    "Meaning": "Im Schlaf verlangsamt sich der Stoffwechsel.",
+    "Hebrew": "חילוף חומרים / מטבוליזם"
+  },
+  {
+    "Wortliste": "das Tief, -s (ein Mittagstief haben)",
+    "English": "low; slump (to have an afternoon slump)",
+    "Meaning": "Nach dem Essen habe ich oft ein kleines Mittagstief.",
+    "Hebrew": "שפל / ירידה / שפל של אחר הצהריים"
+  },
+  {
+    "Wortliste": "überlebensnotwendig",
+    "English": "vital for survival",
+    "Meaning": "Wasser und Schlaf sind überlebensnotwendig.",
+    "Hebrew": "חיוני לשרידות"
+  },
+  {
+    "Wortliste": "verarbeiten",
+    "English": "to process; to work through",
+    "Meaning": "Im Traum verarbeitet das Gehirn die Eindrücke des Tages.",
+    "Hebrew": "לעבד / לעכל"
+  },
+  {
+    "Wortliste": "verpönt",
+    "English": "frowned upon; taboo",
+    "Meaning": "Ein Nickerchen im Büro ist in vielen Firmen noch verpönt.",
+    "Hebrew": "אסור / מגונה"
+  },
+  {
+    "Wortliste": "die Verschwendung, -en",
+    "English": "waste",
+    "Meaning": "Viele halten es für Verschwendung, lange auszuschlafen.",
+    "Hebrew": "בזבוז"
+  },
+  {
+    "Wortliste": "vorgeschrieben",
+    "English": "prescribed; required",
+    "Meaning": "Für Lkw-Fahrer sind Ruhezeiten gesetzlich vorgeschrieben.",
+    "Hebrew": "קבוע / מחויב"
+  },
+  {
+    "Wortliste": "die Wachphase, -n",
+    "English": "wake phase",
+    "Meaning": "Zwischen den Tiefschlafphasen gibt es kurze Wachphasen.",
+    "Hebrew": "שלב ערות"
+  },
+  {
+    "Wortliste": "die Weile (Sg.)",
+    "English": "a while",
+    "Meaning": "Bleib doch noch eine Weile und trink einen Kaffee.",
+    "Hebrew": "זמן מה / רגע"
+  },
+  {
+    "Wortliste": "der/die Workaholic, -s",
+    "English": "workaholic",
+    "Meaning": "Workaholics haben oft Schwierigkeiten, abzuschalten.",
+    "Hebrew": "ורקוהוליק / עובד/ת כפייתי/ת"
+  },
+  {
+    "Wortliste": "die Zeitnot (Sg.)",
+    "English": "time pressure; lack of time",
+    "Meaning": "Wegen ständiger Zeitnot kommt sie kaum zur Ruhe.",
+    "Hebrew": "לחץ זמן"
+  },
+  {
+    "Wortliste": "der Zustand, \"-e",
+    "English": "state; condition",
+    "Meaning": "Nach der Nachtschicht war sein körperlicher Zustand schlecht.",
+    "Hebrew": "מצב / תנאי"
+  },
+  {
+    "Wortliste": "die Erkenntnis, -se",
+    "English": "insight; realization",
+    "Meaning": "Die Studie brachte wichtige neue Erkenntnisse.",
+    "Hebrew": "תובנה / הכרה / גילוי"
+  },
+  {
+    "Wortliste": "die Entspannung (Sg.)",
+    "English": "relaxation",
+    "Meaning": "Ein Spaziergang am Abend sorgt für Entspannung.",
+    "Hebrew": "הרפיה / שחרור"
+  },
+  {
+    "Wortliste": "anfällig (für + A.)",
+    "English": "susceptible (to)",
+    "Meaning": "Übermüdete Menschen sind anfälliger für Fehler.",
+    "Hebrew": "רגיש ל / נוטה ל"
+  },
+  {
+    "Wortliste": "die Auswirkung, -en (auf + A.)",
+    "English": "effect; impact (on)",
+    "Meaning": "Schlafmangel hat negative Auswirkungen auf die Gesundheit.",
+    "Hebrew": "השפעה על"
+  },
+  {
+    "Wortliste": "die Belastbarkeit (Sg.)",
+    "English": "resilience; capacity to cope with stress",
+    "Meaning": "Regelmäßiger Schlaf erhöht die psychische Belastbarkeit.",
+    "Hebrew": "חוסן / סיבולת"
+  },
+  {
+    "Wortliste": "der/die Frühaufsteher/in, -/-nen",
+    "English": "early riser",
+    "Meaning": "Frühaufsteher sind morgens besonders produktiv.",
+    "Hebrew": "מי שקם מוקדם"
+  },
+  {
+    "Wortliste": "die Leistungssteigerung, -en",
+    "English": "performance increase",
+    "Meaning": "Schon kleine Pausen können zu einer deutlichen Leistungssteigerung führen.",
+    "Hebrew": "שיפור ביצועים"
+  },
+  {
+    "Wortliste": "die Merkfähigkeit (Sg.)",
+    "English": "ability to remember",
+    "Meaning": "Im ausgeschlafenen Zustand ist die Merkfähigkeit höher.",
+    "Hebrew": "יכולת זכירה / שינון"
+  },
+  {
+    "Wortliste": "das Schlafbedürfnis (Sg.)",
+    "English": "need for sleep",
+    "Meaning": "Das Schlafbedürfnis ist von Mensch zu Mensch verschieden.",
+    "Hebrew": "צורך בשינה"
+  },
+  {
+    "Wortliste": "das Wohlbefinden (Sg.)",
+    "English": "well-being",
+    "Meaning": "Genug Ruhe ist wichtig für das allgemeine Wohlbefinden.",
+    "Hebrew": "רווחה / תחושת טוב"
+  },
+  {
+    "Wortliste": "die Beachtung (Sg.) (Beachtung finden)",
+    "English": "attention (to attract attention)",
+    "Meaning": "Die Studie fand große Beachtung in den Medien.",
+    "Hebrew": "תשומת לב / הכרה"
+  },
+  {
+    "Wortliste": "der Faktor, -en",
+    "English": "factor",
+    "Meaning": "Stress ist ein wichtiger Faktor bei Schlafstörungen.",
+    "Hebrew": "גורם / פקטור"
+  },
+  {
+    "Wortliste": "die Hektik (Sg.)",
+    "English": "hectic rush; hustle",
+    "Meaning": "In der Hektik des Alltags vergisst man leicht Pausen.",
+    "Hebrew": "לחץ / עצבנות / בהלה"
+  },
+  {
+    "Wortliste": "die Intonation, -en",
+    "English": "intonation",
+    "Meaning": "Durch die Intonation kann sich die Bedeutung eines Satzes ändern.",
+    "Hebrew": "אינטונציה / ניגון"
+  },
+  {
+    "Wortliste": "die Mimik (Sg.)",
+    "English": "facial expression",
+    "Meaning": "Ihre Mimik verrät mehr als ihre Worte.",
+    "Hebrew": "הבעת פנים / מימיקה"
+  },
+  {
+    "Wortliste": "die Reue (Sg.)",
+    "English": "remorse",
+    "Meaning": "Er zeigte keine Reue für sein Verhalten.",
+    "Hebrew": "חרטה"
+  },
+  {
+    "Wortliste": "das Schamgefühl, -e",
+    "English": "sense of shame",
+    "Meaning": "Ein starkes Schamgefühl kann offene Gespräche verhindern.",
+    "Hebrew": "תחושת בושה"
+  },
+  {
+    "Wortliste": "das Wohlwollen (Sg.)",
+    "English": "goodwill; benevolence",
+    "Meaning": "Der Chef hörte ihm mit sichtbarem Wohlwollen zu.",
+    "Hebrew": "רצון טוב / ידידותיות"
+  },
+  {
+    "Wortliste": "der Zorn (Sg.)",
+    "English": "anger; rage",
+    "Meaning": "Sie versuchte, ihren Zorn zu kontrollieren.",
+    "Hebrew": "זעם / כעס"
+  },
+  {
+    "Wortliste": "der Buchstabe, -n",
+    "English": "letter (of the alphabet)",
+    "Meaning": "Bitte schreiben Sie alle Buchstaben gut lesbar.",
+    "Hebrew": "אות"
+  },
+  {
+    "Wortliste": "die Energiequelle, -n",
+    "English": "source of energy",
+    "Meaning": "Schlaf ist eine wichtige Energiequelle für den Körper.",
+    "Hebrew": "מקור אנרגיה"
+  },
+  {
+    "Wortliste": "das Geisterhaus, \"-er",
+    "English": "haunted house",
+    "Meaning": "Als Kind hatte ich Angst vor Geisterhäusern.",
+    "Hebrew": "בית רוחות"
+  },
+  {
+    "Wortliste": "das Grab, \"-er",
+    "English": "grave",
+    "Meaning": "An Allerheiligen schmücken viele Menschen die Gräber.",
+    "Hebrew": "קבר"
+  },
+  {
+    "Wortliste": "der/die Herrscher/in, -/-nen",
+    "English": "ruler",
+    "Meaning": "Die alten Herrscher wurden oft als Götter verehrt.",
+    "Hebrew": "שליט/ה / מושל/ת"
+  },
+  {
+    "Wortliste": "der Kaugummi, -s",
+    "English": "chewing gum",
+    "Meaning": "Bitte wirf den Kaugummi nicht auf den Boden.",
+    "Hebrew": "מסטיק"
+  },
+  {
+    "Wortliste": "die Lupe, -n",
+    "English": "magnifying glass",
+    "Meaning": "Mit der Lupe kann man die kleinen Buchstaben besser lesen.",
+    "Hebrew": "זכוכית מגדלת"
+  },
+  {
+    "Wortliste": "der Reißverschluss, \"-e",
+    "English": "zip; zipper",
+    "Meaning": "Der Reißverschluss meiner Jacke ist kaputt.",
+    "Hebrew": "רוכסן"
+  },
+  {
+    "Wortliste": "der Schutzpatron, -e",
+    "English": "patron saint",
+    "Meaning": "Er glaubt, dass sein Schutzpatron über ihn wacht.",
+    "Hebrew": "פטרון / קדוש מגן"
+  },
+  {
+    "Wortliste": "der Steinbeißer, -",
+    "English": "stone biter (type of fish, or joke name)",
+    "Meaning": "Im Aquarium schwimmt ein kleiner Steinbeißer.",
+    "Hebrew": "נוחר / דג קטן"
+  },
+  {
+    "Wortliste": "das Versteck, -e",
+    "English": "hiding place",
+    "Meaning": "Die Kinder haben ein geheimes Versteck im Garten.",
+    "Hebrew": "מחבוא"
+  },
+  {
+    "Wortliste": "die Verwandlung, -en",
+    "English": "transformation",
+    "Meaning": "Die Verwandlung der Raupe in einen Schmetterling ist faszinierend.",
+    "Hebrew": "שינוי / הפיכה / טרנספורמציה"
+  },
+  {
+    "Wortliste": "die Wunderlampe, -n",
+    "English": "magic lamp",
+    "Meaning": "In der Geschichte erscheint aus der Wunderlampe ein Geist.",
+    "Hebrew": "מנורת קסמים"
+  },
+  {
+    "Wortliste": "der Zauberer, -",
+    "English": "magician; wizard",
+    "Meaning": "Der Zauberer ließ die Münze verschwinden.",
+    "Hebrew": "קוסם / מאגיה"
+  },
+  {
+    "Wortliste": "das Abgas, -e",
+    "English": "exhaust gas",
+    "Meaning": "Abgase von Autos verschmutzen die Luft.",
+    "Hebrew": "גז פליטה / עשן"
+  },
+  {
+    "Wortliste": "das Atomkraftwerk, -e",
+    "English": "nuclear power plant",
+    "Meaning": "Viele Menschen demonstrieren gegen Atomkraftwerke.",
+    "Hebrew": "תחנת כוח גרעינית"
+  },
+  {
+    "Wortliste": "das Ozonloch, \"-er",
+    "English": "ozone hole",
+    "Meaning": "In den 90er-Jahren war das Ozonloch ein großes Thema.",
+    "Hebrew": "חור באוזון"
+  },
+  {
+    "Wortliste": "das Waldsterben (Sg.)",
+    "English": "forest dieback",
+    "Meaning": "Waldsterben ist eine Folge von Luftverschmutzung.",
+    "Hebrew": "מות היערות"
+  },
+  {
+    "Wortliste": "der Atommüll (Sg.)",
+    "English": "nuclear waste",
+    "Meaning": "Atommüll muss sicher gelagert werden.",
+    "Hebrew": "פסולת גרעינית"
+  },
+  {
+    "Wortliste": "die Erderwärmung (Sg.)",
+    "English": "global warming",
+    "Meaning": "Die Erderwärmung führt zu häufigeren Hitzewellen.",
+    "Hebrew": "התחממות כדור הארץ"
+  },
+  {
+    "Wortliste": "das Hochwasser, -",
+    "English": "flood; high water",
+    "Meaning": "Nach dem starken Regen droht Hochwasser.",
+    "Hebrew": "שיטפון / גאות"
+  },
+  {
+    "Wortliste": "die Kernenergie (Sg.)",
+    "English": "nuclear energy",
+    "Meaning": "Über die Rolle der Kernenergie wird heftig diskutiert.",
+    "Hebrew": "אנרגיה גרעינית"
+  },
+  {
+    "Wortliste": "das Kohlendioxid (Sg.)",
+    "English": "carbon dioxide",
+    "Meaning": "Beim Autofahren entsteht Kohlendioxid.",
+    "Hebrew": "פחמן דו-חמצני"
+  },
+  {
+    "Wortliste": "die Luftverschmutzung (Sg.)",
+    "English": "air pollution",
+    "Meaning": "In Großstädten ist die Luftverschmutzung oft hoch.",
+    "Hebrew": "זיהום אוויר"
+  },
+  {
+    "Wortliste": "die Solarenergie (Sg.)",
+    "English": "solar energy",
+    "Meaning": "Viele Häuser nutzen Solarenergie vom eigenen Dach.",
+    "Hebrew": "אנרגיה סולארית"
+  },
+  {
+    "Wortliste": "das Trinkwasser (Sg.)",
+    "English": "drinking water",
+    "Meaning": "Sauberes Trinkwasser ist nicht überall selbstverständlich.",
+    "Hebrew": "מי שתייה"
+  },
+  {
+    "Wortliste": "die Überschwemmung, -en",
+    "English": "flooding",
+    "Meaning": "Heftige Regenfälle verursachten schwere Überschwemmungen.",
+    "Hebrew": "שיטפון"
+  },
+  {
+    "Wortliste": "der Umweltschutz (Sg.)",
+    "English": "environmental protection",
+    "Meaning": "Viele Organisationen setzen sich für den Umweltschutz ein.",
+    "Hebrew": "הגנת הסביבה"
+  },
+  {
+    "Wortliste": "die Umweltverschmutzung (Sg.)",
+    "English": "environmental pollution",
+    "Meaning": "Plastikmüll im Meer ist ein großes Problem der Umweltverschmutzung.",
+    "Hebrew": "זיהום הסביבה"
+  },
+  {
+    "Wortliste": "das Windrad, \"-er",
+    "English": "wind turbine",
+    "Meaning": "Auf dem Hügel drehen sich mehrere Windräder.",
+    "Hebrew": "טורבינת רוח"
+  },
+  {
+    "Wortliste": "ausstoßen, stieß aus, hat ausgestoßen",
+    "English": "to emit",
+    "Meaning": "Die Fabrik stößt viele Abgase aus.",
+    "Hebrew": "לפלוט / לגרש"
+  },
+  {
+    "Wortliste": "die Branche, -n",
+    "English": "industry sector; branch",
+    "Meaning": "Sie arbeitet in der IT-Branche.",
+    "Hebrew": "ענף / תחום / סקטור"
+  },
+  {
+    "Wortliste": "die Dürre, -n",
+    "English": "drought",
+    "Meaning": "Die lange Dürre hat die Ernte zerstört.",
+    "Hebrew": "בצורת / יובש"
+  },
+  {
+    "Wortliste": "einsparen",
+    "English": "to save; to cut",
+    "Meaning": "Durch LED-Lampen kann man viel Energie einsparen.",
+    "Hebrew": "לחסוך"
+  },
+  {
+    "Wortliste": "die Energieeffizienz (Sg.)",
+    "English": "energy efficiency",
+    "Meaning": "Moderne Geräte haben eine hohe Energieeffizienz.",
+    "Hebrew": "יעילות אנרגטית"
+  },
+  {
+    "Wortliste": "die Ernteeinbuße, -n",
+    "English": "crop loss",
+    "Meaning": "Dürreperioden führen zu großen Ernteeinbußen.",
+    "Hebrew": "אובדן יבול"
+  },
+  {
+    "Wortliste": "die Erzeugung (Sg.)",
+    "English": "production; generation",
+    "Meaning": "Die Erzeugung von Strom aus Wind nimmt zu.",
+    "Hebrew": "ייצור / הפקה"
+  },
+  {
+    "Wortliste": "die Forstwirtschaft (Sg.)",
+    "English": "forestry",
+    "Meaning": "Nachhaltige Forstwirtschaft schützt den Wald.",
+    "Hebrew": "ייעור / כלכלת יערות"
+  },
+  {
+    "Wortliste": "die Gletscherschmelze (Sg.)",
+    "English": "glacier melt",
+    "Meaning": "Die Gletscherschmelze ist ein Zeichen der Klimaerwärmung.",
+    "Hebrew": "המסת קרחונים"
+  },
+  {
+    "Wortliste": "der/die Klimaforscher/in, -/-nen",
+    "English": "climate researcher",
+    "Meaning": "Klimaforscher warnen vor den Folgen der Erderwärmung.",
+    "Hebrew": "חוקר/ת אקלים"
+  },
+  {
+    "Wortliste": "die Klimaveränderung, -en",
+    "English": "climate change",
+    "Meaning": "Klimaveränderungen beeinflussen das Wetter weltweit.",
+    "Hebrew": "שינוי אקלים"
+  },
+  {
+    "Wortliste": "der/die Meteorologe/Meteorologin, -n/-nen",
+    "English": "meteorologist",
+    "Meaning": "Meteorologen erstellen die Wettervorhersagen.",
+    "Hebrew": "מטאורולוג/ית"
+  },
+  {
+    "Wortliste": "der Schadstoff, -e",
+    "English": "pollutant",
+    "Meaning": "Filteranlagen sollen Schadstoffe aus der Luft entfernen.",
+    "Hebrew": "חומר מזהם"
+  },
+  {
+    "Wortliste": "die Stromerzeugung (Sg.)",
+    "English": "electricity generation",
+    "Meaning": "Die Stromerzeugung aus erneuerbaren Quellen steigt.",
+    "Hebrew": "ייצור חשמל"
+  },
+  {
+    "Wortliste": "die Treibhausgasemission, -en",
+    "English": "greenhouse gas emission",
+    "Meaning": "Treibhausgasemissionen müssen dringend reduziert werden.",
+    "Hebrew": "פליטת גזי חממה"
+  },
+  {
+    "Wortliste": "der Treibhauseffekt (Sg.)",
+    "English": "greenhouse effect",
+    "Meaning": "Der Treibhauseffekt wird durch CO₂ verstärkt.",
+    "Hebrew": "אפקט החממה"
+  },
+  {
+    "Wortliste": "die Ursache, -n",
+    "English": "cause",
+    "Meaning": "Die genauen Ursachen des Sturms sind noch unklar.",
+    "Hebrew": "סיבה / גורם"
+  },
+  {
+    "Wortliste": "verbrauchen",
+    "English": "to use; to consume",
+    "Meaning": "Dieses alte Auto verbraucht viel Benzin.",
+    "Hebrew": "לצרוך / להשתמש"
+  },
+  {
+    "Wortliste": "der Verzicht (auf + A.)",
+    "English": "renunciation; giving up",
+    "Meaning": "Ein teilweiser Verzicht auf das Auto ist gut für die Umwelt.",
+    "Hebrew": "ויתור / הימנעות מ"
+  },
+  {
+    "Wortliste": "die Wetteraufzeichnung, -en",
+    "English": "weather record",
+    "Meaning": "Lange Wetteraufzeichnungen helfen den Forschern.",
+    "Hebrew": "תיעוד מזג אוויר"
+  },
+  {
+    "Wortliste": "die Wetterbedingung, -en",
+    "English": "weather condition",
+    "Meaning": "Die Wettkämpfe hängen von den Wetterbedingungen ab.",
+    "Hebrew": "תנאי מזג אוויר"
+  },
+  {
+    "Wortliste": "der Zeitraum, \"-e",
+    "English": "period of time",
+    "Meaning": "Im Zeitraum von zehn Jahren hat sich viel verändert.",
+    "Hebrew": "פרק זמן / תקופה"
+  },
+  {
+    "Wortliste": "der Anstieg, -e",
+    "English": "increase; rise",
+    "Meaning": "Ein Anstieg der Temperaturen ist deutlich zu sehen.",
+    "Hebrew": "עלייה / גידול"
+  },
+  {
+    "Wortliste": "die Auswirkung, -en",
+    "English": "effect; consequence",
+    "Meaning": "Die Auswirkungen des Klimawandels sind überall spürbar.",
+    "Hebrew": "השפעה / תוצאה"
+  },
+  {
+    "Wortliste": "der Beleg, -e",
+    "English": "proof; evidence",
+    "Meaning": "Die Daten liefern einen klaren Beleg für die Veränderung.",
+    "Hebrew": "ראיה / הוכחה / קבלה"
+  },
+  {
+    "Wortliste": "beweisen, bewies, hat bewiesen",
+    "English": "to prove",
+    "Meaning": "Die Studie beweist den Zusammenhang eindeutig.",
+    "Hebrew": "להוכיח"
+  },
+  {
+    "Wortliste": "drohen (mit + D.)",
+    "English": "to threaten (with)",
+    "Meaning": "Bei weiterer Erwärmung drohen häufigere Unwetter.",
+    "Hebrew": "לאיים ב"
+  },
+  {
+    "Wortliste": "erheblich",
+    "English": "considerable; significant",
+    "Meaning": "Die Schäden sind erheblich.",
+    "Hebrew": "משמעותי / ניכר / ניכר"
+  },
+  {
+    "Wortliste": "das Ereignis, -se",
+    "English": "event",
+    "Meaning": "Solche Extremereignisse nehmen zu.",
+    "Hebrew": "אירוע / מקרה"
+  },
+  {
+    "Wortliste": "erwärmen (sich)",
+    "English": "to warm (up)",
+    "Meaning": "Die Atmosphäre erwärmt sich weiter.",
+    "Hebrew": "להתחמם"
+  },
+  {
+    "Wortliste": "die Hitzewelle, -n",
+    "English": "heatwave",
+    "Meaning": "Im Sommer gab es mehrere lange Hitzewellen.",
+    "Hebrew": "גל חום"
+  },
+  {
+    "Wortliste": "die Prognose, -n",
+    "English": "forecast; prediction",
+    "Meaning": "Die Prognosen für die nächsten Jahrzehnte sind besorgniserregend.",
+    "Hebrew": "תחזית / פרוגנוזה"
+  },
+  {
+    "Wortliste": "das Unwetter, -",
+    "English": "severe storm; bad weather",
+    "Meaning": "Ein schweres Unwetter zog über die Stadt.",
+    "Hebrew": "סערה / מזג אוויר קיצוני"
+  },
+  {
+    "Wortliste": "verzeichnen",
+    "English": "to record; to register",
+    "Meaning": "In diesem Jahr verzeichnete man neue Temperaturrekorde.",
+    "Hebrew": "לרשום / לתעד"
+  },
+  {
+    "Wortliste": "zunehmen, nahm zu, hat zugenommen",
+    "English": "to increase",
+    "Meaning": "Die Zahl der Stürme hat in den letzten Jahren zugenommen.",
+    "Hebrew": "לגדול / לעלות / לעלות במשקל"
+  },
+  {
+    "Wortliste": "die Drohung, -en",
+    "English": "threat",
+    "Meaning": "Die Klimakrise ist eine reale Drohung für viele Regionen.",
+    "Hebrew": "איום"
+  },
+  {
+    "Wortliste": "das Kohlendioxid (Sg.)",
+    "English": "carbon dioxide",
+    "Meaning": "Kohlendioxid entsteht bei der Verbrennung von Kohle, Öl und Gas.",
+    "Hebrew": "פחמן דו-חמצני"
+  },
+  {
+    "Wortliste": "der Sauerstoff (Sg.)",
+    "English": "oxygen",
+    "Meaning": "Ohne Sauerstoff können wir nicht leben.",
+    "Hebrew": "חמצן"
+  },
+  {
+    "Wortliste": "der Smog (Sg.)",
+    "English": "smog",
+    "Meaning": "In einigen Großstädten ist der Smog im Winter besonders stark.",
+    "Hebrew": "ערפיח / סמוג"
+  },
+  {
+    "Wortliste": "die Energie, -n (Energie sparen)",
+    "English": "energy (to save energy)",
+    "Meaning": "Zu Hause kann man leicht Energie sparen.",
+    "Hebrew": "אנרגיה / לחסוך אנרגיה"
+  },
+  {
+    "Wortliste": "die Solaranlage, -n",
+    "English": "solar system (for energy)",
+    "Meaning": "Auf dem Dach wurde eine große Solaranlage installiert.",
+    "Hebrew": "מערכת סולארית"
+  },
+  {
+    "Wortliste": "der Atomausstieg (Sg.)",
+    "English": "nuclear phase-out",
+    "Meaning": "Der Atomausstieg wird politisch heftig diskutiert.",
+    "Hebrew": "יציאה מאנרגיה גרעינית"
+  },
+  {
+    "Wortliste": "die Laufzeitverlängerung, -en",
+    "English": "extension of operating life",
+    "Meaning": "Die Laufzeitverlängerung alter Kraftwerke ist umstritten.",
+    "Hebrew": "הארכת תקופת פעולה"
+  },
+  {
+    "Wortliste": "der Ökostrom (Sg.)",
+    "English": "green electricity",
+    "Meaning": "Immer mehr Haushalte beziehen Ökostrom.",
+    "Hebrew": "חשמל ירוק"
+  },
+  {
+    "Wortliste": "die Stromquelle, -n",
+    "English": "source of electricity",
+    "Meaning": "Wind und Sonne sind wichtige Stromquellen.",
+    "Hebrew": "מקור חשמל"
+  },
+  {
+    "Wortliste": "die Windkraft (Sg.)",
+    "English": "wind power",
+    "Meaning": "Die Windkraft spielt in Deutschland eine große Rolle.",
+    "Hebrew": "אנרגיית רוח"
+  },
+  {
+    "Wortliste": "der Ausbau (Sg.)",
+    "English": "expansion",
+    "Meaning": "Der Ausbau erneuerbarer Energien wird gefördert.",
+    "Hebrew": "הרחבה / פיתוח"
+  },
+  {
+    "Wortliste": "durchsetzen (sich)",
+    "English": "to prevail; to catch on",
+    "Meaning": "Erneuerbare Energien setzen sich immer mehr durch.",
+    "Hebrew": "לנצח / לדחוף / להתאשר"
+  },
+  {
+    "Wortliste": "nachhaltig",
+    "English": "sustainable",
+    "Meaning": "Nachhaltige Lösungen schützen Umwelt und Klima.",
+    "Hebrew": "בר-קיימא / מקיים"
+  },
+  {
+    "Wortliste": "regenerativ",
+    "English": "renewable",
+    "Meaning": "Wind- und Sonnenenergie sind regenerative Energien.",
+    "Hebrew": "מתחדש / רגנרטיבי"
+  },
+  {
+    "Wortliste": "unerschöpflich",
+    "English": "inexhaustible",
+    "Meaning": "Sonnenlicht ist eine fast unerschöpfliche Energiequelle.",
+    "Hebrew": "בלתי נדלה"
+  },
+  {
+    "Wortliste": "zentral",
+    "English": "central; key",
+    "Meaning": "Energiesparen ist ein zentrales Thema der Klimapolitik.",
+    "Hebrew": "מרכזי"
+  },
+  {
+    "Wortliste": "die Biomasse (Sg.)",
+    "English": "biomass",
+    "Meaning": "Aus Biomasse kann ebenfalls Energie gewonnen werden.",
+    "Hebrew": "ביומסה"
+  },
+  {
+    "Wortliste": "die Erdwärme (Sg.)",
+    "English": "geothermal heat",
+    "Meaning": "Erdwärme wird zur Heizung von Häusern genutzt.",
+    "Hebrew": "חום גאותרמי / חום הארץ"
+  },
+  {
+    "Wortliste": "die Geothermie (Sg.)",
+    "English": "geothermal energy",
+    "Meaning": "Geothermie nutzt die Wärme aus dem Inneren der Erde.",
+    "Hebrew": "גאותרמיה"
+  },
+  {
+    "Wortliste": "die Sonnenenergie (Sg.)",
+    "English": "solar energy",
+    "Meaning": "Sonnenenergie steht uns täglich gratis zur Verfügung.",
+    "Hebrew": "אנרגיית שמש"
+  },
+  {
+    "Wortliste": "die Wasserkraft (Sg.)",
+    "English": "hydropower",
+    "Meaning": "In den Alpen gibt es viele Wasserkraftwerke.",
+    "Hebrew": "אנרגיית מים"
+  },
+  {
+    "Wortliste": "die Windenergie (Sg.)",
+    "English": "wind energy",
+    "Meaning": "Die Nutzung von Windenergie nimmt weltweit zu.",
+    "Hebrew": "אנרגיית רוח"
+  },
+  {
+    "Wortliste": "die Ansicht, -en (meiner Ansicht nach)",
+    "English": "view; opinion (in my view)",
+    "Meaning": "Meiner Ansicht nach sollte man mehr in Bildung investieren.",
+    "Hebrew": "דעה / לדעתי"
+  },
+  {
+    "Wortliste": "betonen",
+    "English": "to emphasize",
+    "Meaning": "Er betonte, wie wichtig Teamarbeit ist.",
+    "Hebrew": "להדגיש"
+  },
+  {
+    "Wortliste": "die Meinung, -en (der Meinung sein)",
+    "English": "opinion (to be of the opinion)",
+    "Meaning": "Ich bin der Meinung, dass das eine gute Idee ist.",
+    "Hebrew": "דעה / לדעתי"
+  },
+  {
+    "Wortliste": "überzeugen (von + D.)",
+    "English": "to convince (of)",
+    "Meaning": "Sie konnte ihn von ihrem Vorschlag überzeugen.",
+    "Hebrew": "לשכנע"
+  },
+  {
+    "Wortliste": "widersprechen, widersprach, hat widersprochen",
+    "English": "to contradict; to disagree",
+    "Meaning": "Da muss ich dir leider widersprechen.",
+    "Hebrew": "לסתור / להתנגד"
+  },
+  {
+    "Wortliste": "die Bestätigung, -en",
+    "English": "confirmation",
+    "Meaning": "Sie bekam eine schriftliche Bestätigung der Anmeldung.",
+    "Hebrew": "אישור / אישוש"
+  },
+  {
+    "Wortliste": "die Vermutung, -en",
+    "English": "assumption; suspicion",
+    "Meaning": "Meine Vermutung war richtig.",
+    "Hebrew": "השערה / ניחוש"
+  },
+  {
+    "Wortliste": "die Zusammenfassung, -en",
+    "English": "summary",
+    "Meaning": "Am Ende des Vortrags gab es eine kurze Zusammenfassung.",
+    "Hebrew": "סיכום"
+  },
+  {
+    "Wortliste": "die App, -s",
+    "English": "app",
+    "Meaning": "Mit dieser App kannst du deinen Schlaf aufzeichnen.",
+    "Hebrew": "אפליקציה"
+  },
+  {
+    "Wortliste": "auffrischen",
+    "English": "to refresh; to brush up",
+    "Meaning": "Ich möchte mein Deutsch ein bisschen auffrischen.",
+    "Hebrew": "לרענן"
+  },
+  {
+    "Wortliste": "ausleihen, lieh aus, hat ausgeliehen",
+    "English": "to borrow; to lend",
+    "Meaning": "Ich habe mir ein Buch aus der Bibliothek ausgeliehen.",
+    "Hebrew": "להשאיל / לשאול"
+  },
+  {
+    "Wortliste": "bedienen",
+    "English": "to operate; to serve",
+    "Meaning": "Können Sie dieses Gerät bedienen?",
+    "Hebrew": "לשרת / להפעיל"
+  },
+  {
+    "Wortliste": "die Funktionsweise, -n",
+    "English": "mode of operation; how something works",
+    "Meaning": "Die Funktionsweise der App wird im Video erklärt.",
+    "Hebrew": "אופן פעולה"
+  },
+  {
+    "Wortliste": "das Gerät, -e",
+    "English": "device; appliance",
+    "Meaning": "Dieses Gerät misst den Blutdruck.",
+    "Hebrew": "מכשיר / מכשור"
+  },
+  {
+    "Wortliste": "interaktiv",
+    "English": "interactive",
+    "Meaning": "Die Webseite bietet viele interaktive Übungen.",
+    "Hebrew": "אינטראקטיבי"
+  },
+  {
+    "Wortliste": "die Klimaanlage, -n",
+    "English": "air conditioning system",
+    "Meaning": "Im Sommer läuft im Büro ständig die Klimaanlage.",
+    "Hebrew": "מזגן"
+  },
+  {
+    "Wortliste": "das Navigationsgerät, -e",
+    "English": "navigation device; satnav",
+    "Meaning": "Im Auto hilft uns das Navigationsgerät, den Weg zu finden.",
+    "Hebrew": "מכשיר ניווט / GPS"
+  },
+  {
+    "Wortliste": "per",
+    "English": "by; via",
+    "Meaning": "Die Tickets bekommst du per E-Mail.",
+    "Hebrew": "באמצעות / דרך"
+  },
+  {
+    "Wortliste": "der Schalter, -",
+    "English": "switch; counter",
+    "Meaning": "Drück bitte auf den Schalter, um das Licht anzumachen.",
+    "Hebrew": "מתג / כפתור"
+  },
+  {
+    "Wortliste": "die Steckdose, -n",
+    "English": "socket; power outlet",
+    "Meaning": "Der Stecker passt nicht in diese Steckdose.",
+    "Hebrew": "שקע חשמל"
+  },
+  {
+    "Wortliste": "steuern",
+    "English": "to control; to steer",
+    "Meaning": "Du kannst die Heizung per App steuern.",
+    "Hebrew": "לכוון / לשלוט / לנווט"
+  },
+  {
+    "Wortliste": "tippen",
+    "English": "to type; to tap",
+    "Meaning": "Bitte tippen Sie Ihren PIN ein.",
+    "Hebrew": "להקליד / לגעת"
+  },
+  {
+    "Wortliste": "das Touchscreen, -s",
+    "English": "touchscreen",
+    "Meaning": "Das Handy hat ein großes Touchscreen.",
+    "Hebrew": "מסך מגע"
+  },
+  {
+    "Wortliste": "die Fernbedienung, -en",
+    "English": "remote control",
+    "Meaning": "Wo ist die Fernbedienung für den Fernseher?",
+    "Hebrew": "שלט רחוק"
+  },
+  {
+    "Wortliste": "das Kabel, -",
+    "English": "cable",
+    "Meaning": "Pass auf, dass du nicht über das Kabel stolperst.",
+    "Hebrew": "כבל"
+  },
+  {
+    "Wortliste": "der Akku, -s",
+    "English": "rechargeable battery",
+    "Meaning": "Der Akku meines Handys ist fast leer.",
+    "Hebrew": "סוללה נטענת / בטרייה"
+  },
+  {
+    "Wortliste": "die Alarmanlage, -n",
+    "English": "alarm system",
+    "Meaning": "Nach dem Einbruch haben sie eine Alarmanlage eingebaut.",
+    "Hebrew": "מערכת אזעקה"
+  },
+  {
+    "Wortliste": "der/die Anwender/in, -/-nen",
+    "English": "user",
+    "Meaning": "Die Software ist für unerfahrene Anwender leicht zu bedienen.",
+    "Hebrew": "משתמש/ת"
+  },
+  {
+    "Wortliste": "das Display, -s",
+    "English": "display; screen",
+    "Meaning": "Auf dem Display werden alle Funktionen angezeigt.",
+    "Hebrew": "מסך / תצוגה"
+  },
+  {
+    "Wortliste": "das Ersatzteil, -e",
+    "English": "spare part",
+    "Meaning": "Für alte Geräte gibt es oft keine Ersatzteile mehr.",
+    "Hebrew": "חלק חילוף"
+  },
+  {
+    "Wortliste": "die Fehlfunktion, -en",
+    "English": "malfunction",
+    "Meaning": "Eine Fehlfunktion hat den Computer abstürzen lassen.",
+    "Hebrew": "תקלה / תפקוד לקוי"
+  },
+  {
+    "Wortliste": "die Garantie, -n",
+    "English": "guarantee; warranty",
+    "Meaning": "Auf das Gerät gibt es zwei Jahre Garantie.",
+    "Hebrew": "אחריות / ערבות"
+  },
+  {
+    "Wortliste": "der/die Hersteller/in, -/-nen",
+    "English": "manufacturer",
+    "Meaning": "Der Hersteller empfiehlt eine regelmäßige Wartung.",
+    "Hebrew": "יצרן/ית"
+  },
+  {
+    "Wortliste": "die Komponente, -n",
+    "English": "component",
+    "Meaning": "Alle Komponenten des Systems müssen zusammenpassen.",
+    "Hebrew": "רכיב / חלק"
+  },
+  {
+    "Wortliste": "der Lautsprecher, -",
+    "English": "loudspeaker",
+    "Meaning": "Die Musik kommt aus kleinen Lautsprechern.",
+    "Hebrew": "רמקול"
+  },
+  {
+    "Wortliste": "das Mikrofon, -e",
+    "English": "microphone",
+    "Meaning": "Mit dem Mikrofon kann man die Stimme aufnehmen.",
+    "Hebrew": "מיקרופון"
+  },
+  {
+    "Wortliste": "der Monitor, -e",
+    "English": "monitor; screen",
+    "Meaning": "Der neue Monitor hat eine sehr hohe Auflösung.",
+    "Hebrew": "מסך / מוניטור"
+  },
+  {
+    "Wortliste": "der Sensor, -en",
+    "English": "sensor",
+    "Meaning": "Ein Sensor schaltet das Licht automatisch ein.",
+    "Hebrew": "חיישן"
+  },
+  {
+    "Wortliste": "die Software, -s",
+    "English": "software",
+    "Meaning": "Die Software muss regelmäßig aktualisiert werden.",
+    "Hebrew": "תוכנה"
+  },
+  {
+    "Wortliste": "die Sprachsteuerung, -en",
+    "English": "voice control",
+    "Meaning": "Viele Geräte lassen sich heute per Sprachsteuerung bedienen.",
+    "Hebrew": "בקרה קולית"
+  },
+  {
+    "Wortliste": "der Stecker, -",
+    "English": "plug",
+    "Meaning": "Zieh den Stecker, bevor du das Gerät reparierst.",
+    "Hebrew": "תקע חשמל"
+  },
+  {
+    "Wortliste": "das Zubehör (Sg.)",
+    "English": "accessories",
+    "Meaning": "Zum Handy gehört viel Zubehör wie Kopfhörer und Ladegerät.",
+    "Hebrew": "אביזרים / אביזר"
+  },
+  {
+    "Wortliste": "anbringen, brachte an, hat angebracht",
+    "English": "to attach; to mount",
+    "Meaning": "Die Kamera wurde an der Wand angebracht.",
+    "Hebrew": "להתקין / לצרף"
+  },
+  {
+    "Wortliste": "anschließen, schloss an, hat angeschlossen",
+    "English": "to connect; to plug in",
+    "Meaning": "Schließen Sie das Gerät an die Steckdose an.",
+    "Hebrew": "לחבר / לחבר לחשמל"
+  },
+  {
+    "Wortliste": "ausstatten (mit + D.)",
+    "English": "to equip (with)",
+    "Meaning": "Die Wohnung ist mit einer modernen Küche ausgestattet.",
+    "Hebrew": "לצייד ב / לאייש"
+  },
+  {
+    "Wortliste": "defekt",
+    "English": "defective; broken",
+    "Meaning": "Das Handy ist defekt und geht nicht mehr an.",
+    "Hebrew": "פגום / לא תקין"
+  },
+  {
+    "Wortliste": "einbauen",
+    "English": "to install; to build in",
+    "Meaning": "Der Techniker baut eine neue Festplatte ein.",
+    "Hebrew": "להתקין / לשלב"
+  },
+  {
+    "Wortliste": "einschalten",
+    "English": "to switch on",
+    "Meaning": "Bitte schalten Sie das Gerät ein.",
+    "Hebrew": "להדליק / להפעיל"
+  },
+  {
+    "Wortliste": "ersetzen",
+    "English": "to replace",
+    "Meaning": "Wir müssen die alten Kabel ersetzen.",
+    "Hebrew": "להחליף"
+  },
+  {
+    "Wortliste": "justieren",
+    "English": "to adjust; to calibrate",
+    "Meaning": "Die Kamera muss noch genau justiert werden.",
+    "Hebrew": "לכייל / לכוון"
+  },
+  {
+    "Wortliste": "reparaturanfällig",
+    "English": "prone to needing repairs",
+    "Meaning": "Das Modell gilt als sehr reparaturanfällig.",
+    "Hebrew": "נוטה להתקלקל"
+  },
+  {
+    "Wortliste": "reparieren",
+    "English": "to repair",
+    "Meaning": "Der Fachmann hat den Fernseher schnell repariert.",
+    "Hebrew": "לתקן"
+  },
+  {
+    "Wortliste": "umrüsten",
+    "English": "to convert; to retrofit",
+    "Meaning": "Die Anlage wurde auf Ökostrom umgerüstet.",
+    "Hebrew": "לשדרג / להמיר"
+  },
+  {
+    "Wortliste": "verknüpfen (mit + D.)",
+    "English": "to link; to connect (with)",
+    "Meaning": "Die App verknüpft sich mit deinem Kalender.",
+    "Hebrew": "לקשר / לחבר"
+  },
+  {
+    "Wortliste": "warten",
+    "English": "to maintain; to service",
+    "Meaning": "Die Heizung sollte einmal im Jahr gewartet werden.",
+    "Hebrew": "לחכות / לתחזק"
+  },
+  {
+    "Wortliste": "die Abneigung, -en (gegen + A.)",
+    "English": "aversion (to)",
+    "Meaning": "Er hat eine starke Abneigung gegen laute Musik.",
+    "Hebrew": "סלידה / אנטיפתיה כלפי"
+  },
+  {
+    "Wortliste": "die Begeisterung (Sg.) (für + A.)",
+    "English": "enthusiasm (for)",
+    "Meaning": "Ihre Begeisterung für Technik ist ansteckend.",
+    "Hebrew": "התלהבות מ"
+  },
+  {
+    "Wortliste": "die Skepsis (Sg.) (gegenüber + D.)",
+    "English": "skepticism (towards)",
+    "Meaning": "Gegenüber neuen Apps zeigt er große Skepsis.",
+    "Hebrew": "ספקנות כלפי"
+  },
+  {
+    "Wortliste": "die Zustimmung (Sg.) (zu + D.)",
+    "English": "approval; consent",
+    "Meaning": "Für die Änderung brauchen wir die Zustimmung aller.",
+    "Hebrew": "הסכמה ל"
+  },
+  {
+    "Wortliste": "die Aufzählung, -en",
+    "English": "list; enumeration",
+    "Meaning": "In der Aufzählung fehlen noch ein paar wichtige Punkte.",
+    "Hebrew": "פירוט / רשימה"
+  },
+  {
+    "Wortliste": "die Einschränkung, -en",
+    "English": "limitation; restriction",
+    "Meaning": "Das Angebot gilt mit einigen Einschränkungen.",
+    "Hebrew": "הגבלה / סייג"
+  },
+  {
+    "Wortliste": "der Gegensatz, \"-e",
+    "English": "contrast; opposite",
+    "Meaning": "Zwischen Theorie und Praxis gibt es oft einen Gegensatz.",
+    "Hebrew": "ניגוד / הפך"
+  },
+  {
+    "Wortliste": "der Hai, -e",
+    "English": "shark",
+    "Meaning": "Viele Menschen haben Angst vor Haien.",
+    "Hebrew": "כריש"
+  },
+  {
+    "Wortliste": "das Hauptthema, -themen",
+    "English": "main topic",
+    "Meaning": "Klimaschutz war das Hauptthema der Konferenz.",
+    "Hebrew": "נושא מרכזי"
+  },
+  {
+    "Wortliste": "das Immunsystem, -e",
+    "English": "immune system",
+    "Meaning": "Ein starkes Immunsystem schützt vor Krankheiten.",
+    "Hebrew": "מערכת חיסון"
+  },
+  {
+    "Wortliste": "kentern",
+    "English": "to capsize",
+    "Meaning": "Das Boot ist bei Sturm gekentert.",
+    "Hebrew": "להתהפך (סירה) / לשקוע"
+  },
+  {
+    "Wortliste": "umbringen, brachte um, hat umgebracht",
+    "English": "to kill",
+    "Meaning": "In dem Krimi wurde ein Zeuge umgebracht.",
+    "Hebrew": "להרוג"
+  },
+  {
+    "Wortliste": "das Verbrechen, -",
+    "English": "crime",
+    "Meaning": "Die Polizei untersucht ein schweres Verbrechen.",
+    "Hebrew": "פשע"
+  },
+  {
+    "Wortliste": "der Zwischenfall, \"-e",
+    "English": "incident",
+    "Meaning": "Der Zwischenfall wurde in den Nachrichten gemeldet.",
+    "Hebrew": "אירוע / תקרית"
+  },
+  {
+    "Wortliste": "die Akademie, -n",
+    "English": "academy",
+    "Meaning": "Er studiert an einer Kunstakademie.",
+    "Hebrew": "אקדמיה"
+  },
+  {
+    "Wortliste": "die Begabung, -en",
+    "English": "talent; aptitude",
+    "Meaning": "Sie hat eine besondere Begabung für Physik.",
+    "Hebrew": "כישרון / מתנה"
+  },
+  {
+    "Wortliste": "die Innovation, -en",
+    "English": "innovation",
+    "Meaning": "Die Firma ist bekannt für ihre technischen Innovationen.",
+    "Hebrew": "חדשנות / חידוש"
+  },
+  {
+    "Wortliste": "die Linse, -n",
+    "English": "lens",
+    "Meaning": "Die Kamera verfügt über eine hochwertige Linse.",
+    "Hebrew": "עדשה"
+  },
+  {
+    "Wortliste": "das Patent, -e",
+    "English": "patent",
+    "Meaning": "Für seine Erfindung hat er ein Patent angemeldet.",
+    "Hebrew": "פטנט"
+  },
+  {
+    "Wortliste": "der Ruhm (Sg.)",
+    "English": "fame",
+    "Meaning": "Mit dieser Erfindung erlangte er großen Ruhm.",
+    "Hebrew": "תהילה / פרסום"
+  },
+  {
+    "Wortliste": "der/die Spektakelmacher/in, -/-nen",
+    "English": "person who stages spectacles",
+    "Meaning": "Der Spektakelmacher sorgt für große Shows im Fernsehen.",
+    "Hebrew": "מי שיוצר מחזה / מוציא שם"
+  },
+  {
+    "Wortliste": "der/die Tüftler/in, -/-nen",
+    "English": "tinkerer; person who loves to fiddle with things",
+    "Meaning": "Tüftler verbringen Stunden damit, kleine Details zu verbessern.",
+    "Hebrew": "ממציא/ת חובב/ת / טינקר"
+  },
+  {
+    "Wortliste": "anmelden (zum Patent anmelden)",
+    "English": "to register; to file (a patent)",
+    "Meaning": "Er will seine Idee zum Patent anmelden.",
+    "Hebrew": "לרשום / להגיש בקשה לפטנט"
+  },
+  {
+    "Wortliste": "der/die Astronom/in, -en/-nen",
+    "English": "astronomer",
+    "Meaning": "Astronomen beobachten Sterne und Planeten.",
+    "Hebrew": "אסטרונום/ית"
+  },
+  {
+    "Wortliste": "das Bedürfnis (nach + D.)",
+    "English": "need (for)",
+    "Meaning": "Viele Menschen haben ein großes Bedürfnis nach Sicherheit.",
+    "Hebrew": "צורך / רצון"
+  },
+  {
+    "Wortliste": "benennen, benannte, hat benannt",
+    "English": "to name",
+    "Meaning": "Die Forscher benannten den neuen Stern nach der Entdeckerin.",
+    "Hebrew": "לתת שם / לקרוא בשם"
+  },
+  {
+    "Wortliste": "eingehen, ging ein, ist eingegangen (in die Geschichte eingehen)",
+    "English": "to enter; to go down (in history)",
+    "Meaning": "Seine Entdeckung ging in die Geschichte ein.",
+    "Hebrew": "להיכנס / להיחקק בהיסטוריה"
+  },
+  {
+    "Wortliste": "die Glaserlehre, -n",
+    "English": "apprenticeship as a glazier",
+    "Meaning": "Er machte eine Glaserlehre in einer kleinen Werkstatt.",
+    "Hebrew": "ספר ראייה / מחקר ראייה"
+  },
+  {
+    "Wortliste": "kontrollieren",
+    "English": "to control; to check",
+    "Meaning": "Bitte kontrollieren Sie die Angaben noch einmal.",
+    "Hebrew": "לפקח / לבדוק"
+  },
+  {
+    "Wortliste": "die Kontrolle (Sg.) (außer Kontrolle geraten)",
+    "English": "control (to get out of control)",
+    "Meaning": "Das Feuer geriet schnell außer Kontrolle.",
+    "Hebrew": "שליטה / לצאת מכלל שליטה"
+  },
+  {
+    "Wortliste": "kommen, kam, ist gekommen (ums Leben kommen)",
+    "English": "to come (to lose one’s life)",
+    "Meaning": "Bei dem Unfall sind mehrere Menschen ums Leben gekommen.",
+    "Hebrew": "לבוא / למות"
+  },
+  {
+    "Wortliste": "das Leben, - (ums Leben kommen)",
+    "English": "life",
+    "Meaning": "Viele Tiere kommen durch Umweltverschmutzung ums Leben.",
+    "Hebrew": "חיים / לאבד את חייו"
+  },
+  {
+    "Wortliste": "manipulieren",
+    "English": "to manipulate",
+    "Meaning": "Die Daten wurden nachträglich manipuliert.",
+    "Hebrew": "לתמרן / לשלוט"
+  },
+  {
+    "Wortliste": "die Meerestiefe, -n",
+    "English": "depth of the sea",
+    "Meaning": "In großen Meerestiefen leben besondere Tiere.",
+    "Hebrew": "עומק הים"
+  },
+  {
+    "Wortliste": "das Meerestier, -e",
+    "English": "sea animal",
+    "Meaning": "Viele Meerestiere leiden unter Plastikmüll.",
+    "Hebrew": "יצור ים"
+  },
+  {
+    "Wortliste": "die Nation, -en",
+    "English": "nation",
+    "Meaning": "Viele Nationen arbeiten beim Klimaschutz zusammen.",
+    "Hebrew": "אומה / מדינה"
+  },
+  {
+    "Wortliste": "der Oberarm, -e",
+    "English": "upper arm",
+    "Meaning": "Die Impfung wird in den Oberarm gespritzt.",
+    "Hebrew": "זרוע עליונה"
+  },
+  {
+    "Wortliste": "die Qualle, -n",
+    "English": "jellyfish",
+    "Meaning": "Im Meer sollte man vor Quallen aufpassen.",
+    "Hebrew": "מדוזה"
+  },
+  {
+    "Wortliste": "das Rauchen (Sg.)",
+    "English": "smoking",
+    "Meaning": "Rauchen schadet der Gesundheit.",
+    "Hebrew": "עישון"
+  },
+  {
+    "Wortliste": "der Schwarm, \"-e",
+    "English": "swarm; shoal",
+    "Meaning": "Ein Schwarm Fische schwamm am Boot vorbei.",
+    "Hebrew": "להקה / נחיל / אהוב/ה"
+  },
+  {
+    "Wortliste": "der/die Schwimmer/in, -/-nen",
+    "English": "swimmer",
+    "Meaning": "Gute Schwimmer dürfen im tiefen Becken schwimmen.",
+    "Hebrew": "שחיין/ית"
+  },
+  {
+    "Wortliste": "sowieso",
+    "English": "anyway",
+    "Meaning": "Ich muss sowieso in die Stadt, ich nehme dein Paket mit.",
+    "Hebrew": "ממילא / בלאו הכי"
+  },
+  {
+    "Wortliste": "das Sportpensum, -pensen",
+    "English": "amount of exercise",
+    "Meaning": "Sein tägliches Sportpensum ist beeindruckend.",
+    "Hebrew": "מכסת פעילות גופנית"
+  },
+  {
+    "Wortliste": "vorsprechen, sprach vor, hat vorgesprochen (vor Gericht vorsprechen)",
+    "English": "to appear; to speak in front of (court)",
+    "Meaning": "Der Zeuge musste vor Gericht vorsprechen.",
+    "Hebrew": "להתייצב / לדבר לפני"
+  },
+  {
+    "Wortliste": "wiedertreffen, traf wieder, hat wiedergetroffen",
+    "English": "to meet again",
+    "Meaning": "Nach vielen Jahren trafen sie sich wieder.",
+    "Hebrew": "להיפגש שוב"
+  },
+  {
+    "Wortliste": "zustande kommen, kam zustande, ist zustande gekommen",
+    "English": "to come about; to materialize",
+    "Meaning": "Der Vertrag kam nach langen Verhandlungen zustande.",
+    "Hebrew": "להתממש / להגיע לידי"
+  }
+]
